@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "21st Century English Literature Overview"
             }
+          },
+          {
+            "id": "45b783250b1e9f28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,6 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,14 +167,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd9ebc5397075e4d",
+  "active": "45b783250b1e9f28",
   "lastOpenFiles": [
     "HOME PAGE.md",
-    "School/Biology Notes/Bio 2",
-    "School/Biology Notes/Bio 1",
-    "School/Biology Notes",
-    "School/English & Literature Notes/21st Century English Literature Overview.md",
-    "School/Biology Notes/Biology Overview.md",
     "Scripture Study/D&C/D&C Overview.md",
     "Scripture Study/D&C/D&C 77-80.md",
     "Scripture Study/D&C/D&C 76.md",
@@ -177,17 +188,23 @@
     "School/Pre-Cal Notes/Functions",
     "School/Gen Math/Gen Math Overview.md",
     "School/Gen Chem Notes/Gen Chem Overview.md",
+    "School/English & Literature Notes/21st Century English Literature Overview.md",
+    "School/Earth-Sci Notes/Formation of the Universe and Solar System.md",
     "School/Earth-Sci Notes/Earth-Sci Overview.md",
-    "School/Earth-Sci Notes/Earth's Origin.md",
+    "School/Earth-Sci Notes/Earth — Characteristics and Subsystems.md",
+    "School/Biology Notes/Biology Overview.md",
     "School/Pre-Cal Notes",
     "School/Gen Math",
-    "h/Scripture Study/D&C/D&C Overview.md",
-    "h/Scripture Study/D&C/D&C 77-80.md",
-    "h/Scripture Study/D&C/D&C 76.md",
-    "h/Scripture Study/D&C/D&C 71-75.md",
-    "h/Scripture Study/BoM/BoM Overview.md",
-    "h/Scripture Study/Bible/Bible Overview.md",
-    "h/School/Pre-Cal Notes/Trigonometry.md",
+    "School/Gen Chem Notes",
+    "School/English & Literature Notes",
+    "School/Earth-Sci Notes",
+    "srx/Scripture Study/D&C/D&C Overview.md",
+    "srx/Scripture Study/D&C/D&C 77-80.md",
+    "srx/Scripture Study/D&C/D&C 76.md",
+    "srx/Scripture Study/D&C/D&C 71-75.md",
+    "srx/Scripture Study/BoM/BoM Overview.md",
+    "srx/Scripture Study/Bible/Bible Overview.md",
+    "srx/School/Pre-Cal Notes/Trigonometry.md",
     "t/res/Quasar.jpg"
   ]
 }
