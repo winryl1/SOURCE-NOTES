@@ -27,7 +27,9 @@ $$
 
 ---
 > [!tip] 
-> If a domain has **MORE THAN ONE** range, it is **NOT a function.** But if a **range has multiple domains, it is a function.**
+> If a domain has **MORE THAN ONE** range, it is **NOT a function.** But if a **range has multiple domains, it is a function.** 
+> 
+> If one input cannot be matched with an output, it is **NOT a function.**
 
 **EXAMPLE (1.2)**
 $$

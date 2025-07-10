@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Earth-Sci Notes/Earth-Sci Overview.md",
+                "file": "School/Pre-Cal Notes/Functions/Composite Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Earth-Sci Overview"
+              "title": "Composite Functions"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "right": {
     "id": "92796dc1489da261",
@@ -171,6 +172,10 @@
   },
   "active": "abeb5f3df58c09d7",
   "lastOpenFiles": [
+    "School/Pre-Cal Notes/Functions/Functions & Relations.md",
+    "School/Earth-Sci Notes/Earth-Sci Overview.md",
+    "School/Earth-Sci Notes/The Universe — Origin Theories.md",
+    "Untitled.md",
     "src/Scripture Study/BoM/BoM Overview.md",
     "src/Scripture Study/Bible/Bible Overview.md",
     "src/Scripture Study/D&C/D&C 76.md",
@@ -201,11 +206,7 @@
     "src/School/Gen Chem Notes",
     "src/HOME PAGE.md",
     "School/Earth-Sci Notes/Earth — Characteristics and Subsystems.md",
-    "School/Earth-Sci Notes/Earth-Sci Overview.md",
-    "School/Earth-Sci Notes/Formation of the Universe and Solar System.md",
     "HOME PAGE.md",
-    "School/Pre-Cal Notes/Functions/Composite Functions.md",
-    "School/Pre-Cal Notes/Functions/Functions & Relations.md",
-    "School/Pre-Cal Notes/Functions/Piecewise Functions.md"
+    "School/Pre-Cal Notes/Functions/Composite Functions.md"
   ]
 }
