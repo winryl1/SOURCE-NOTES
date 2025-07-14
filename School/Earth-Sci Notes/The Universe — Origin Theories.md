@@ -7,7 +7,7 @@ The Universe is composed of:
 - 24% dark matter (has gravity but does not emit light; **responsible for holding everything together**)
 - 71.6 dark energy (source of anti-gravity; **responsible for the expansion of the universe**)
 
-The most abundant elements of the universe are **He, H, Li**
+- [u] The most abundant elements of the universe are **He, H, Li**
 
 - [i] For decades, scientists have come up of theories of how the universe came to be. Here are some of those theories: 
 # Theories of the origin 
