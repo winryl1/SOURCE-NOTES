@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Earth-Sci Notes/The Universe — Origin Theories.md",
+                "file": "HOME PAGE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Universe — Origin Theories"
+              "title": "HOME PAGE"
             }
           }
         ],
@@ -113,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "School/Earth-Sci Notes/The Universe — Origin Theories.md",
+            "file": "HOME PAGE.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -167,11 +167,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45b783250b1e9f28",
+  "active": "4b82844a205b9623",
   "lastOpenFiles": [
-    "School/Earth-Sci Notes/Earth-Sci Overview.md",
-    "School/Earth-Sci Notes/The Universe — Origin Theories.md",
+    "School/Gen Math/Gen Math Overview.md",
     "HOME PAGE.md",
+    "School/Pre-Cal Notes/Pre-Cal Overview.md",
+    "School/Earth-Sci Notes/The Universe — Origin Theories.md",
+    "School/Earth-Sci Notes/Earth-Sci Overview.md",
     "Scripture Study/D&C/D&C 76.md",
     "//Scripture Study/D&C/D&C 76.md",
     "//Scripture Study/D&C",
@@ -193,12 +195,10 @@
     "Scripture Study/BoM",
     "Scripture Study/Bible",
     "Scripture Study",
-    "School/Pre-Cal Notes/Functions/Piecewise Functions.md",
-    "School/Pre-Cal Notes/Functions/Functions & Relations.md",
-    "School/Pre-Cal Notes/Functions/Composite Functions.md",
+    "School/Gen Math/Functions/Piecewise Functions.md",
+    "School/Gen Math/Functions/Functions & Relations.md",
+    "School/Gen Math/Functions/Composite Functions.md",
     "School/Pre-Cal Notes/Trigonometry.md",
-    "School/Pre-Cal Notes/Pre-Cal Overview.md",
-    "School/Gen Math/Gen Math Overview.md",
     "School/Gen Chem Notes/Gen Chem Overview.md",
     "School/English & Literature Notes/21st Century English Literature Overview.md",
     "School/Earth-Sci Notes/Formation of the Universe and Solar System.md",
