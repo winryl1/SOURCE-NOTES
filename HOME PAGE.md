@@ -1,10 +1,12 @@
 # School 
-- [[Pre-Cal Overview]]
-- [[Gen Chem Overview]]
+## Core
 - [[Gen Math Overview]]
 - [[Earth-Sci Overview]]
 - [[21st Century English Literature Overview]]
-- [[Biology Overview]]
+## Specialized
+- [[Pre-Cal Overview]]
+- [[Gen Chem Overview]]
+- [[Biology Overview]] 
 # Scripture Study
 - [[Bible Overview]]
 - [[BoM Overview]]
