@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "right": {
     "id": "92796dc1489da261",
@@ -183,15 +182,16 @@
   },
   "active": "1fb1d66d14594f8b",
   "lastOpenFiles": [
-    "Scripture Study/D&C/D&C Overview.md",
     "HOME PAGE.md",
+    "School/Gen Math/Gen Math Overview.md",
+    "School/Pre-Cal Notes/Pre-Cal Overview.md",
+    "School/Pre-Cal Notes/Functions/Functions & Relations.md",
+    "Scripture Study/D&C/D&C 76.md",
+    "Scripture Study/D&C/D&C Overview.md",
     "School/Earth-Sci Notes/The Universe — Origin Theories.md",
     "School/Earth-Sci Notes/Earth-Sci Overview.md",
-    "School/Pre-Cal Notes/Pre-Cal Overview.md",
-    "School/Gen Math/Gen Math Overview.md",
     "School/Pre-Cal Notes/Functions/Composite Functions.md",
     "Untitled.md",
-    "School/Pre-Cal Notes/Functions/Functions & Relations.md",
     "src/Scripture Study/BoM/BoM Overview.md",
     "src/Scripture Study/Bible/Bible Overview.md",
     "src/Scripture Study/D&C/D&C 76.md",
@@ -213,7 +213,6 @@
     "src/School/Earth-Sci Notes/Earth-Sci Overview.md",
     "src/School/Earth-Sci Notes/Formation of the Universe and Solar System.md",
     "src/School/Earth-Sci Notes/Earth — Characteristics and Subsystems.md",
-    "src/School/Gen Chem Notes/Gen Chem Overview.md",
     "src/School/Gen Math",
     "src/School/English & Literature Notes",
     "src/School/Pre-Cal Notes",
