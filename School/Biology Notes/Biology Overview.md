@@ -1,5 +1,5 @@
 # Bio 1
-- [[Cell]]
+- [[Cell Theory]]
 - 
 
 # Bio 2
