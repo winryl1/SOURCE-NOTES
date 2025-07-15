@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Earth-Sci Notes/Stars.md",
+                "file": "School/Earth-Sci Notes/The Universe — Origin Theories.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stars"
+              "title": "The Universe — Origin Theories"
             }
           }
         ],
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "right": {
     "id": "92796dc1489da261",
@@ -182,10 +183,10 @@
   },
   "active": "1fb1d66d14594f8b",
   "lastOpenFiles": [
-    "School/Earth-Sci Notes/The Universe — Origin Theories.md",
+    "School/Earth-Sci Notes/Earth-Sci Overview.md",
     "School/Earth-Sci Notes/Star Life Cycle.canvas",
     "School/Earth-Sci Notes/Stars.md",
-    "School/Earth-Sci Notes/Earth-Sci Overview.md",
+    "School/Earth-Sci Notes/The Universe — Origin Theories.md",
     "HOME PAGE.md",
     "School/English & Literature Notes/21st Century English Literature Overview.md",
     "Literature.md",

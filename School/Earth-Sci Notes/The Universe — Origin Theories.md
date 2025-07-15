@@ -17,9 +17,7 @@ The Universe is composed of:
 > This theory states that the universe was created within 6 days by a Supreme Being (see Genesis)
 
 ## The Big Bang Theory (1927)
-
-> [!summary] 
-> It is **one of the most accepted theories** of the origin of the universe. This theory states that the universe **began 13.8 bya** from an extremely hot and dense **singularity** that suddenly caused the rapid expansion of space. This resulted in the creation of **space, time, matter, and energy.**
+It is **one of the most accepted theories** of the origin of the universe. This theory states that the universe **began 13.8 bya** from an extremely hot and dense **singularity** that suddenly caused the rapid expansion of space. This resulted in the creation of **space, time, matter, and energy.**
 
 > [!example] Evidences
 > 1. **Cosmic Microwave Background** 
@@ -32,9 +30,12 @@ The Universe is composed of:
 > 	- **Cosmological Redshift:** caused by the expansion of the universe
 > 3. **Abundance of light elements**: He, H, Li, Be; confirms the nucleosynthesis of the big bang 
 
+^CMB
+
 ## Steady State Theory 
-> [!summary] 
-> This theory states that the universe has **always existed (eternal)** and looks the same on a large scale. As the universe expands, new matter is created. It is believed that the **universe is unchanging** in time and **uniform in space.**
+This theory states that the universe has **always existed (eternal)** and looks the same on a large scale. As the universe expands, new matter is created. It is believed that the **universe is unchanging** in time and **uniform in space.**
+
+This theory has been **DISCREDITED** after the discovery of [[#^CMB]]. 
 
 ## Oscillating/Cyclic Universe Theory 
 > [!summary] 
@@ -44,3 +45,4 @@ The Universe is composed of:
 > [!summary]
 > This theory is a refinement of the [[#The Big Bang Theory]]; it proposed that the universe **expanded exponentially fast during the first fraction of a second** after the **Big Bang.** This offers solution to unresolved problems of the [[#The Big Bang Theory]]. 
 
+# 
