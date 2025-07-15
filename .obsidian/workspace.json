@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scripture Study/D&C/D&C 76.md",
+                "file": "Literature.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "D&C 76"
+              "title": "Literature"
             }
           }
         ],
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "right": {
     "id": "92796dc1489da261",
@@ -182,14 +183,23 @@
   },
   "active": "1fb1d66d14594f8b",
   "lastOpenFiles": [
-    "HOME PAGE.md",
-    "School/Gen Math/Gen Math Overview.md",
-    "School/Pre-Cal Notes/Pre-Cal Overview.md",
-    "School/Pre-Cal Notes/Functions/Functions & Relations.md",
-    "Scripture Study/D&C/D&C 76.md",
-    "Scripture Study/D&C/D&C Overview.md",
+    "School/English & Literature Notes/21st Century English Literature Overview.md",
+    "Literature.md",
     "School/Earth-Sci Notes/The Universe — Origin Theories.md",
     "School/Earth-Sci Notes/Earth-Sci Overview.md",
+    "HOME PAGE.md",
+    "School/Gen Math/Gen Math Overview.md",
+    "School/Oral Comm/Oral Comm Overview.md",
+    "School/Oral Comm",
+    "School/Gen Math/Functions/Composite Functions.md",
+    "Scripture Study/D&C/D&C 76.md",
+    "School/Pre-Cal Notes/Conic Sections.md",
+    "School/Gen Math/Functions/Piecewise Functions.md",
+    "School/Gen Math/Functions/Functions & Relations.md",
+    "School/Gen Math/Functions",
+    "School/Pre-Cal Notes/Pre-Cal Overview.md",
+    "School/Pre-Cal Notes/Functions/Functions & Relations.md",
+    "Scripture Study/D&C/D&C Overview.md",
     "School/Pre-Cal Notes/Functions/Composite Functions.md",
     "Untitled.md",
     "src/Scripture Study/BoM/BoM Overview.md",
@@ -205,18 +215,9 @@
     "src/School/Pre-Cal Notes/Functions/Piecewise Functions.md",
     "src/School/Pre-Cal Notes/Functions/Functions & Relations.md",
     "src/School/Pre-Cal Notes/Functions/Composite Functions.md",
-    "src/School/Gen Math/Gen Math Overview.md",
-    "src/School/English & Literature Notes/21st Century English Literature Overview.md",
-    "src/School/Pre-Cal Notes/Pre-Cal Overview.md",
-    "src/School/Pre-Cal Notes/Trigonometry.md",
     "src/School/Pre-Cal Notes/Functions",
-    "src/School/Earth-Sci Notes/Earth-Sci Overview.md",
-    "src/School/Earth-Sci Notes/Formation of the Universe and Solar System.md",
-    "src/School/Earth-Sci Notes/Earth — Characteristics and Subsystems.md",
     "src/School/Gen Math",
     "src/School/English & Literature Notes",
-    "src/School/Pre-Cal Notes",
-    "src/School/Earth-Sci Notes",
-    "src/School/Gen Chem Notes"
+    "src/School/Pre-Cal Notes"
   ]
 }

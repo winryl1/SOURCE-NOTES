@@ -11,27 +11,33 @@ The Universe is composed of:
 
 - [i] For decades, scientists have come up of theories of how the universe came to be. Here are some of those theories: 
 # Theories of the origin 
-## Biblical Creation
+## Biblical Creatione
 
 > [!summary] 
 > This theory states that the universe was created within 6 days by a Supreme Being (see Genesis)
 
-## The Big Bang Theory
+## The Big Bang Theory (1932)
 
 > [!summary] 
-> It is **one of the most accepted theories** of the origin of the universe. This theory states that the universe **began 13.8 bya** from an extremely hot and dense **singularity** that suddenly caused the rapid expansion of space. This resulted in the creation of **space, time, matter, and energy. This expansion continues today,** which is why galaxies move apart from each other. 
+> It is **one of the most accepted theories** of the origin of the universe. This theory states that the universe **began 13.8 bya** from an extremely hot and dense **singularity** that suddenly caused the rapid expansion of space. This resulted in the creation of **space, time, matter, and energy.**
 
 > [!example] Evidences
-> 1. **Redshift:** the expansion of the universe causes wavelengths of lights to "stretch", **shifting their colors to red**
-> 2. Cosmic Background Radiation (CMB) — scientist think that this was produced during the big bang
-> 3. Abundance of light elements — He, H, Li, Be; confirms the nucleosynthesis of the big bang 
+> 1. **Cosmic Microwave Background** 
+> 	- Discovered in **1965** when scientist detected an omnipresent "noise" with a temp of 2.725K that persisted no matter where they pointed their antenna
+> 	- Due to the redshifting of the microwave radiation caused by the expansion of the universe (which also causes cooling), a uniform microwave signal is coming from all directions in space.  
+> 2. **Redshift**
+> 	- It is when light from distant objects appeared "shifted" towards the longer (red) wavelengths
+> 	- **Doppler Redshift:** caused by an object moving away
+> 	- **Gravitational Redshift:** occurs when light escapes a strong gravitational field 
+> 	- **Cosmological Redshift:** caused by the expansion of the universe
+> 3. **Abundance of light elements**: He, H, Li, Be; confirms the nucleosynthesis of the big bang 
 
 ## Steady State Theory 
 > [!summary] 
 > This theory states that the universe has **always existed (eternal)** and looks the same on a large scale. As the universe expands, new matter is created. It is believed that the **universe is unchanging** in time and **uniform in space.**
 
 ## Oscillating/Cyclic Universe Theory 
-> [!Definition] 
+> [!summary] 
 > This theory states that the universe undergoes **endless cycles** of **Big Bangs** and **Big Crunches**  
 
 ## Inflation Theory 
