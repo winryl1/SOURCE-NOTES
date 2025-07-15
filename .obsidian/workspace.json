@@ -21,17 +21,14 @@
             "id": "1fb1d66d14594f8b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "School/Earth-Sci Notes/Star Life Cycle.canvas",
-                "viewState": {
-                  "x": 916.0178443946406,
-                  "y": 204.60313977704496,
-                  "zoom": -1.0835888863481833
-                }
+                "file": "School/Earth-Sci Notes/Stars.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Star Life Cycle"
+              "icon": "lucide-file",
+              "title": "Stars"
             }
           }
         ],
@@ -185,10 +182,10 @@
   },
   "active": "1fb1d66d14594f8b",
   "lastOpenFiles": [
-    "School/Earth-Sci Notes/Stars.md",
-    "School/Earth-Sci Notes/Star Life Cycle.canvas",
-    "School/Earth-Sci Notes/Earth-Sci Overview.md",
     "School/Earth-Sci Notes/The Universe — Origin Theories.md",
+    "School/Earth-Sci Notes/Star Life Cycle.canvas",
+    "School/Earth-Sci Notes/Stars.md",
+    "School/Earth-Sci Notes/Earth-Sci Overview.md",
     "HOME PAGE.md",
     "School/English & Literature Notes/21st Century English Literature Overview.md",
     "Literature.md",

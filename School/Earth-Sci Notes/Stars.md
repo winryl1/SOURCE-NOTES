@@ -7,8 +7,7 @@
 4. *Brightness* - Described in terms of luminosity and magnitude; depends on composition and distance 
 5. *Surface Temp* - 2500 to 50,000 K; helps in determining the color of the star 
 
-# Sun Characteristics
----
+**Sun Characteristics**
 
 |   Radius    |         695,500 km         |
 | :---------: | :------------------------: |
@@ -17,8 +16,8 @@
 | Temperature |     5,778K/27m F/15m C     |
 
 # Life Cycle of Stars 
-1. Stars orginate from a Stellar Nebula. Gravity pulls hydrogen, and spins faster and gets hotter, becoming a protostar. 
-2. When the Protostar reaches a temperature of 15m C, nuclear fusion occurs and turns hydrogen --> Helium. 
+1. Stars originate from a Stellar Nebula. Gravity pulls hydrogen, and spins faster and gets hotter, becoming a protostar. 
+2. When the Protopstar reaches a temperature of 15m C, nuclear fusion occurs and turns hydrogen --> Helium. 
 3. This fusion releases tremendous amounts of energy that pushes against gravity. This is called the **main sequence,** where stars spend the majority of their lives. 
 4. When hydrogen depletes, the core compresses while the outer shell expands creating a red giant/supergiant. In this phase, helium fuses into heavier elements.
 	- Low/Medium-mass stars: turn into Red Giant 
