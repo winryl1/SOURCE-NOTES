@@ -1,4 +1,5 @@
 - [[The Universe — Origin Theories]]
+- [[Stars]]
 - [[Earth — Characteristics and Subsystems]]
 - [[Minerals]]
 - [[Rocks]]

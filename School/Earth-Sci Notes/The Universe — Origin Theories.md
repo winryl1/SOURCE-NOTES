@@ -11,12 +11,12 @@ The Universe is composed of:
 
 - [i] For decades, scientists have come up of theories of how the universe came to be. Here are some of those theories: 
 # Theories of the origin 
-## Biblical Creatione
+## Biblical Creationist
 
 > [!summary] 
 > This theory states that the universe was created within 6 days by a Supreme Being (see Genesis)
 
-## The Big Bang Theory (1932)
+## The Big Bang Theory (1927)
 
 > [!summary] 
 > It is **one of the most accepted theories** of the origin of the universe. This theory states that the universe **began 13.8 bya** from an extremely hot and dense **singularity** that suddenly caused the rapid expansion of space. This resulted in the creation of **space, time, matter, and energy.**

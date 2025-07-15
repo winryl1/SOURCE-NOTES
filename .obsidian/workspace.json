@@ -21,14 +21,17 @@
             "id": "1fb1d66d14594f8b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Literature.md",
-                "mode": "source",
-                "source": false
+                "file": "School/Earth-Sci Notes/Star Life Cycle.canvas",
+                "viewState": {
+                  "x": 916.0178443946406,
+                  "y": 204.60313977704496,
+                  "zoom": -1.0835888863481833
+                }
               },
-              "icon": "lucide-file",
-              "title": "Literature"
+              "icon": "lucide-layout-dashboard",
+              "title": "Star Life Cycle"
             }
           }
         ],
@@ -89,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "right": {
     "id": "92796dc1489da261",
@@ -183,11 +185,15 @@
   },
   "active": "1fb1d66d14594f8b",
   "lastOpenFiles": [
+    "School/Earth-Sci Notes/Stars.md",
+    "School/Earth-Sci Notes/Star Life Cycle.canvas",
+    "School/Earth-Sci Notes/Earth-Sci Overview.md",
+    "School/Earth-Sci Notes/The Universe — Origin Theories.md",
+    "HOME PAGE.md",
     "School/English & Literature Notes/21st Century English Literature Overview.md",
     "Literature.md",
-    "School/Earth-Sci Notes/The Universe — Origin Theories.md",
-    "School/Earth-Sci Notes/Earth-Sci Overview.md",
-    "HOME PAGE.md",
+    "School/English & Literature Notes/Literature.md",
+    "School/Biology Notes/Cell.md",
     "School/Gen Math/Gen Math Overview.md",
     "School/Oral Comm/Oral Comm Overview.md",
     "School/Oral Comm",
@@ -207,14 +213,10 @@
     "src/Scripture Study/D&C/D&C 76.md",
     "src/Scripture Study/D&C/D&C Overview.md",
     "src/Scripture Study/D&C/D&C 77-80.md",
-    "src/Scripture Study/D&C/D&C 71-75.md",
     "src/Scripture Study/Bible",
     "src/Scripture Study/BoM",
     "src/Scripture Study/D&C",
     "src/Scripture Study",
-    "src/School/Pre-Cal Notes/Functions/Piecewise Functions.md",
-    "src/School/Pre-Cal Notes/Functions/Functions & Relations.md",
-    "src/School/Pre-Cal Notes/Functions/Composite Functions.md",
     "src/School/Pre-Cal Notes/Functions",
     "src/School/Gen Math",
     "src/School/English & Literature Notes",
