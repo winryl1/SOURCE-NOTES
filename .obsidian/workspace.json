@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Biology Notes/Cell Theory.md",
+                "file": "School/Biology Notes/Biology Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cell Theory"
+              "title": "Biology Overview"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "right": {
     "id": "92796dc1489da261",
@@ -173,9 +172,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "HOME PAGE.md",
+    "School/Biology Notes/Cell Theory.md",
     "School/Earth-Sci Notes/The Universe — Origin Theories.md",
     "Untitled.md",
-    "HOME PAGE.md",
     "School/English & Literature Notes/Literature.md",
     "School/Earth-Sci Notes/Big Bang Phases.canvas",
     "School/Earth-Sci Notes/Earth-Sci Overview.md",
@@ -185,7 +185,6 @@
     "School/Earth-Sci Notes/Stars.md",
     "School/English & Literature Notes/21st Century English Literature Overview.md",
     "Literature.md",
-    "School/Biology Notes/Cell Theory.md",
     "School/Oral Comm/Oral Comm Overview.md",
     "School/Oral Comm",
     "School/Gen Math/Functions/Composite Functions.md",

@@ -1,13 +1,16 @@
 # School 
-## Core
+## Core Subjects
 - [[Gen Math Overview]]
 - [[Earth-Sci Overview]]
 - [[21st Century English Literature Overview]]
 - [[Oral Comm Overview]] 
-## Specialized
+## Specialized Subjects
 - [[Pre-Cal Overview]]
 - [[Gen Chem Overview]]
 - [[Biology Overview]] 
+## Applied Subjects
+- [[EASP Overview]]
+
 # Scripture Study
 - [[Bible Overview]]
 - [[BoM Overview]]
