@@ -1,7 +1,6 @@
 - [[The Universe — Origin Theories]]
 - [[Stars]]
 - [[Earth — Characteristics and Subsystems]]
-- [[Minerals]]
-- [[Rocks]]
-- [[Earth's internal heat]]
-- [[Relative and Absolute Dating]]
+- [[Big Bang Phases.canvas|Big Bang Phases]]
+- [[Star Life Cycle.canvas|Star Life Cycle]]
+- 

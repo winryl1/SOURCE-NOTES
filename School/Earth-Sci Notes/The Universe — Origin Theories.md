@@ -32,6 +32,9 @@ It is **one of the most accepted theories** of the origin of the universe. This 
 
 ^CMB
 
+> [!seealso] 
+> [[Big Bang Phases.canvas|Big Bang Phases]] 
+
 ## Steady State Theory 
 This theory states that the universe has **always existed (eternal)** and looks the same on a large scale. As the universe expands, new matter is created. It is believed that the **universe is unchanging** in time and **uniform in space.**
 
