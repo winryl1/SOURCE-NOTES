@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "School/1. Core Subjects/Earth-Sci Notes/Earth-Sci Overview.md",
-                "mode": "source",
-                "source": false
+                "file": "School/1. Core Subjects/Earth-Sci Notes/Big Bang Phases.canvas",
+                "viewState": {
+                  "x": 150.31307241975156,
+                  "y": 41.36818309683544,
+                  "zoom": -0.8597715461369174
+                }
               },
-              "icon": "lucide-file",
-              "title": "Earth-Sci Overview"
+              "icon": "lucide-layout-dashboard",
+              "title": "Big Bang Phases"
             }
           }
         ]
@@ -173,6 +176,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "School/1. Core Subjects/Earth-Sci Notes/Earth — Characteristics and Subsystems.md",
+    "School/1. Core Subjects/Earth-Sci Notes/Earth-Sci Overview.md",
     "School/1. Core Subjects/Earth-Sci Notes/Big Bang Phases.canvas",
     "School/1. Core Subjects/Earth-Sci Notes/Star Life Cycle.canvas",
     "School/1. Core Subjects/Earth-Sci Notes/Stars.md",
@@ -188,7 +193,6 @@
     "School/2. Specialized Subjects/Biology Notes/Biology Overview.md",
     "School/1. Core Subjects/Earth-Sci Notes/The Universe — Origin Theories.md",
     "Untitled.md",
-    "School/1. Core Subjects/Earth-Sci Notes/Earth-Sci Overview.md",
     "School/1. Core Subjects/Gen Math/Gen Math Overview.md",
     "Literature.md",
     "School/1. Core Subjects/Oral Comm/Oral Comm Overview.md",

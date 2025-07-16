@@ -3,4 +3,3 @@
 - [[Earth — Characteristics and Subsystems]]
 - [[Big Bang Phases.canvas|Big Bang Phases]]
 - [[Star Life Cycle.canvas|Star Life Cycle]]
-- 
