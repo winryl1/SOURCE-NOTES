@@ -10,18 +10,17 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "School/1. Core Subjects/Earth-Sci Notes/Big Bang Phases.canvas",
-                "viewState": {
-                  "x": 709.415338306156,
-                  "y": 219.25196008274747,
-                  "zoom": -3.7639239815364616
-                }
+                "file": "HOME PAGE.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Big Bang Phases"
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "HOME PAGE"
             }
           }
         ]
@@ -101,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "School/1. Core Subjects/Earth-Sci Notes/Big Bang Phases.canvas",
+            "file": "HOME PAGE.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -158,17 +157,28 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "School/1. Core Subjects/Earth-Sci Notes/Earth-Sci Overview.md",
-    "HOME PAGE.md",
+    "Solar System — Origin.md",
+    "School/1. Core Subjects/Earth-Sci Notes/Solar System Phase.canvas",
+    "//Solar System — Origin.md",
+    "//School/2. Specialized Subjects/Biology Notes/Biology Overview.md",
+    "//School/2. Specialized Subjects/Biology Notes",
+    "//School/2. Specialized Subjects",
+    "//School/1. Core Subjects/Earth-Sci Notes/The Universe — Origin Theories.md",
+    "//School/1. Core Subjects/Earth-Sci Notes/Solar System Phase.canvas",
+    "//School/1. Core Subjects/Earth-Sci Notes/Big Bang Phases.canvas",
+    "//School/1. Core Subjects/Earth-Sci Notes",
+    "//School/1. Core Subjects",
+    "//School",
     "//HOME PAGE.md",
-    "School/1. Core Subjects/Earth-Sci Notes/The Universe — Origin Theories 1.md",
+    "HOME PAGE.md",
+    "School/1. Core Subjects/Earth-Sci Notes/Earth-Sci Overview.md",
     "School/1. Core Subjects/Earth-Sci Notes/Big Bang Phases.canvas",
+    "School/1. Core Subjects/Earth-Sci Notes/The Universe — Origin Theories 1.md",
     "School/1. Core Subjects/Earth-Sci Notes/Earth — Characteristics and Subsystems.md",
     "School/1. Core Subjects/Earth-Sci Notes/The Universe — Origin Theories.md",
     "School/1. Core Subjects/English & Literature Notes/Literature.md",
     "School/1. Core Subjects/English & Literature Notes/21st Century Literature Overview.md",
     "School/2. Specialized Subjects/Biology Notes/Biology Overview.md",
-    "//School/2. Specialized Subjects/Biology Notes/Biology Overview.md",
     "School/3. Applied Subjects/EASP Notes/EASP Overview.md",
     "School/2. Specialized Subjects/Pre-Cal Notes/Trigonometry.md",
     "School/2. Specialized Subjects/Pre-Cal Notes/Pre-Cal Overview.md",
@@ -183,27 +193,16 @@
     "School/1. Core Subjects/Earth-Sci Notes/Stars.md",
     "School/1. Core Subjects/Earth-Sci Notes/Star Life Cycle.canvas",
     "//School/3. Applied Subjects/EASP Notes/EASP Overview.md",
-    "//School/2. Specialized Subjects/Pre-Cal Notes/Trigonometry.md",
-    "//School/2. Specialized Subjects/Pre-Cal Notes/Pre-Cal Overview.md",
-    "//School/2. Specialized Subjects/Pre-Cal Notes/Conic Sections.md",
     "//School/1. Core Subjects/Earth-Sci Notes/Star Life Cycle.canvas",
-    "//School/1. Core Subjects/Earth-Sci Notes/Big Bang Phases.canvas",
     "School/3. Applied Subjects/EASP Notes",
     "School/3. Applied Subjects",
     "School/2. Specialized Subjects/Pre-Cal Notes",
     "School/2. Specialized Subjects/Gen Chem Notes",
     "School/2. Specialized Subjects/Biology Notes",
-    "School/2. Specialized Subjects",
-    "School/1. Core Subjects/Gen Math/Functions",
-    "School/1. Core Subjects/Oral Comm",
-    "School/1. Core Subjects/Gen Math",
-    "School/1. Core Subjects/English & Literature Notes",
     "School/Earth-Sci Notes/Star Life Cycle.canvas",
     "School/Earth-Sci Notes/Big Bang Phases.canvas",
     "g/School/Earth-Sci Notes/Star Life Cycle.canvas",
     "g/School/Earth-Sci Notes/Big Bang Phases.canvas",
-    "//School/Earth-Sci Notes/Star Life Cycle.canvas",
-    "//School/Earth-Sci Notes/Big Bang Phases.canvas",
     "t/res/Quasar.jpg"
   ]
 }
