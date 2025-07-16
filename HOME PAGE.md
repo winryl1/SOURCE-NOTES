@@ -10,7 +10,6 @@
 - [[Biology Overview]] 
 ## Applied Subjects
 - [[EASP Overview]]
-
 # Scripture Study
 - [[Bible Overview]]
 - [[BoM Overview]]
