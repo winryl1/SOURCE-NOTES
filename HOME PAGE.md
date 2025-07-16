@@ -2,7 +2,7 @@
 ## Core Subjects
 - [[Gen Math Overview]]
 - [[Earth-Sci Overview]]
-- [[21st Century English Literature Overview]]
+- [[21st Century Literature Overview]]
 - [[Oral Comm Overview]] 
 ## Specialized Subjects
 - [[Pre-Cal Overview]]
