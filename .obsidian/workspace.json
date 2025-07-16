@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "School/1. Core Subjects/Earth-Sci Notes/Big Bang Phases.canvas",
-                "viewState": {
-                  "x": 385.3878321637383,
-                  "y": 316.7286278504942,
-                  "zoom": -1.980298352655045
-                }
+                "file": "HOME PAGE.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Big Bang Phases"
+              "icon": "lucide-file",
+              "title": "HOME PAGE"
             }
           }
         ]
@@ -176,22 +173,25 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "School/1. Core Subjects/Earth-Sci Notes/Earth — Characteristics and Subsystems.md",
-    "School/1. Core Subjects/Earth-Sci Notes/Earth-Sci Overview.md",
+    "School/1. Core Subjects/Earth-Sci Notes/Solar System Phase.canvas",
+    "Solar System — Origin.md",
+    "School/1. Core Subjects/Earth-Sci Notes/The Universe — Origin Theories.md",
     "School/1. Core Subjects/Earth-Sci Notes/Big Bang Phases.canvas",
-    "School/1. Core Subjects/Earth-Sci Notes/Star Life Cycle.canvas",
+    "School/1. Core Subjects/Earth-Sci Notes/Earth-Sci Overview.md",
+    "HOME PAGE.md",
     "School/1. Core Subjects/Earth-Sci Notes/Stars.md",
     "School/2. Specialized Subjects/Biology Notes/Cell Theory.md",
+    "School/2. Specialized Subjects/Biology Notes/Biology Overview.md",
+    "Big Bang Phases.md",
+    "School/1. Core Subjects/Earth-Sci Notes/Earth — Characteristics and Subsystems.md",
+    "School/1. Core Subjects/Earth-Sci Notes/Star Life Cycle.canvas",
     "School/1. Core Subjects/English & Literature Notes/Literature.md",
     "School/1. Core Subjects/English & Literature Notes/21st Century Literature Overview.md",
-    "HOME PAGE.md",
     "School/3. Applied Subjects/EASP Notes/EASP Overview.md",
     "School/3. Applied Subjects/EASP Notes",
     "School/2. Specialized Subjects",
     "School/3. Applied Subjects",
     "School/1. Core Subjects",
-    "School/2. Specialized Subjects/Biology Notes/Biology Overview.md",
-    "School/1. Core Subjects/Earth-Sci Notes/The Universe — Origin Theories.md",
     "Untitled.md",
     "School/1. Core Subjects/Gen Math/Gen Math Overview.md",
     "Literature.md",
@@ -207,9 +207,6 @@
     "School/Pre-Cal Notes/Functions/Functions & Relations.md",
     "Scripture Study/D&C/D&C Overview.md",
     "School/Pre-Cal Notes/Functions/Composite Functions.md",
-    "src/Scripture Study/BoM/BoM Overview.md",
-    "src/Scripture Study/Bible/Bible Overview.md",
-    "src/Scripture Study/D&C/D&C 76.md",
     "src/Scripture Study/Bible",
     "src/Scripture Study/BoM",
     "src/Scripture Study/D&C",

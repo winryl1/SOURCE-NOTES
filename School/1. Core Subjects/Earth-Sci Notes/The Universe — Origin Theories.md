@@ -46,7 +46,7 @@ This theory has been **DISCREDITED** after the discovery of [[#^CMB]].
 
 ## Inflation Theory 
 > [!summary]
-> This theory is a refinement of the [[#The Big Bang Theory]]; it proposed that the universe **expanded exponentially fast during the first fraction of a second** after the **Big Bang.** This offers solution to unresolved problems of the [[#The Big Bang Theory]]. 
+> This theory is a refinement of the [[#The Big Bang Theory]]; it proposed that the universe **expanded exponentially fast during the first fraction of a second** after the **Big Bang** (see [[Big Bang Phases.canvas|Big Bang Phases]]). This offers solution to unresolved problems of the [[#The Big Bang Theory]]. 
 
 ## Heliocentric/Geocentric Theory 
 
