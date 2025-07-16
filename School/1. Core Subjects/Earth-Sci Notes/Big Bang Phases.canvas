@@ -1,30 +1,23 @@
 {
 	"nodes":[
-		{"id":"239dc5b975db8d12","x":-100,"y":-380,"width":1020,"height":320,"color":"3","type":"group","label":"Epoch II"},
+		{"id":"239dc5b975db8d12","type":"group","x":-100,"y":-380,"width":996,"height":329,"color":"3","label":"Epoch II"},
+		{"id":"c7f0575d7cc63fe3","type":"group","x":512,"y":121,"width":531,"height":616,"color":"2","label":"EPOCH III"},
 		{"id":"5c3c5ac23fd9af83","type":"group","x":-680,"y":120,"width":910,"height":280,"color":"1","label":"Epoch I"},
-		{"id":"fa7ab9eae10ede8a","type":"text","text":"5. Planetary Nebula","x":900,"y":140,"width":240,"height":60},
-		{"id":"9e4a5ab2cb05aafe","type":"text","text":"6. White Dwarf","x":1260,"y":-42,"width":240,"height":62},
-		{"id":"9bbbf1651d1f474c","type":"text","text":"7. Black Dwarf","x":1580,"y":-42,"width":272,"height":62},
-		{"id":"d4cd84d2a5f8d04e","type":"text","text":"5. Supernova ","x":899,"y":437,"width":260,"height":60},
-		{"id":"8c025bb3b04ad264","type":"text","text":"6. Nebula","x":1239,"y":313,"width":260,"height":60},
-		{"id":"94d8828c96c55cc0","type":"text","text":"7. Black Hole","x":1582,"y":225,"width":260,"height":60},
-		{"id":"2168e505311135b2","type":"text","text":"7. Neutron Star","x":1582,"y":378,"width":260,"height":60},
-		{"id":"cc9c75f606b29066","type":"text","text":"# Singularity Point (t=0)\n- Point where there was nothing but the singularity — **an infinitely small, dense, and hot point** \n- This point **breaks our current law of physics** \n\n","isStartNode":false,"x":-760,"y":-220,"width":440,"height":180},
-		{"id":"2b531735f4396792","type":"text","text":"# Planck Epoch (t = 0-10$^{-43}$)\n- The \"earliest phase\" of the universe \n- The Four Fundamental Forces (gravity, strong and weak nuclear, electromagnetism) are unified\n- Ends when gravity separates from the other forces\n","x":-660,"y":140,"width":400,"height":240},
+		{"id":"2b531735f4396792","type":"text","text":"# Planck Epoch (t = 0-10$^{-43}$)\n- The **\"earliest phase\"** of the universe \n- The Four Fundamental Forces (gravity, strong and weak nuclear, electromagnetism) are unified\n- Ends when gravity separates from the other forces\n","x":-660,"y":140,"width":400,"height":240},
+		{"id":"cc9c75f606b29066","type":"text","text":"# Singularity Point (t=0)\n- Point where there was nothing but the singularity — **an infinitely small, dense, and hot point** \n- This point **breaks our current law of physics** \n\n","isStartNode":false,"x":-660,"y":-220,"width":400,"height":200},
+		{"id":"c42ee6bc0ba7bfff","type":"text","text":"# Inflationary Epoch (t = 10$^{-36}$-10$^{-32}$)\n- Universe starts to expand exponentially \n- Smooths the universe into **near-uniformity**\n> [!seealso]\n>  [[The Universe — Origin Theories#Inflation Theory]] ","x":-80,"y":-360,"width":440,"height":280},
+		{"id":"af9a4119eaee4603","type":"text","text":"# Electroweak Epoch  (t = 10$^{-32}$-10$^{-12}$)\n- Weak and strong electromagnetic forces separate from each other\n- Universe cools to ~10¹⁵ K; **matter-antimatter asymmetry begins .**","x":400,"y":-360,"width":471,"height":283},
 		{"id":"e094f8c5ee37f41d","type":"text","text":"# Grand Unification Epoch (t = 10$^{-43}$-10$^{-36}$)\n- Fundamental Particles (quarks, leptons) begin to emerge\n-  Ends when strong nuclear force separates, triggering the inflationary epoch ","x":-180,"y":140,"width":390,"height":240},
-		{"id":"c42ee6bc0ba7bfff","type":"text","text":"# Inflationary Epoch (t = 10$^{-43}$-10$^{-36}$)\n- Universe starts to expand exponentiall","x":-80,"y":-360,"width":440,"height":280},
-		{"id":"af9a4119eaee4603","type":"text","text":"4. Super Red Giant Phase","x":400,"y":-360,"width":500,"height":280}
+		{"id":"6675ab9f6b038922","type":"text","text":"# 5. Quark Epoch  (t = 10⁻¹² to 10⁻⁶ ) \n- Quarks, electrons, and neutrinos dominate.  \n- Matter and antimatter annihilate, leaving a slight excess of matter (1 quark per billion pairs).  \n- Ends when quarks combine to form hadrons (protons, neutrons) .","x":532,"y":141,"width":491,"height":243},
+		{"id":"ba92da1c9aaaad08","type":"text","text":"","x":533,"y":494,"width":488,"height":210}
 	],
 	"edges":[
 		{"id":"e78cddf321de21fe","fromNode":"cc9c75f606b29066","fromSide":"bottom","toNode":"2b531735f4396792","toSide":"top"},
-		{"id":"44fe063560be2d1d","fromNode":"fa7ab9eae10ede8a","fromSide":"right","toNode":"9e4a5ab2cb05aafe","toSide":"left"},
-		{"id":"66af9d03ef83dee5","fromNode":"9e4a5ab2cb05aafe","fromSide":"right","toNode":"9bbbf1651d1f474c","toSide":"left"},
-		{"id":"338909c86b17a7c2","fromNode":"d4cd84d2a5f8d04e","fromSide":"right","toNode":"8c025bb3b04ad264","toSide":"left"},
-		{"id":"c0a1c6e41c501404","fromNode":"8c025bb3b04ad264","fromSide":"right","toNode":"94d8828c96c55cc0","toSide":"left"},
-		{"id":"d1a32e5d48327d90","fromNode":"8c025bb3b04ad264","fromSide":"right","toNode":"2168e505311135b2","toSide":"left"},
 		{"id":"fda575575967d23a","fromNode":"2b531735f4396792","fromSide":"right","toNode":"e094f8c5ee37f41d","toSide":"left"},
 		{"id":"d24c368aa3da8945","fromNode":"c42ee6bc0ba7bfff","fromSide":"right","toNode":"af9a4119eaee4603","toSide":"left"},
-		{"id":"f4bea89c26eccab2","fromNode":"5c3c5ac23fd9af83","fromSide":"top","toNode":"239dc5b975db8d12","toSide":"left"}
+		{"id":"f4bea89c26eccab2","fromNode":"5c3c5ac23fd9af83","fromSide":"top","toNode":"239dc5b975db8d12","toSide":"left"},
+		{"id":"527d8cdc44a8431d","fromNode":"6675ab9f6b038922","fromSide":"bottom","toNode":"ba92da1c9aaaad08","toSide":"top"},
+		{"id":"f0d2ce980e7f8e95","fromNode":"239dc5b975db8d12","fromSide":"bottom","toNode":"c7f0575d7cc63fe3","toSide":"left"}
 	],
 	"metadata":{}
 }
