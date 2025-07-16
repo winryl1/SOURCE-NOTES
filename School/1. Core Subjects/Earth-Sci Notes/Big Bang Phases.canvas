@@ -12,7 +12,7 @@
 		{"id":"cc9c75f606b29066","type":"text","text":"# Singularity Point (t=0)\n- Point where there was nothing but the singularity — **an infinitely small, dense, and hot point** \n- This point **breaks our current law of physics** \n\n","isStartNode":false,"x":-760,"y":-220,"width":440,"height":180},
 		{"id":"2b531735f4396792","type":"text","text":"# Planck Epoch (t = 0-10$^{-43}$)\n- The \"earliest phase\" of the universe \n- The Four Fundamental Forces (gravity, strong and weak nuclear, electromagnetism) are unified\n- Ends when gravity separates from the other forces\n","x":-660,"y":140,"width":400,"height":240},
 		{"id":"e094f8c5ee37f41d","type":"text","text":"# Grand Unification Epoch (t = 10$^{-43}$-10$^{-36}$)\n- Fundamental Particles (quarks, leptons) begin to emerge\n-  Ends when strong nuclear force separates, triggering the inflationary epoch ","x":-180,"y":140,"width":390,"height":240},
-		{"id":"c42ee6bc0ba7bfff","type":"text","text":"# Grand Unification Epoch (t = 10$^{-43}$-10$^{-36}$)","x":-80,"y":-360,"width":440,"height":280},
+		{"id":"c42ee6bc0ba7bfff","type":"text","text":"# Inflationary Epoch (t = 10$^{-43}$-10$^{-36}$)\n- Universe starts to expand exponentiall","x":-80,"y":-360,"width":440,"height":280},
 		{"id":"af9a4119eaee4603","type":"text","text":"4. Super Red Giant Phase","x":400,"y":-360,"width":500,"height":280}
 	],
 	"edges":[
