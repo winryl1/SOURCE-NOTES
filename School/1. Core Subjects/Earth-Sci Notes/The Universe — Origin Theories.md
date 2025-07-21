@@ -5,9 +5,7 @@
 The Universe is composed of:
 - 4.6% Baryonic matter (matter made of baryons)
 - 24% dark matter (has gravity but does not emit light; **responsible for holding everything together**)
-- 71.6 dark energy (source of anti-gravity; **responsible for the expansion of the universe**)
-
-- [u] The most abundant elements of the universe are **He, H, Li**
+- 71.6 dark energy (source of anti-gravity; **responsible for the expansion of the universe**) 
 
 - [i] For decades, scientists have come up of theories of how the universe came to be. Here are some of those theories: 
 # Theories of the origin 
@@ -17,7 +15,7 @@ The Universe is composed of:
 > This theory states that the universe was created within 6 days by a Supreme Being (see Genesis)
 
 ## The Big Bang Theory (1927)
-It is **one of the most accepted theories** of the origin of the universe. This theory states that the universe **began 13.8 bya** from an extremely hot and dense **singularity** that suddenly caused the rapid expansion of space. This resulted in the creation of **space, time, matter, and energy.**
+It is **one of the most accepted theories** of the origin of the universe. This theory states that the universe **began 13.8 bya** from an infinitely small, hot and dense **singularity** that suddenly resulted in the rapid expansion of space. This resulted in the creation of **space, time, matter, and energy.**
 
 > [!example] Evidences
 > 1. **Cosmic Microwave Background** 
@@ -49,7 +47,7 @@ This theory has been **DISCREDITED** after the discovery of [[#^CMB]].
 > This theory is a refinement of the [[#The Big Bang Theory]]; it proposed that the universe **expanded exponentially fast during the first fraction of a second** after the **Big Bang** (see [[Big Bang Phases.canvas|Big Bang Phases]]). This offers solution to unresolved problems of the [[#The Big Bang Theory]]. 
 
 ## Heliocentric/Geocentric Theory 
-
-
-## Multiversal Theory
-
+## Geocentric
+This theory proposed that the Earth is the center of the Universe and everything revolves around it. This was **proposed by Aristotle** and was later **expanded by Ptolemy** (Ptolemaic System).
+## Heliocentric
+This theory challenged the age old "Geocentric Theory", stating that the Sun is the center of the Solar System. This was proposed and proven by **Nicolaus Copernicus.**

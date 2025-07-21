@@ -2,7 +2,7 @@
 
 # Origin Theories
 ## Nebular Hypothesis
-This theory suggests that the solar system came from a nebula that  **flattened into a protoplanetary disk**, forming the Sun and orbiting planets. The gravitational collapse and angular momentum of the nebula caused its center to accumulate most of the material, which is why **the sun accounts for over 99%** of the mass in our solar system. 
+This theory suggests that the solar system came from a nebula that  **flattened into a protoplanetary disk**, forming the Sun and orbiting planets. The gravitational collapse of the nebula caused its center to accumulate most of the material, which is why **the sun accounts for over 99%** of the mass in our solar system. 
 
 Not only that, but this spin also **developed distinct temperature zones.** Temperatures were very high close to the center, only allowing condensation of metals and silicate minerals with high melting points. Farther from the Sun, the temperatures were lower, allowing the condensation of lighter gaseous molecules such as methane, ammonia, carbon dioxide, and water. This temperature differentiation resulted in the inner four planets (**Terrestrial**) of the solar system becoming rocky, and the outer four planets (**Jovian**) becoming gas giants. 
 

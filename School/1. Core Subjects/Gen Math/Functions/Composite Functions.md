@@ -20,9 +20,6 @@ $$
 > [!information]
 > We can also write $f(g(x))$  as  $(f∘g)$, which is read as *"f composed with g of x"*. You can also read it as *"To do f, do g first"*. 
 
-> [!tip]
-> f
-
 ---
 # Examples
 ## Simple (1.X)

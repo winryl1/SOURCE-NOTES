@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "821df7c97f21603d",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "06d21c3edf19ba2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/3. Applied Subjects/EASP Notes/Reading Critically.md",
+                "file": "School/1. Core Subjects/Earth-Sci Notes/The Universe — Origin Theories.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reading Critically"
+              "title": "The Universe — Origin Theories"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "right": {
     "id": "92796dc1489da261",
@@ -171,43 +170,43 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "06d21c3edf19ba2c",
   "lastOpenFiles": [
-    "School/3. Applied Subjects/EASP Notes/EASP Overview.md",
-    "School/3. Applied Subjects/EASP Notes/Reading Critically.md",
-    "Scripture Study/D&C/D&C 77-80.md",
-    "Scripture Study/D&C/D&C Overview.md",
-    "HOME PAGE.md",
-    "Untitled.md",
     "School/1. Core Subjects/Earth-Sci Notes/Solar System.md",
-    "School/1. Core Subjects/Earth-Sci Notes/Solar System Phase.canvas",
-    "School/1. Core Subjects/Earth-Sci Notes/Big Bang Phases.canvas",
+    "School/1. Core Subjects/Earth-Sci Notes/Stars.md",
+    "School/1. Core Subjects/Earth-Sci Notes/Earth-Sci Overview.md",
     "School/1. Core Subjects/Earth-Sci Notes/The Universe — Origin Theories.md",
     "School/1. Core Subjects/Earth-Sci Notes/Star Life Cycle.canvas",
-    "School/1. Core Subjects/Earth-Sci Notes/Stars.md",
+    "School/1. Core Subjects/Earth-Sci Notes/Solar System Phase.canvas",
+    "School/1. Core Subjects/Earth-Sci Notes/Big Bang Phases.canvas",
+    "School/1. Core Subjects/Earth-Sci Notes/Earth — Characteristics and Subsystems.md",
+    "School/1. Core Subjects/Gen Math/Functions/Composite Functions.md",
+    "School/1. Core Subjects/Gen Math/Gen Math Overview.md",
+    "School/1. Core Subjects/Gen Math/Functions/Exponential Functions.md",
+    "School/1. Core Subjects/Gen Math/Functions/Logarithmic Functions.md",
+    "School/1. Core Subjects/Gen Math/Functions/Piecewise Functions.md",
     "School/1. Core Subjects/Gen Math/Functions/Functions & Relations.md",
-    "School/1. Core Subjects/Earth-Sci Notes/Earth-Sci Overview.md",
-    "Solar System — Origin.md",
+    "HOME PAGE.md",
+    "School/1. Core Subjects/Gen Math/Functions/Rational and Radical Functions.md",
+    "School/2. Specialized Subjects/Biology Notes/History of Cell Theory.canvas",
     "School/2. Specialized Subjects/Biology Notes/Cell Theory.md",
     "School/2. Specialized Subjects/Biology Notes/Biology Overview.md",
-    "Big Bang Phases.md",
-    "School/1. Core Subjects/Earth-Sci Notes/Earth — Characteristics and Subsystems.md",
-    "School/1. Core Subjects/English & Literature Notes/Literature.md",
+    "School/2. Specialized Subjects/Biology Notes/History of Cell Theory.md",
+    "School/1. Core Subjects/Oral Comm/Models of Communication.md",
+    "School/1. Core Subjects/Oral Comm/Oral Comm Overview.md",
     "School/1. Core Subjects/English & Literature Notes/21st Century Literature Overview.md",
+    "School/1. Core Subjects/English & Literature Notes/Literature.md",
+    "School/3. Applied Subjects/EASP Notes/Reading Critically.md",
+    "School/3. Applied Subjects/EASP Notes/EASP Overview.md",
+    "Scripture Study/D&C/D&C 77-80.md",
+    "Scripture Study/D&C/D&C Overview.md",
+    "Untitled.md",
     "School/3. Applied Subjects/EASP Notes",
     "School/2. Specialized Subjects",
     "School/3. Applied Subjects",
     "School/1. Core Subjects",
-    "School/1. Core Subjects/Gen Math/Gen Math Overview.md",
-    "Literature.md",
-    "School/1. Core Subjects/Oral Comm/Oral Comm Overview.md",
     "School/1. Core Subjects/Oral Comm",
-    "School/1. Core Subjects/Gen Math/Functions/Composite Functions.md",
-    "Scripture Study/D&C/D&C 76.md",
-    "School/2. Specialized Subjects/Pre-Cal Notes/Conic Sections.md",
-    "School/1. Core Subjects/Gen Math/Functions/Piecewise Functions.md",
     "School/1. Core Subjects/Gen Math/Functions",
-    "School/2. Specialized Subjects/Pre-Cal Notes/Pre-Cal Overview.md",
     "src/Scripture Study/Bible",
     "src/Scripture Study/BoM",
     "src/Scripture Study/D&C",

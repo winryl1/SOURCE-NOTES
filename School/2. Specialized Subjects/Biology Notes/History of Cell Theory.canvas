@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"cc9c75f606b29066","type":"text","text":"# Ancient Times \nBefore, people held the belief in **Spontaneous Generation Theory** — a theory that suggests that life may arise from inanimate matter. \n\n**Aristotle** was one of the earliest recorded scholars to propose this theory, which persisted until the 17th century.","isStartNode":false,"x":-1066,"y":-465,"width":492,"height":244,"color":"1"},
+		{"id":"7058464684fa722b","type":"text","text":"# First Appearance of Cells (1663-1665)\n**Robert Hooke** was the first to use a microscope to examine a thin **slice of cork.** He observed blocks of tiny packets that make up the cork (cells).","x":-475,"y":-466,"width":524,"height":245,"color":"3"},
+		{"id":"45b9a5d00c221965","type":"text","text":"# Francesco Redi's Experiment (1668)\nHe was the first to challenge the **spontaneous generation theory** through a simple experiment — rotten meat in a jar. He proved that if the jar is closed, maggots cannot form; they only form if the jar is open, allowing flies to lay eggs","x":168,"y":-467,"width":572,"height":250,"color":"2"},
+		{"id":"42091c04425f37f3","x":143,"y":-124,"width":573,"height":243,"color":"5","type":"text","text":"# Discovery of Organelles (1665-1676)\n**Marcello Malpighi** and **Nehemiah Grew** investigated plant cells and determined the presence of organelles within its cells, implying that the **cell is also made up of smaller structures** that allow the organism to **function properly.**\n"},
+		{"id":"aafe5b518decd29d","x":-493,"y":-126,"width":537,"height":244,"color":"6","type":"text","text":"# Observation of Microorganisms (1670-1683)\n"},
+		{"id":"e8cc0bb9fcd3c8f6","x":-1026,"y":-129,"width":441,"height":251,"color":"#a2fd96","type":"text","text":"# Discovery of Nucleus (1831)\n**Robert Brown** discovered the nucleus and confirmed its presence across diverse species, establishing it as a **universal cellular component.**"},
+		{"id":"f659fd71dd670238","x":-1032,"y":199,"width":449,"height":222,"type":"text","text":"# "}
+	],
+	"edges":[
+		{"id":"a3f4f1169c50c0ca","fromNode":"cc9c75f606b29066","fromSide":"right","toNode":"7058464684fa722b","toSide":"left"},
+		{"id":"d8fa8f72955da092","fromNode":"7058464684fa722b","fromSide":"right","toNode":"45b9a5d00c221965","toSide":"left"},
+		{"id":"7898d3f4531e5065","fromNode":"45b9a5d00c221965","fromSide":"bottom","toNode":"42091c04425f37f3","toSide":"top"},
+		{"id":"b09509300978a270","fromNode":"42091c04425f37f3","fromSide":"left","toNode":"aafe5b518decd29d","toSide":"right"},
+		{"id":"621fff0afbd93948","fromNode":"aafe5b518decd29d","fromSide":"left","toNode":"e8cc0bb9fcd3c8f6","toSide":"right"},
+		{"id":"2b702d659d5b1bcf","fromNode":"e8cc0bb9fcd3c8f6","fromSide":"bottom","toNode":"f659fd71dd670238","toSide":"top"}
+	],
+	"metadata":{}
+}
