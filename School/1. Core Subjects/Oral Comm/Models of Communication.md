@@ -19,3 +19,4 @@ This model is similar to interactive but is **simultaneous**. This happens when 
 > [!example]- Examples
 > - Video Call
 > - Live and Casual conversation
+
