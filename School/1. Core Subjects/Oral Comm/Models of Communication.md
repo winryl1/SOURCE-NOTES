@@ -2,6 +2,7 @@ There are different models of communication that explain different systems/proce
 # One-way
 ## Linear
 A communication model that **does not require feedback** (passive receiver). This involves a sender giving out information that the receiver absorbs.
+
 > [!example]- Examples
 > - TV Report 
 > - Public Speeches

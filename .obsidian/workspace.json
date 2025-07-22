@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/1. Core Subjects/Oral Comm/Concept of Communication.md",
+                "file": "HOME PAGE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Concept of Communication"
+              "title": "HOME PAGE"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "right": {
     "id": "92796dc1489da261",
@@ -173,13 +172,19 @@
   },
   "active": "06d21c3edf19ba2c",
   "lastOpenFiles": [
-    "School/1. Core Subjects/Oral Comm/Oral Comm Overview.md",
-    "School/1. Core Subjects/Oral Comm/Elements of Communication.md",
+    "School/1. Core Subjects/Filipino Notes/Filipino Overview.md",
     "School/1. Core Subjects/Oral Comm/Models of Communication.md",
-    "School/1. Core Subjects/Oral Comm/Concept of Communication.md",
+    "School/1. Core Subjects/Filipino Notes",
     "School/1. Core Subjects/Oral Comm/Basic Communication Process.canvas",
-    "School/1. Core Subjects/Earth-Sci Notes/The Universe — Origin Theories.md",
+    "School/1. Core Subjects/Oral Comm/Concept of Communication.md",
+    "School/1. Core Subjects/Oral Comm/Oral Comm Overview.md",
     "HOME PAGE.md",
+    "School/1. Core Subjects/Gen Math/Functions/Composite Functions.md",
+    "School/1. Core Subjects/Gen Math/Gen Math Overview.md",
+    "School/1. Core Subjects/Gen Math/Functions/Piecewise Functions.md",
+    "School/1. Core Subjects/Gen Math/Functions/Functions & Relations.md",
+    "School/1. Core Subjects/Oral Comm/Elements of Communication.md",
+    "School/1. Core Subjects/Earth-Sci Notes/The Universe — Origin Theories.md",
     "School/1. Core Subjects/Earth-Sci Notes/Energy Resources.md",
     "School/1. Core Subjects/Earth-Sci Notes/Untitled",
     "School/1. Core Subjects/Earth-Sci Notes/Earth-Sci Overview.md",
@@ -190,12 +195,8 @@
     "School/1. Core Subjects/Earth-Sci Notes/Stars.md",
     "School/1. Core Subjects/Earth-Sci Notes/Solar System Phase.canvas",
     "School/1. Core Subjects/Earth-Sci Notes/Big Bang Phases.canvas",
-    "School/1. Core Subjects/Gen Math/Functions/Composite Functions.md",
-    "School/1. Core Subjects/Gen Math/Gen Math Overview.md",
     "School/1. Core Subjects/Gen Math/Functions/Exponential Functions.md",
     "School/1. Core Subjects/Gen Math/Functions/Logarithmic Functions.md",
-    "School/1. Core Subjects/Gen Math/Functions/Piecewise Functions.md",
-    "School/1. Core Subjects/Gen Math/Functions/Functions & Relations.md",
     "School/1. Core Subjects/Gen Math/Functions/Rational and Radical Functions.md",
     "School/2. Specialized Subjects/Biology Notes/History of Cell Theory.canvas",
     "School/2. Specialized Subjects/Biology Notes/Cell Theory.md",
@@ -211,7 +212,6 @@
     "School/1. Core Subjects/Oral Comm",
     "School/1. Core Subjects/Gen Math/Functions",
     "src/Scripture Study/Bible",
-    "src/Scripture Study/BoM",
-    "src/Scripture Study/D&C"
+    "src/Scripture Study/BoM"
   ]
 }
