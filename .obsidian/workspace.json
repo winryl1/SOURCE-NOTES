@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/1. Core Subjects/Earth-Sci Notes/Energy Resources.md",
+                "file": "School/1. Core Subjects/Oral Comm/Concept of Communication.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Energy Resources"
+              "title": "Concept of Communication"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "right": {
     "id": "92796dc1489da261",
@@ -170,18 +171,22 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "469c57c3db459d11",
+  "active": "06d21c3edf19ba2c",
   "lastOpenFiles": [
+    "School/1. Core Subjects/Oral Comm/Oral Comm Overview.md",
+    "School/1. Core Subjects/Oral Comm/Elements of Communication.md",
+    "School/1. Core Subjects/Oral Comm/Models of Communication.md",
+    "School/1. Core Subjects/Oral Comm/Concept of Communication.md",
+    "School/1. Core Subjects/Oral Comm/Basic Communication Process.canvas",
+    "School/1. Core Subjects/Earth-Sci Notes/The Universe — Origin Theories.md",
+    "HOME PAGE.md",
+    "School/1. Core Subjects/Earth-Sci Notes/Energy Resources.md",
     "School/1. Core Subjects/Earth-Sci Notes/Untitled",
     "School/1. Core Subjects/Earth-Sci Notes/Earth-Sci Overview.md",
-    "School/1. Core Subjects/Earth-Sci Notes/Energy Resources.md",
     "School/1. Core Subjects/Earth-Sci Notes/Minerals and Rocks.md",
     "School/1. Core Subjects/Earth-Sci Notes/Earth — Characteristics and Subsystems.md",
     "School/1. Core Subjects/Earth-Sci Notes/Solar System.md",
     "School/1. Core Subjects/Earth-Sci Notes/Star Life Cycle.canvas",
-    "School/1. Core Subjects/Oral Comm/Models of Communication.md",
-    "School/1. Core Subjects/Oral Comm/Oral Comm Overview.md",
-    "School/1. Core Subjects/Earth-Sci Notes/The Universe — Origin Theories.md",
     "School/1. Core Subjects/Earth-Sci Notes/Stars.md",
     "School/1. Core Subjects/Earth-Sci Notes/Solar System Phase.canvas",
     "School/1. Core Subjects/Earth-Sci Notes/Big Bang Phases.canvas",
@@ -191,7 +196,6 @@
     "School/1. Core Subjects/Gen Math/Functions/Logarithmic Functions.md",
     "School/1. Core Subjects/Gen Math/Functions/Piecewise Functions.md",
     "School/1. Core Subjects/Gen Math/Functions/Functions & Relations.md",
-    "HOME PAGE.md",
     "School/1. Core Subjects/Gen Math/Functions/Rational and Radical Functions.md",
     "School/2. Specialized Subjects/Biology Notes/History of Cell Theory.canvas",
     "School/2. Specialized Subjects/Biology Notes/Cell Theory.md",
@@ -200,8 +204,6 @@
     "School/1. Core Subjects/English & Literature Notes/21st Century Literature Overview.md",
     "School/1. Core Subjects/English & Literature Notes/Literature.md",
     "School/3. Applied Subjects/EASP Notes/Reading Critically.md",
-    "School/3. Applied Subjects/EASP Notes/EASP Overview.md",
-    "Scripture Study/D&C/D&C 77-80.md",
     "School/3. Applied Subjects/EASP Notes",
     "School/2. Specialized Subjects",
     "School/3. Applied Subjects",
@@ -210,7 +212,6 @@
     "School/1. Core Subjects/Gen Math/Functions",
     "src/Scripture Study/Bible",
     "src/Scripture Study/BoM",
-    "src/Scripture Study/D&C",
-    "src/Scripture Study"
+    "src/Scripture Study/D&C"
   ]
 }
