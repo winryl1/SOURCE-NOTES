@@ -1,0 +1,2 @@
+- [[Konsepto ng Wika]]
+- [[Origin Theories ng Wika]]

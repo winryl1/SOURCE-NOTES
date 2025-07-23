@@ -21,7 +21,7 @@ When trying to interpret a text, ask:
 ## Reading: Evaluation 
 After understanding the whole gist/idea of the text, you need to make judgments. You need to consider the following values: 
 1. **Intellectual**: how much the text contributes to knowledge/ideas
-2. **Aesthetic**: pertains to the style or emotional power of the text—how well it's written/preseted
+2. **Aesthetic**: pertains to the style or emotional power of the text—how well it's written/presented
 3. **Moral**: ethical implications/values the text promotes
 4. **Practical**: how applicable the text is in real life 
 
