@@ -11,10 +11,14 @@
             "id": "06d21c3edf19ba2c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "School/1. Core Subjects/Oral Comm/Models of Communication.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Models of Communication"
             }
           }
         ]
@@ -178,8 +182,9 @@
   },
   "active": "06d21c3edf19ba2c",
   "lastOpenFiles": [
-    "School/1. Core Subjects/Oral Comm/Models of Communication.md",
     "School/1. Core Subjects/Oral Comm/Concept of Communication.md",
+    "School/1. Core Subjects/Oral Comm/Basic Communication Process.canvas",
+    "School/1. Core Subjects/Oral Comm/Models of Communication.md",
     "School/1. Core Subjects/Oral Comm/Oral Comm Overview.md",
     "School/3. Applied Subjects/EASP Notes/Reading Critically.md",
     "School/1. Core Subjects/English & Literature Notes/Emerging Genres.md",
@@ -190,7 +195,6 @@
     "School/1. Core Subjects/Filipino Notes/Filipino Overview.md",
     "School/1. Core Subjects/Filipino Notes/Origin Theories ng Wika.md",
     "School/1. Core Subjects/Filipino Notes",
-    "School/1. Core Subjects/Oral Comm/Basic Communication Process.canvas",
     "School/1. Core Subjects/Gen Math/Functions/Composite Functions.md",
     "School/1. Core Subjects/Gen Math/Gen Math Overview.md",
     "School/1. Core Subjects/Gen Math/Functions/Piecewise Functions.md",
@@ -209,7 +213,6 @@
     "School/1. Core Subjects/Earth-Sci Notes/Big Bang Phases.canvas",
     "School/1. Core Subjects/Gen Math/Functions/Exponential Functions.md",
     "School/1. Core Subjects/Gen Math/Functions/Logarithmic Functions.md",
-    "School/1. Core Subjects/Gen Math/Functions/Rational and Radical Functions.md",
     "School/2. Specialized Subjects/Biology Notes/History of Cell Theory.canvas",
     "School/3. Applied Subjects/EASP Notes",
     "School/2. Specialized Subjects",
