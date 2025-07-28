@@ -4,21 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "821df7c97f21603d",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "06d21c3edf19ba2c",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/1. Core Subjects/Oral Comm/Models of Communication.md",
+                "file": "HOME PAGE.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Models of Communication"
+              "title": "HOME PAGE"
             }
           }
         ]
@@ -78,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "right": {
     "id": "92796dc1489da261",
@@ -166,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,20 +184,26 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "06d21c3edf19ba2c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Scripture Study/D&C/D&C 81-83.md",
+    "Scripture Study/D&C/D&C 77-80.md",
+    "Scripture Study/D&C/D&C Overview.md",
+    "HOME PAGE.md",
+    "School/1. Core Subjects/Filipino Notes/Wika — Pambansa, Panturo, Opisyal, Lingua Franca.md",
+    "School/1. Core Subjects/Filipino Notes/Origin Theories ng Wika.md",
+    "School/1. Core Subjects/Filipino Notes/Konsepto ng Wika.md",
+    "School/1. Core Subjects/Filipino Notes/Filipino Overview.md",
+    "School/1. Core Subjects/Earth-Sci Notes/Earth — Characteristics and Subsystems.md",
+    "School/1. Core Subjects/Filipino Notes/Kasaysayan ng Wika.canvas",
     "School/1. Core Subjects/Oral Comm/Concept of Communication.md",
-    "School/1. Core Subjects/Oral Comm/Basic Communication Process.canvas",
-    "School/1. Core Subjects/Oral Comm/Models of Communication.md",
-    "School/1. Core Subjects/Oral Comm/Oral Comm Overview.md",
     "School/3. Applied Subjects/EASP Notes/Reading Critically.md",
+    "School/1. Core Subjects/Oral Comm/Models of Communication.md",
+    "School/1. Core Subjects/Oral Comm/Basic Communication Process.canvas",
+    "School/1. Core Subjects/Oral Comm/Oral Comm Overview.md",
     "School/1. Core Subjects/English & Literature Notes/Emerging Genres.md",
     "School/1. Core Subjects/English & Literature Notes/21st Century Literature Overview.md",
     "Untitled.md",
-    "HOME PAGE.md",
-    "School/1. Core Subjects/Filipino Notes/Konsepto ng Wika.md",
-    "School/1. Core Subjects/Filipino Notes/Filipino Overview.md",
-    "School/1. Core Subjects/Filipino Notes/Origin Theories ng Wika.md",
     "School/1. Core Subjects/Filipino Notes",
     "School/1. Core Subjects/Gen Math/Functions/Composite Functions.md",
     "School/1. Core Subjects/Gen Math/Gen Math Overview.md",
@@ -205,14 +215,10 @@
     "School/1. Core Subjects/Earth-Sci Notes/Untitled",
     "School/1. Core Subjects/Earth-Sci Notes/Earth-Sci Overview.md",
     "School/1. Core Subjects/Earth-Sci Notes/Minerals and Rocks.md",
-    "School/1. Core Subjects/Earth-Sci Notes/Earth — Characteristics and Subsystems.md",
     "School/1. Core Subjects/Earth-Sci Notes/Solar System.md",
     "School/1. Core Subjects/Earth-Sci Notes/Star Life Cycle.canvas",
-    "School/1. Core Subjects/Earth-Sci Notes/Stars.md",
     "School/1. Core Subjects/Earth-Sci Notes/Solar System Phase.canvas",
     "School/1. Core Subjects/Earth-Sci Notes/Big Bang Phases.canvas",
-    "School/1. Core Subjects/Gen Math/Functions/Exponential Functions.md",
-    "School/1. Core Subjects/Gen Math/Functions/Logarithmic Functions.md",
     "School/2. Specialized Subjects/Biology Notes/History of Cell Theory.canvas",
     "School/3. Applied Subjects/EASP Notes",
     "School/2. Specialized Subjects",

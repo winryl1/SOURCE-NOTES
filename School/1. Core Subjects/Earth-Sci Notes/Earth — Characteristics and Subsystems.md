@@ -24,7 +24,7 @@ The atmosphere also **facilitates the water cycle,** which helps distribute wate
 
 On the other hand, Jupiter and Saturn lack oxygen and water, which are essential for life, and are therefore unable to develop life as we understand it.
 ## Magnetic Field 
-This magnetic field acts as a protective shield against harmful solar and cosmic radiation. Without this protection, life on Earth would be severely threatened by the constant bombardment of solar wind and cosmic rays. Though this shield is present in Earth, Jupiter, and Saturn, that doesn’t mean that all of these planets can provide life (other factors, as stated before, also come into play).
+This magnetic field acts as a **protective shield** against harmful solar and cosmic radiation. Without this protection, life on Earth would be severely threatened by the constant bombardment of solar wind and cosmic rays. Though this shield is present in Earth, Jupiter, and Saturn, that doesn’t mean that all of these planets can provide life (other factors, as stated before, also come into play).
 
 # Subsystems 
 - [p] Our planet has **4 subsystems** that allows for the development of life: 

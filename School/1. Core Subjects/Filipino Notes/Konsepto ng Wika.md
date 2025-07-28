@@ -1,4 +1,4 @@
-Ang **wika** ay ginagamit sa pakikipag-ugnayan at pagpapahayag ng kaisipan. 
+*Ang* **wika** ay ginagamit sa pakikipag-ugnayan at pagpapahayag ng kaisipan. 
 *English*: Language 
 *Latin*: lingua — dila
 
@@ -6,6 +6,6 @@ Ang **wika** ay ginagamit sa pakikipag-ugnayan at pagpapahayag ng kaisipan.
 
 Ang **limang macroskills sa wika** ay pagsusulat, pagbabasa, pakikinig, at pasasalita. 
 # Unibersal & Pangunahing Konsepto
-1. **Masistemang Balangkas**: 
-2. **Arbitraryo**: Sa paglipas ng panahon, nag-iiba iba ang wika 
-3. **Sinasalitang Tunog**:  
+1. **Masistemang Balangkas**: (Henry Allan Gleason Jr.)
+2. **Arbitraryo**: Sa paglipas ng panahon, nag-iiba iba ang wika (Henry Allan Gleason Jr.)
+3. **Sinasalitang Tunog**: (Henry Sweet)
