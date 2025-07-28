@@ -1,3 +1,4 @@
 - [[Literature]]
 - [[Emerging Genres]]
+- [[Literary Approaches]]
 - 

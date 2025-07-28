@@ -1,20 +1,24 @@
 {
 	"nodes":[
-		{"id":"cc9c75f606b29066","type":"text","text":"# Ancient Times \nBefore, people held the belief in **Spontaneous Generation Theory** — a theory that suggests that life may arise from inanimate matter. \n\n**Aristotle** was one of the earliest recorded scholars to propose this theory, which persisted until the 17th century.","isStartNode":false,"x":-1066,"y":-465,"width":492,"height":244,"color":"1"},
-		{"id":"7058464684fa722b","type":"text","text":"# First Appearance of Cells (1663-1665)\n**Robert Hooke** was the first to use a microscope to examine a thin **slice of cork.** He observed blocks of tiny packets that make up the cork (cells).","x":-475,"y":-466,"width":524,"height":245,"color":"3"},
-		{"id":"45b9a5d00c221965","type":"text","text":"# Francesco Redi's Experiment (1668)\nHe was the first to challenge the **spontaneous generation theory** through a simple experiment — rotten meat in a jar. He proved that if the jar is closed, maggots cannot form; they only form if the jar is open, allowing flies to lay eggs","x":168,"y":-467,"width":572,"height":250,"color":"2"},
-		{"id":"42091c04425f37f3","x":143,"y":-124,"width":573,"height":243,"color":"5","type":"text","text":"# Discovery of Organelles (1665-1676)\n**Marcello Malpighi** and **Nehemiah Grew** investigated plant cells and determined the presence of organelles within its cells, implying that the **cell is also made up of smaller structures** that allow the organism to **function properly.**\n"},
-		{"id":"aafe5b518decd29d","x":-493,"y":-126,"width":537,"height":244,"color":"6","type":"text","text":"# Observation of Microorganisms (1670-1683)\n"},
-		{"id":"e8cc0bb9fcd3c8f6","x":-1026,"y":-129,"width":441,"height":251,"color":"#a2fd96","type":"text","text":"# Discovery of Nucleus (1831)\n**Robert Brown** discovered the nucleus and confirmed its presence across diverse species, establishing it as a **universal cellular component.**"},
-		{"id":"f659fd71dd670238","x":-1032,"y":199,"width":449,"height":222,"type":"text","text":"# "}
+		{"id":"42091c04425f37f3","type":"text","text":"# Discovery of Organelles (1665-1676)\n**Marcello Malpighi** and **Nehemiah Grew** investigated plant cells and determined the presence of organelles within its cells, implying that the **cell is also made up of smaller structures** that allow the organism to **function properly.**\n","x":-1026,"y":-136,"width":453,"height":243,"color":"5"},
+		{"id":"aafe5b518decd29d","type":"text","text":"# Discovery of Nucleus (1831)\n**Robert Brown** discovered the nucleus and confirmed its presence across diverse species, establishing it as a **universal cellular component.**","x":-1010,"y":194,"width":422,"height":244,"color":"6"},
+		{"id":"3170ca79d87daa5e","type":"text","text":"# Discovery of microorganisms\n **Anton Van Leeuwenhoek** made hundreds of homemade microscopes to describe the different microorganisms he observed. After looking at them, he would draw them and put in his book.","x":-490,"y":-137,"width":525,"height":247,"color":"#d98787"},
+		{"id":"e8cc0bb9fcd3c8f6","type":"text","text":"# Pasteurization (1849)\n**Louis Pasteur** developed the technique called **pasteurization**, which uses mild heat to kill bacteria in food and beverages. ","x":-474,"y":189,"width":522,"height":258,"color":"#a2fd96"},
+		{"id":"f659fd71dd670238","type":"text","text":"# Omnis cellula e cellula (1858)\n**Rudolf Virchow** declared that cells can only come from pre-existing cells. With this conclusion, the cell theory was completed. ","x":165,"y":192,"width":559,"height":244,"color":"#e29cdc"},
+		{"id":"45b9a5d00c221965","type":"text","text":"# Francesco Redi's Experiment (1668)\nHe was the first to challenge the **spontaneous generation theory** through a simple experiment — rotten meat in a jar. He proved that if the jar is closed, maggots cannot form; they only form if the jar is open, allowing flies to lay eggs","x":155,"y":-129,"width":572,"height":228,"color":"2"},
+		{"id":"7058464684fa722b","type":"text","text":"# First Appearance of Cells (1663-1665)\n**Robert Hooke** was the first to use a microscope to examine a thin **slice of cork.** He observed blocks of tiny packets that make up the cork (cells).","x":177,"y":-479,"width":524,"height":236,"color":"3"},
+		{"id":"cc9c75f606b29066","type":"text","text":"# Ancient Times \nBefore, people held the belief in **Spontaneous Generation Theory** — a theory that suggests that life may arise from inanimate matter. \n\n**Aristotle** was one of the earliest recorded scholars to propose this theory, which persisted until the 17th century.","isStartNode":false,"x":-1082,"y":-481,"width":492,"height":244,"color":"1"},
+		{"id":"78e61f2f9fdd0ce2","type":"text","text":"# First Microscope (1590)\n**Zacharias Janssen** and **Hans Janssen** invented the first simple microscope using a simple lens to help view microscopic cells.","x":-459,"y":-485,"width":440,"height":249,"color":"#ac8020"}
 	],
 	"edges":[
-		{"id":"a3f4f1169c50c0ca","fromNode":"cc9c75f606b29066","fromSide":"right","toNode":"7058464684fa722b","toSide":"left"},
-		{"id":"d8fa8f72955da092","fromNode":"7058464684fa722b","fromSide":"right","toNode":"45b9a5d00c221965","toSide":"left"},
-		{"id":"7898d3f4531e5065","fromNode":"45b9a5d00c221965","fromSide":"bottom","toNode":"42091c04425f37f3","toSide":"top"},
-		{"id":"b09509300978a270","fromNode":"42091c04425f37f3","fromSide":"left","toNode":"aafe5b518decd29d","toSide":"right"},
-		{"id":"621fff0afbd93948","fromNode":"aafe5b518decd29d","fromSide":"left","toNode":"e8cc0bb9fcd3c8f6","toSide":"right"},
-		{"id":"2b702d659d5b1bcf","fromNode":"e8cc0bb9fcd3c8f6","fromSide":"bottom","toNode":"f659fd71dd670238","toSide":"top"}
+		{"id":"9dabd5ce1e31aa14","fromNode":"78e61f2f9fdd0ce2","fromSide":"right","toNode":"7058464684fa722b","toSide":"left"},
+		{"id":"9effb516942e52a5","fromNode":"e8cc0bb9fcd3c8f6","fromSide":"right","toNode":"f659fd71dd670238","toSide":"left"},
+		{"id":"226c6f0b0c6e8589","fromNode":"3170ca79d87daa5e","fromSide":"left","toNode":"42091c04425f37f3","toSide":"right"},
+		{"id":"6891880f3fe8ccf1","fromNode":"42091c04425f37f3","fromSide":"bottom","toNode":"aafe5b518decd29d","toSide":"top"},
+		{"id":"90aa30f1bbeb5a15","fromNode":"aafe5b518decd29d","fromSide":"right","toNode":"e8cc0bb9fcd3c8f6","toSide":"left"},
+		{"id":"6dc56c9b9051ceaa","fromNode":"45b9a5d00c221965","fromSide":"left","toNode":"3170ca79d87daa5e","toSide":"right"},
+		{"id":"5b7ca8cce86a97e4","fromNode":"7058464684fa722b","fromSide":"bottom","toNode":"45b9a5d00c221965","toSide":"top"},
+		{"id":"0748a308ae1ea93f","fromNode":"cc9c75f606b29066","fromSide":"right","toNode":"78e61f2f9fdd0ce2","toSide":"left"}
 	],
 	"metadata":{}
 }
