@@ -1,21 +1,20 @@
 {
 	"nodes":[
+		{"id":"f3237ff9c4feff21","type":"group","x":1140,"y":124,"width":590,"height":979,"color":"5","label":"Epoch IV — Primordial Universe"},
 		{"id":"c7f0575d7cc63fe3","type":"group","x":512,"y":121,"width":531,"height":982,"color":"2","label":"EPOCH III — Elementary Particles"},
-		{"id":"f3237ff9c4feff21","type":"group","x":1140,"y":124,"width":531,"height":979,"color":"5","label":"Epoch IV — Primordial Universe"},
 		{"id":"239dc5b975db8d12","type":"group","x":-100,"y":-380,"width":996,"height":329,"color":"3","label":"Epoch II — Forces are COMPLETELY separated"},
 		{"id":"5c3c5ac23fd9af83","type":"group","x":-680,"y":120,"width":910,"height":280,"color":"1","label":"Epoch I — Beginning of separation"},
 		{"id":"2b531735f4396792","type":"text","text":"# Planck Epoch (t = 0-10$^{-43}$)\n- The **\"earliest phase\"** of the universe \n- The Four Fundamental Forces (gravity, strong and weak nuclear, electromagnetism) are unified\n- Ends when gravity separates from the other forces\n","x":-660,"y":140,"width":400,"height":240},
 		{"id":"c42ee6bc0ba7bfff","type":"text","text":"# Inflationary Epoch (t = 10$^{-36}$-10$^{-32}$)\n- Universe starts to expand exponentially \n- Smooths the universe into **near-uniformity**\n> [!seealso]\n>  [[The Universe — Origin Theories#Inflation Theory]] ","x":-80,"y":-360,"width":440,"height":280},
 		{"id":"af9a4119eaee4603","type":"text","text":"# Electroweak Epoch  (t = 10$^{-32}$-10$^{-12}$)\n- Weak and strong electromagnetic forces separate from each other\n- Universe cools to ~10¹⁵ K; **matter-antimatter asymmetry begins .**","x":400,"y":-360,"width":471,"height":283},
 		{"id":"e094f8c5ee37f41d","type":"text","text":"# Grand Unification Epoch (t = 10$^{-43}$-10$^{-36}$)\n- Elementary Particles (quarks, leptons) begin to emerge\n-  Ends when strong nuclear force separates, triggering the inflationary epoch ","x":-180,"y":140,"width":390,"height":240},
-		{"id":"6675ab9f6b038922","type":"text","text":"# Quark Epoch  (t = 10⁻¹² to 10⁻⁶ ) \n- Quarks, electrons, and neutrinos dominate.  \n- Matter and antimatter annihilate, leaving a slight excess of matter (1 quark per billion pairs).  \n- Ends when quarks combine to form hadrons (protons, neutrons) .","x":532,"y":141,"width":491,"height":243},
-		{"id":"ba92da1c9aaaad08","type":"text","text":"# Hadron Epoch  (t = 10⁻$^{6}$ to 1s)\n- Protons and Neutrons form from quarks \n-  Neutrinos decouple, forming the cosmic neutrino background.\n- Nuclear fusion begins briefly but is halted by rapid cooling","x":533,"y":494,"width":488,"height":208},
+		{"id":"6675ab9f6b038922","type":"text","text":"# Quark Epoch  (t = 10⁻¹² to 10⁻⁶ ) \n- Quarks, electrons, and neutrinos dominate.  \n- Quark and quark annihilate;\n- Due to **Baryogenesis**, a slight excess of quarks (1 quark per billion pairs) will combine and form matter/hadrons (protons, neutrons) .","x":532,"y":141,"width":491,"height":243},
+		{"id":"ba92da1c9aaaad08","type":"text","text":"# Hadron Epoch  (t = 10⁻$^{6}$ to 1s)\n- Electrons and Protons collide with each other for form neutrons and neutrinos \n- Sometimes the neutrons and neutrinos recombine and form Electron-Positron pairs ","x":533,"y":494,"width":488,"height":208},
 		{"id":"cc9c75f606b29066","type":"text","text":"# Singularity Point (t=0)\n- Point where there was nothing but the singularity — **an infinitely small, dense, and hot point** \n- This point **breaks our current law of physics** \n\n","isStartNode":false,"x":-1149,"y":-145,"width":400,"height":200},
-		{"id":"80e0b8ab1a630a2b","type":"text","text":"# Lepton Epoch  (t = 10⁻¹² to 10⁻⁶ )\n- ","x":536,"y":795,"width":483,"height":285},
-		{"id":"aa3e867bdca82c7a","type":"text","text":"# Lepton Epoch  (t = 10⁻¹² to 10⁻⁶ )\n- ","x":1164,"y":798,"width":483,"height":285},
-		{"id":"85492de554a779ec","type":"text","text":"# Photon Degradation \n- Quarks, electrons, and neutrinos dominate.  \n- Matter and antimatter annihilate, leaving a slight excess of matter (1 quark per billion pairs).  \n- Ends when quarks combine to form hadrons (protons, neutrons) .","x":1160,"y":144,"width":491,"height":243},
-		{"id":"4021189d1dc59e62","type":"text","text":"# Nucleothesis\n- Protons and Neutrons form from quarks \n-  Neutrinos decouple, forming the cosmic neutrino background.\n- Nuclear fusion begins briefly but is halted by rapid cooling","x":1161,"y":497,"width":488,"height":208},
-		{"id":"6d4a4b7a11385edb","type":"text","text":"","x":1979,"y":1052,"width":250,"height":60}
+		{"id":"80e0b8ab1a630a2b","type":"text","text":"# Lepton Epoch  (t = 10⁻¹² to 10⁻⁶ )\n- After the majority of hadrons and antihadrons annihilate each other, leptons (such as electrons) and antileptons (such as positrons) dominate the mass of the universe. \n- As electrons and positrons annihilate each other, energy in the form of photons is freed up, and colliding photons in turn create more electron-positron pairs.","x":536,"y":795,"width":483,"height":285},
+		{"id":"6d4a4b7a11385edb","type":"text","text":"","x":1979,"y":1052,"width":250,"height":60},
+		{"id":"aa3e867bdca82c7a","type":"text","text":"# Lepton Epoch  (t = 10⁻¹² to 10⁻⁶ )\n- ","x":1165,"y":485,"width":545,"height":285},
+		{"id":"4021189d1dc59e62","type":"text","text":"# Nucleosynthesis\n- The temperature of the universe drops where atomic nuclei can begin to form as protons and neutrons combine through nuclear fusion to form the nuclei of the simple elements of H, He and Li \n- After about 20 minutes, the temperature and density of the universe drops where nuclear fusion cannot continue.","x":1163,"y":142,"width":547,"height":238}
 	],
 	"edges":[
 		{"id":"fda575575967d23a","fromNode":"2b531735f4396792","fromSide":"right","toNode":"e094f8c5ee37f41d","toSide":"left"},
@@ -25,7 +24,6 @@
 		{"id":"f0d2ce980e7f8e95","fromNode":"239dc5b975db8d12","fromSide":"bottom","toNode":"c7f0575d7cc63fe3","toSide":"left"},
 		{"id":"7ad0cf712e5324b6","fromNode":"cc9c75f606b29066","fromSide":"bottom","toNode":"5c3c5ac23fd9af83","toSide":"left"},
 		{"id":"8e4575d66fc4b4ab","fromNode":"ba92da1c9aaaad08","fromSide":"bottom","toNode":"80e0b8ab1a630a2b","toSide":"top"},
-		{"id":"690751a10ee1c854","fromNode":"85492de554a779ec","fromSide":"bottom","toNode":"4021189d1dc59e62","toSide":"top"},
 		{"id":"a26afbc48ccbbbb8","fromNode":"4021189d1dc59e62","fromSide":"bottom","toNode":"aa3e867bdca82c7a","toSide":"top"},
 		{"id":"65aafc019b7b61e9","fromNode":"c7f0575d7cc63fe3","fromSide":"right","toNode":"f3237ff9c4feff21","toSide":"left"},
 		{"id":"a78b1aca4951e72b","fromNode":"f3237ff9c4feff21","fromSide":"bottom","toNode":"6d4a4b7a11385edb","toSide":"bottom"}

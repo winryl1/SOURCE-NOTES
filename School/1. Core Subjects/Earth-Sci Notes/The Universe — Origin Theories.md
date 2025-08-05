@@ -1,4 +1,3 @@
-
 > [!question] What is the universe?
 > It is the **WHOLE cosmic system** of which Earth is a part of.
 
@@ -34,7 +33,7 @@ It is **one of the most accepted theories** of the origin of the universe. This 
 > [[Big Bang Phases.canvas|Big Bang Phases]] 
 
 ## Steady State Theory 
-This theory states that the universe has **always existed (eternal)** and looks the same on a large scale. As the universe expands, new matter is created. It is believed that the **universe is unchanging** in time and **uniform in space.**
+This theory states that the universe has **always existed (eternal)** and looks the same on a large scale. As the universe expands, new matter is created. It is believed that the **universe is unchanging** in time and **uniform in space.** This was proposed by Fred Hoyle, Herman Bondi, Thomas Gold
 
 This theory has been **DISCREDITED** after the discovery of [[#^CMB]]. 
 
@@ -42,10 +41,12 @@ This theory has been **DISCREDITED** after the discovery of [[#^CMB]].
 > [!summary] 
 > This theory states that the universe undergoes **endless cycles** of **Big Bangs** and **Big Crunches**  
 
+Proposed by: Richard Tolman 
 ## Inflation Theory 
 > [!summary]
 > This theory is a refinement of the [[#The Big Bang Theory]]; it proposed that the universe **expanded exponentially fast during the first fraction of a second** after the **Big Bang** (see [[Big Bang Phases.canvas|Big Bang Phases]]). This offers solution to unresolved problems of the [[#The Big Bang Theory]]. 
 
+Proposed by: Alan Guth
 ## Heliocentric/Geocentric Theory 
 ## Geocentric
 This theory proposed that the Earth is the center of the Universe and everything revolves around it. This was **proposed by Aristotle** and was later **expanded by Ptolemy** (Ptolemaic System).
