@@ -1,4 +1,4 @@
 - [[Literature]]
-- [[Emerging Genres]]
+- [[Genres]]
 - [[Literary Approaches]]
-- [[Literary Devices]]
+- [[Literary Elements & Techniques]] 

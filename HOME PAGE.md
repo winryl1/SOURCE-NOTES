@@ -5,6 +5,7 @@
 - [[21st Century Literature Overview]]
 - [[Oral Comm Overview]] 
 - [[Filipino Overview]]
+- [[Philosophy Overview]] 
 ## Specialized Subjects
 - [[Pre-Cal Overview]]
 - [[Gen Chem Overview]]

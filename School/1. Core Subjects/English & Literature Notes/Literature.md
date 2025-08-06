@@ -7,8 +7,8 @@
 
 ## Major Forms 
 ### Poetry
-It is characterized by 4 [[#^elements]].There are three types:
-> [!example]- Poetry Types
+It is characterized by 4 [[#^elements]]. There are three types:
+> [!example] Poetry Types
 > 1. **Narrative:** focuses on storytelling; has the elements of a narrative
 > 2. **Dramatic:** emotionally appealing; also tells a story and is intended to be recited or sung 
 > 3. **Lyric:** focuses on expressing feelings rather than storytelling. 
@@ -20,24 +20,12 @@ It is characterized by 4 [[#^elements]].There are three types:
 > 4. 
 
 ^elements
-
 ### Prose
 It **contrasts poetry**; it applies **a natural flow of speech and grammatical structures.** It has two types: 
 #### Fiction 
-These are stories that are a result of the writer's imagination/creative expression. There are three main types: 
-> [!example]- Fictional Story Types
-> 1. Short Story: Simpler plot; very short 
->2. Novella: intermediate length; slight complexity 
-> 3. Novel: longer in length
-
-It also has different genres such as: 
-> [!example]- Genres
-> - crime
-> - fantasy
-> - sci-fi
-> - historical-fiction
-> - horror
-> etc...
+These are stories that are a result of the writer's imagination/creative expression. 
+> [!see] See Also
+> [[Genres]]
 #### Non-Fiction 
 These are stories that are inspired and/or are real stories. It's goal is to **inform and present facts**. There are two types: 
 1. Informative: is **STRICTLY** factual
@@ -45,8 +33,6 @@ These are stories that are inspired and/or are real stories. It's goal is to **i
 2. Creative: it is written **LIKE** a fictional story but is **FACTUAL**
 	- [i] **Examples:** Essay, Autobiography/Biography, Journals, Memoirs, Informal Essays 
 
----
-In essays there are two different types: 
-1. Formal: Strictly academic/factual (i.e.)
-2. Informal:
+### Drama 
+
 

@@ -3,14 +3,14 @@ Our body generates lots of energy whenever we exercise. It produces ATP in diffe
 # 3 Systems
 ## ⚡Anaerobic ATP-PCr
 
-| Feature                  | Description                                                |
-| ------------------------ | ---------------------------------------------------------- |
-| Fuel source              | Phosphocreatine (PCr) stored in muscles                    |
-| Oxygen required?         | ❌ No (anaerobic)                                           |
-| Speed of ATP production  | **Very fast** (instant)                                    |
-| Duration of energy       | **0–10 seconds**                                           |
-| By-products          | None (no lactic acid)                                      |
-| Examples of activity | Sprinting (100m), powerlifting, jumping, diving, high jump |
+| Feature                 | Description                                                |
+| ----------------------- | ---------------------------------------------------------- |
+| Fuel source             | Phosphocreatine (PCr) stored in muscles                    |
+| Oxygen required?        | ❌ No (anaerobic)                                           |
+| Speed of ATP production | **Very fast** (instant)                                    |
+| Duration of energy      | **0–10 seconds**                                           |
+| By-products             | None (no lactic acid)                                      |
+| Examples of activity    | Sprinting (100m), powerlifting, jumping, diving, high jump |
 - [p] **Key advantage**: Immediate energy supply
 - [c] **Key disadvantage**: Quickly depleted
 ## 🔥Glycolytic System 
