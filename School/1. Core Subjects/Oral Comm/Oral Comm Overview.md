@@ -1,3 +1,3 @@
 - [[Concept of Communication]]
 - [[Models of Communication]]
-- 
+- [[Intercultural Communication]]

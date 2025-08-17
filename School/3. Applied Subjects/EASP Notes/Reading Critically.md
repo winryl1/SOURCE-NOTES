@@ -14,6 +14,10 @@ Once you have identified the topic and supporting evidences, you need to underst
 3. Author's life experiences
 4. Debates about said topic in a significant time period and present time 
 
+> [!seealso] See Also
+> [[Literary Approaches#Historicism & New Historicism]] 
+
+
 When trying to interpret a text, ask: 
 1. What does the argument imply?
 2. What is debatable? 
