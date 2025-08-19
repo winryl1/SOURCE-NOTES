@@ -1,7 +1,7 @@
 **Philosophy** is the study of anything — general and fundamental problems, such as those connected with existence, knowledge, values, reason, mind, and language. It is the rational attempt to formulate, understand, and answer these things. 
 
 # Nature of Philosophy 
-1. The desire for wisdom and knowledge leads one to seek the ultimate causes of everything. 
+1. The desire for wisdom and knowledge leads one to seek the **ultimate causes of** everything. 
 2. One's search for knowledge is induced by theoretical considerations, as well as practical reasons. 
 	- In other words, a person is driven to learn **not just out of intellectual curiosity**, but also see the **practical value and applications** for that knowledge. 
 3. He needs to find an answer to questions about existing realities around him. 

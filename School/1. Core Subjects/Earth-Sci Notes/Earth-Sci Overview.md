@@ -3,5 +3,5 @@
 - [[Star Life Cycle.canvas|Star Life Cycle]]
 - [[Stars]]
 - [[Earth — Characteristics and Subsystems]]
-- [[Minerals and Rocks]]
+- [[Minerals, Rocks, Mining]]
 - [[Energy Resources]] 
