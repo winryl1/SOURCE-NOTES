@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"cc9c75f606b29066","type":"text","text":"# 1935\n","isStartNode":false,"x":-1149,"y":-145,"width":295,"height":192},
+		{"id":"07af9c3c43c4aca0","type":"text","text":"# Encoding\nThe sender encodes the message into words or other channels.","x":-776,"y":-152,"width":318,"height":204},
+		{"id":"9fe02a7f1f1027bc","type":"text","text":"# Decoding\nThe receiver receives the message and decodes/interprets it.","x":-381,"y":-152,"width":302,"height":204},
+		{"id":"c5c98a96d62ac81a","type":"text","text":"# Feedback (optional)\nIf the receiver chooses to respond, he/she will provide feedback (the receiver becomes the sender).\n\nHowever, this is optional and depends on the [[Models of Communication]] used. \n\nIf the receiver decides to send their feedback, they become the sender (process restarts).","x":-7,"y":-199,"width":441,"height":298}
+	],
+	"edges":[
+		{"id":"732ea664358302bb","fromNode":"cc9c75f606b29066","fromSide":"right","toNode":"07af9c3c43c4aca0","toSide":"left"},
+		{"id":"8efe7fc84ec27465","fromNode":"07af9c3c43c4aca0","fromSide":"right","toNode":"9fe02a7f1f1027bc","toSide":"left"},
+		{"id":"0578904a15c51fb1","fromNode":"9fe02a7f1f1027bc","fromSide":"right","toNode":"c5c98a96d62ac81a","toSide":"left"}
+	],
+	"metadata":{}
+}
