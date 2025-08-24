@@ -1,2 +1,0 @@
-- [[Philosophy Concept]]  
-- [[Branches of Philosophy]] 

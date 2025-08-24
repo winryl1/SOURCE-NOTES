@@ -1,1 +1,0 @@
-Intercultural communication is the exchange of information, i

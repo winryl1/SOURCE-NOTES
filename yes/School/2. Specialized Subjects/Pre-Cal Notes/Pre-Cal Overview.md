@@ -1,3 +1,0 @@
-# Trigonometry 
-- [[Trigonometry]]
-- [[Conic Sections]]
