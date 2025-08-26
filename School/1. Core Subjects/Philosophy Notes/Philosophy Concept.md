@@ -20,8 +20,3 @@ In Philosophy, it is emphasized that you should not **ONLY** seek **KNOWLEDGE**,
 	- Related to with contradiction and identity
 	- "Either X or non-X"
 	- A thing is either is or is not; everything must be either be or not be. There is no middle ground
-
-# Branches of Philosophy 
-1. Epistemology 
-2. Metaphysics 
-3. Value Theor
