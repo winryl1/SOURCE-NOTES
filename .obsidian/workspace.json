@@ -29,48 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< main
-                "file": "Scripture Study/D&C/D&C 84.md",
-=======
                 "file": "School/2. Specialized Subjects/Biology Notes/Animal & Plant Cells.md",
->>>>>>> origin/main
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< main
-              "title": "D&C 84"
-=======
               "title": "Animal & Plant Cells"
->>>>>>> origin/main
-            }
-          },
-          {
-            "id": "636b868d140de26d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scripture Study/D&C/D&C 88.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "D&C 88"
-            }
-          },
-          {
-            "id": "860e21872d3b4c9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scripture Study/D&C/D&C 89-92.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "D&C 89-92"
             }
           }
         ],
@@ -236,54 +200,20 @@
       "homepage:Open homepage": false
     }
   },
-<<<<<<< main
-  "active": "010946f27d590d16",
-=======
   "active": "05dbefa14e76fee8",
->>>>>>> origin/main
   "lastOpenFiles": [
-<<<<<<< main
-    "Scripture Study/D&C/D&C 89-92.md",
-    "Scripture Study/D&C/D&C Overview.md",
-=======
     "School/2. Specialized Subjects/Biology Notes/Mitochondria and Chloroplasts.md",
     "School/2. Specialized Subjects/Biology Notes/Prokaryotes and Eukaryotes.md",
     "School/2. Specialized Subjects/Biology Notes/Cell Structures.md",
     "School/2. Specialized Subjects/Biology Notes/Biology Overview.md",
->>>>>>> origin/main
     "HOME PAGE.md",
-<<<<<<< main
-    "Scripture Study/D&C/D&C 88.md",
-    "Scripture Study/D&C/D&C 84.md",
-    "School/2. Specialized Subjects/Biology Notes/Cell Reproduction.md",
-    "Scripture Study/D&C/D&C 81-83.md",
-    "School/2. Specialized Subjects/Biology Notes/Animal & Plant Cells.md",
-    "School/2. Specialized Subjects/Biology Notes/Biology Overview.md",
-    "Untitled 1.base",
-    "Untitled.base",
-    "Scripture Study/D&C/D&C 77-80.md",
-    "Scripture Study/D&C/D&C 76.md",
-    "Scripture Study/D&C/D&C 71-75.md",
-    "School/2. Specialized Subjects/Biology Notes/Prokaryotes and Eukaryotes.md",
-    "School/2. Specialized Subjects/Biology Notes/Cell Structures.md",
-    "School/2. Specialized Subjects/Biology Notes/Mitochondria and Chloroplasts.md",
-=======
     "School/2. Specialized Subjects/Biology Notes/Animal & Plant Cells.md",
     "School/2. Specialized Subjects/Biology Notes/Cell Theory.md",
     "School/2. Specialized Subjects/Biology Notes/Cell Reproduction.md",
     "School/1. Core Subjects/Oral Comm/Uses of Communication.md",
     "School/1. Core Subjects/Oral Comm/Oral Comm Overview.md",
     "School/1. Core Subjects/Earth-Sci Notes/Energy Resources.md",
->>>>>>> origin/main
     "School/1. Core Subjects/Earth-Sci Notes/Earth-Sci Overview.md",
-<<<<<<< main
-    "School/1. Core Subjects/Oral Comm/Oral Comm Overview.base",
-    "School/1. Core Subjects/Oral Comm/Models of Communication.md",
-    "Scripture Study/BoM/BoM Overview.md",
-    "School/1. Core Subjects/English & Literature Notes/Literature.md",
-    "School/1. Core Subjects/Gen Math/General Math.base",
-    "School/1. Core Subjects/Gen Math/Functions/Composite Functions.md",
-=======
     "Untitled.md",
     "School/1. Core Subjects/Philosophy Notes/Philosophy Concept.md",
     "School/1. Core Subjects/Philosophy Notes/Branches of Philosophy.md",
@@ -314,23 +244,9 @@
     "yes/School/1. Core Subjects/Earth-Sci Notes/Big Bang Phases.canvas",
     "yes/School/2. Specialized Subjects/Pre-Cal Notes",
     "yes/School/2. Specialized Subjects/Gen Chem Notes",
->>>>>>> origin/main
     "School/1. Core Subjects/Earth-Sci Notes/Big Bang Phases.canvas",
-    "School/1. Core Subjects/English & Literature Notes/21st Century Literature Overview.md",
-    "Untitled 1.md",
-    "School/3. Applied Subjects/EASP Notes/Reading Critically.md",
-    "School/3. Applied Subjects/EASP Notes/EASP Overview.md",
-    "School/1. Core Subjects/Oral Comm/Uses of Communication.md",
     "School/2. Specialized Subjects/Biology Notes/History of Cell Theory.canvas",
-    "School/1. Core Subjects/Philosophy Notes",
-    "School/1. Core Subjects/PE Notes",
     "School/1. Core Subjects/Earth-Sci Notes/Star Life Cycle.canvas",
-    "School/1. Core Subjects/Earth-Sci Notes/Solar System Phase.canvas",
-    "School/1. Core Subjects/Filipino Notes/Kasaysayan ng Wika.canvas",
-    "School/1. Core Subjects/Oral Comm/Basic Communication Process.canvas",
-    "School/1. Core Subjects/Filipino Notes",
-    "School/1. Core Subjects/Earth-Sci Notes/Untitled",
-    "School/3. Applied Subjects/EASP Notes",
-    "School/2. Specialized Subjects"
+    "School/1. Core Subjects/Earth-Sci Notes/Solar System Phase.canvas"
   ]
 }
