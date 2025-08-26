@@ -42,9 +42,6 @@
     - Adipose (fat storage, insulation)
     - Reticular (supports lymphoid organs)
   - **Blood**: Liquid matrix (plasma); transports substances, immune function.
-
----
-
 ### Muscular Tissue
 - **Function**: Contraction for movement.
 - **Types**:
@@ -141,8 +138,6 @@ These are composed of mature, non-dividing cells; provide support, storage, and 
     - Sieve plates with pores regulate flow.
   - **Companion Cells**: Support sieve-tube elements.
 - **Flow**: Bidirectional (source to sink).
-
-
 
 ## Vascular Bundles
 - **Arrangement**:
