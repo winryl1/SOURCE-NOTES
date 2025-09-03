@@ -1,6 +1,6 @@
 **Prokaryotic cells** are cells that do not have [[Cell Structures#Membrane-Bound Organelles]] within its cytoplasm. Prokaryotes are small, unicellular organisms. They can utilize different **nutrients and energy sources** and they **can inhabit all types of environment** on Earth. They are found in **two domains** of life: **Bacteria** and **Archaea**. 
 
-**Eukaryotic cells** are cells that contain[[Cell Structures#Membrane-Bound Organelles]]. They are found in Eukarya Domain (protists, fungi, plants, animals) are made up of eukaryotic cells (either be unicellular or multicellular). 
+**Eukaryotic cells** are cells that contain[[Cell Structures#Membrane-Bound Organelles]]. They are found in Eukarya Domain (protists, fungi, plants, animals) are made up of eukaryotic cells (either unicellular or multicellular). 
 
 # Differences
 While eukaryotic and prokaryotic cells have similarities in their [[Cell Structures#General Structure]], they still have their differences. 
@@ -28,5 +28,10 @@ Prokaryotes can reproduce via [[Cell Reproduction#Binary Fission]] and [[Cell Re
 
 ## DNA Replication
 This is the process where a cell **makes an identical copy of its DNA using an old DNA strand** before it divides. 
+## Prokaryotic 
+Unlike eukaryotic cells, prokaryotic cells do not undergo interphase. 
+## Eukaryotic 
+In eukaryotic cells, there is something called interphase, which is a pre-requisite for [[Cell Reproduction#Mitosis]] 
+and [[Cell Reproduction#Meiosis]] 
 
 ## Transcription and Translation 
