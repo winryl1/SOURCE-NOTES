@@ -33,3 +33,9 @@ It is a sexual reproduction that involves the union of two male and female gamet
 3. Metaphase II:
 4. Anaphase II:
 5. Telophase & Cytokinesis II: 
+
+350/20
+17.5
+
+350/15
+23

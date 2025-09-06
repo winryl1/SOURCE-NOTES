@@ -8,44 +8,51 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c99a20e5428b3fd3",
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HOME PAGE.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "HOME PAGE"
+            }
+          },
+          {
+            "id": "ed6ee68965d43953",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/2. Specialized Subjects/Biology Notes/Cell Reproduction.md",
+                "file": "Scripture Study/D&C/D&C 93.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cell Reproduction"
+              "title": "D&C 93"
             }
           },
           {
-            "id": "38b5c8473159a8fa",
+            "id": "df18b62d0ed86d2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/1. Core Subjects/Oral Comm/Contextual Communication.md",
+                "file": "D&C 94-97.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Contextual Communication"
-            }
-          },
-          {
-            "id": "894a2b251727c3f3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "D&C 94-97"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,35 +214,39 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c99a20e5428b3fd3",
+  "active": "df18b62d0ed86d2a",
   "lastOpenFiles": [
-    "School/2. Specialized Subjects/Biology Notes/Prokaryotes and Eukaryotes.md",
-    "School/1. Core Subjects/Oral Comm/Contextual Communication.md",
-    "School/2. Specialized Subjects/Biology Notes/Cell Theory.md",
-    "School/1. Core Subjects/Oral Comm/Oral Comm Overview.md",
-    "HOME PAGE.md",
-    "School/2. Specialized Subjects/Biology Notes/Cell Reproduction.md",
-    "School/2. Specialized Subjects/Biology Notes/Biology Overview.md",
-    "School/2. Specialized Subjects/Biology Notes/Cells.md",
-    "School/1. Core Subjects/Filipino Notes/Kasaysayan ng Wikang Pambansa.md",
-    "School/1. Core Subjects/Filipino Notes/Filipino Overview.md",
-    "School/1. Core Subjects/English & Literature Notes/Literary Approaches.md",
-    "School/1. Core Subjects/Philosophy Notes/Fallacies.md",
-    "School/1. Core Subjects/Philosophy Notes/Philosophy Overview.md",
-    "School/1. Core Subjects/English & Literature Notes/21st Century Literature Overview.md",
-    "Scripture Study/D&C/D&C 64-70.md",
-    "Scripture Study/D&C/D&C 84.md",
-    "Scripture Study/D&C/D&C 85-87.md",
-    "Scripture Study/D&C/D&C 88.md",
-    "Scripture Study/D&C/D&C 89-92.md",
     "Scripture Study/D&C/D&C 93.md",
+    "D&C 94-97.md",
     "Scripture Study/D&C/D&C Overview.md",
-    "Scripture Study/D&C/D&C 81-83.md",
-    "Scripture Study/D&C/D&C 76.md",
-    "Scripture Study/D&C/D&C 77-80.md",
-    "Scripture Study/D&C/D&C 71-75.md",
-    "Untitled.base",
+    "HOME PAGE.md",
+    "School/1. Core Subjects/Philosophy Notes/Fallacies.md",
+    "Test Filipino.md",
+    "School/1. Core Subjects/Earth-Sci Notes/Earth-Sci Overview.md",
+    "School/1. Core Subjects/Earth-Sci Notes/Energy Resources.md",
+    "School/1. Core Subjects/Earth-Sci Notes/Minerals, Rocks, Mining.md",
+    "School/1. Core Subjects/Earth-Sci Notes/Solar System.md",
+    "School/1. Core Subjects/Earth-Sci Notes/Star Life Cycle.canvas",
+    "School/1. Core Subjects/Earth-Sci Notes/Solar System Phase.canvas",
+    "School/1. Core Subjects/Earth-Sci Notes/Stars.md",
+    "School/1. Core Subjects/Earth-Sci Notes/The Universe — Origin Theories.md",
+    "School/1. Core Subjects/Earth-Sci Notes/Earth — Characteristics and Subsystems.md",
+    "School/1. Core Subjects/Earth-Sci Notes/Big Bang Phases.canvas",
+    "School/2. Specialized Subjects/Biology Notes/Cell Reproduction.md",
+    "School/2. Specialized Subjects/Biology Notes/Prokaryotes and Eukaryotes.md",
+    "School/2. Specialized Subjects/Biology Notes/Cell Theory.md",
+    "School/2. Specialized Subjects/Biology Notes/Biology Overview.md",
+    "School/1. Core Subjects/PE Notes/Physical Education Overview.md",
+    "School/1. Core Subjects/PE Notes/Health & Skill Fitness.md",
+    "School/1. Core Subjects/PE Notes/FITT Concept.md",
+    "School/1. Core Subjects/PE Notes/Aerobic & Anaerobic Exercises.md",
+    "School/1. Core Subjects/PE Notes/Body Generators.md",
+    "School/1. Core Subjects/PE Notes/Exercise Program.md",
+    "School/2. Specialized Subjects/Gen Chem Notes/Gen Chem Overview.md",
+    "School/1. Core Subjects/Physical Education Notes",
     "School/2. Specialized Subjects/Biology Notes/Animal & Plant Cells.md",
+    "School/1. Core Subjects/Oral Comm/Contextual Communication.md",
+    "Untitled.base",
     "yes/Untitled.base",
     "yes/Scripture Study/BoM",
     "yes/Scripture Study/D&C",
@@ -250,10 +261,6 @@
     "yes/School/1. Core Subjects/Earth-Sci Notes/Star Life Cycle.canvas",
     "yes/School/1. Core Subjects/Earth-Sci Notes/Solar System Phase.canvas",
     "yes/School/1. Core Subjects/Earth-Sci Notes/Big Bang Phases.canvas",
-    "yes/School/2. Specialized Subjects/Pre-Cal Notes",
-    "School/1. Core Subjects/Earth-Sci Notes/Big Bang Phases.canvas",
-    "School/2. Specialized Subjects/Biology Notes/History of Cell Theory.canvas",
-    "School/1. Core Subjects/Earth-Sci Notes/Star Life Cycle.canvas",
-    "School/1. Core Subjects/Earth-Sci Notes/Solar System Phase.canvas"
+    "School/2. Specialized Subjects/Biology Notes/History of Cell Theory.canvas"
   ]
 }
