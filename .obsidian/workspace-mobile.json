@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "HOME PAGE"
             }
-          },
-          {
-            "id": "65c38780da05f2c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HOME PAGE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HOME PAGE"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "School/1. Core Subjects/Oral Comm/Uses of Communication.md",
+            "file": "Scripture Study/D&C/D&C 89-92.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -171,26 +156,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "65c38780da05f2c8",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "School/1. Core Subjects/Filipino Notes/Filipino Overview.md",
-    "HOME PAGE.md",
-    "School/1. Core Subjects/Filipino Notes/Konseptong Pangwika.md",
-    "School/1. Core Subjects/Filipino Notes/Origin Theories ng Wika.md",
-    "Scripture Study/D&C/D&C Overview.md",
-    "School/2. Specialized Subjects/Biology Notes/Prokaryotes and Eukaryotes.md",
-    "School/2. Specialized Subjects/Biology Notes/Biology Overview.md",
-    "School/2. Specialized Subjects/Gen Chem Notes/Gen Chem Overview.md",
-    "School/1. Core Subjects/Oral Comm/Uses of Communication.md",
-    "School/1. Core Subjects/Oral Comm/Oral Comm Overview.md",
-    "School/2. Specialized Subjects/Biology Notes/Animal & Plant Cells.md",
-    "School/2. Specialized Subjects/Biology Notes/Mitochondria and Chloroplasts.md",
-    "School/2. Specialized Subjects/Biology Notes/Cell Structures.md",
-    "School/1. Core Subjects/Oral Comm/Intercultural Communication.md",
-    "School/1. Core Subjects/Oral Comm/Concept of Communication.md",
-    "School/1. Core Subjects/Oral Comm/Basic Communication Process.canvas",
-    "School/1. Core Subjects/Oral Comm/Models of Communication.md",
     "conflict-files-obsidian-git.md",
+    "HOME PAGE.md",
     "//School/3. Applied Subjects/EASP Notes/Reading Critically.md",
     "//School/2. Specialized Subjects/Biology Notes/History of Cell Theory.canvas",
     "//School/2. Specialized Subjects/Biology Notes/Cell Theory.md",
@@ -201,9 +170,24 @@
     "//School/1. Core Subjects/English & Literature Notes/Literary Elements & Techniques.md",
     "//School/1. Core Subjects/English & Literature Notes/Literary Approaches.md",
     "//School/1. Core Subjects/English & Literature Notes/21st Century Literature Overview.md",
+    "//Scripture Study/D&C/D&C Overview.md",
+    "//School/1. Core Subjects/Oral Comm/Models of Communication.md",
     "//School/1. Core Subjects/Oral Comm/Basic Communication Process.canvas",
+    "//School/1. Core Subjects/Filipino Notes/Origin Theories ng Wika.md",
+    "//School/1. Core Subjects/English & Literature Notes/Genres.md",
+    "//School/3. Applied Subjects/EASP Notes/EASP Overview.md",
     "//School/3. Applied Subjects/EASP Notes",
     "//School/3. Applied Subjects",
+    "//School/2. Specialized Subjects/Biology Notes/Prokaryotes and Eukaryotes.md",
+    "//School/2. Specialized Subjects/Biology Notes/Mitochondria and Chloroplasts.md",
+    "//School/2. Specialized Subjects/Biology Notes/Cell Structures.md",
+    "//School/2. Specialized Subjects/Biology Notes/Cell Reproduction.md",
+    "//Scripture Study/D&C/D&C 89-92.md",
+    "//Scripture Study/D&C/D&C 88.md",
+    "//Scripture Study/D&C/D&C 84.md",
+    "//Scripture Study/D&C/D&C 81-83.md",
+    "//Scripture Study/D&C/D&C 77-80.md",
+    "//Scripture Study/D&C/D&C 76.md",
     "//Scripture Study/D&C",
     "//Untitled.base",
     "//School/1. Core Subjects/Earth-Sci Notes/Solar System Phase.canvas",
@@ -219,6 +203,7 @@
     "School/2. Specialized Subjects/Biology Notes/History of Cell Theory.canvas",
     "School/1. Core Subjects/Earth-Sci Notes/Big Bang Phases.canvas",
     "School/1. Core Subjects/Filipino Notes/Kasaysayan ng Wika.canvas",
+    "School/1. Core Subjects/Oral Comm/Basic Communication Process.canvas",
     "t/res/Quasar.jpg"
   ]
 }

@@ -64,7 +64,7 @@
   - **Neuroglia (Glial Cells)**: Support neurons.
     - CNS: Astrocytes, microglia, ependymal cells, oligodendrocytes.
     - PNS: Satellite cells, Schwann cells.
-- **Neuron Types**:
+- **Neuron Types**: 
   - Sensory (unipolar/pseudounipolar)
   - Interneurons (bipolar/multipolar)
   - Motor neurons (multipolar)
