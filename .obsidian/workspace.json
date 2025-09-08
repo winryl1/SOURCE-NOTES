@@ -36,9 +36,51 @@
               "icon": "lucide-file",
               "title": "Kasaysayan ng Wikang Pambansa"
             }
+          },
+          {
+            "id": "a3e4982e7cb49a0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/1. Core Subjects/Filipino Notes/Kasaysayan ng Wikang Pambansa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kasaysayan ng Wikang Pambansa"
+            }
+          },
+          {
+            "id": "25375f339479314e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/1. Core Subjects/Filipino Notes/Kasaysayan ng Wikang Pambansa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kasaysayan ng Wikang Pambansa"
+            }
+          },
+          {
+            "id": "f08213c5b8cfcf71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/1. Core Subjects/Filipino Notes/Kasaysayan ng Wikang Pambansa.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Kasaysayan ng Wikang Pambansa"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -95,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "right": {
     "id": "92796dc1489da261",
@@ -200,11 +241,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e8f8da059040b765",
+  "active": "f08213c5b8cfcf71",
   "lastOpenFiles": [
-    "School/1. Core Subjects/Filipino Notes/Filipino Overview.md",
-    "HOME PAGE.md",
+    "conflict-files-obsidian-git.md",
     "School/1. Core Subjects/Filipino Notes/Kasaysayan ng Wikang Pambansa.md",
+    "School/1. Core Subjects/Filipino Notes/Kasaysayan ng Wika.canvas",
+    "HOME PAGE.md",
+    "School/2. Specialized Subjects/Biology Notes/Cells.md",
+    "School/1. Core Subjects/Filipino Notes/Filipino Overview.md",
     "Test Filipino.md",
     "D&C 94-97.md",
     "Scripture Study/D&C/D&C 93.md",
@@ -228,9 +272,6 @@
     "School/1. Core Subjects/PE Notes/Health & Skill Fitness.md",
     "School/1. Core Subjects/PE Notes/FITT Concept.md",
     "School/1. Core Subjects/PE Notes/Aerobic & Anaerobic Exercises.md",
-    "School/1. Core Subjects/PE Notes/Body Generators.md",
-    "School/1. Core Subjects/PE Notes/Exercise Program.md",
-    "School/2. Specialized Subjects/Gen Chem Notes/Gen Chem Overview.md",
     "School/1. Core Subjects/Physical Education Notes",
     "Untitled.base",
     "yes/Untitled.base",
@@ -246,7 +287,6 @@
     "yes/School/1. Core Subjects/Gen Math/Functions",
     "yes/School/1. Core Subjects/Earth-Sci Notes/Star Life Cycle.canvas",
     "yes/School/1. Core Subjects/Earth-Sci Notes/Solar System Phase.canvas",
-    "yes/School/1. Core Subjects/Earth-Sci Notes/Big Bang Phases.canvas",
-    "School/2. Specialized Subjects/Biology Notes/History of Cell Theory.canvas"
+    "yes/School/1. Core Subjects/Earth-Sci Notes/Big Bang Phases.canvas"
   ]
 }

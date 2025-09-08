@@ -11,7 +11,7 @@
 4. Ribosomes: in charge of **protein synthesis** 
 5. Cell wall: rigid protective outer layer outside the cell membrane 
 	- Gives shape, strength, and protection
-	- 
+ 	- 
 
 # Membrane-Bound Organelles 
 These are specialized structures specific to eukaryotic cells. Together, they interact and form the **endomembrane system**. The endomembrane system 

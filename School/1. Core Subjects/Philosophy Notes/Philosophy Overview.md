@@ -1,3 +1,2 @@
 - [[Philosophy Concept]]  
-- [[Branches of Philosophy]]
-- [[Fallacies]] 
+- [[Branches of Philosophy]] 
