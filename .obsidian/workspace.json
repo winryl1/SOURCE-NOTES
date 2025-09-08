@@ -80,21 +80,21 @@
             }
           },
           {
-            "id": "076f51daa9bb3138",
+            "id": "10951787aa31f1f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "School/1. Core Subjects/Filipino Notes/Kasaysayan ng Wikang Pambansa.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Kasaysayan ng Wikang Pambansa"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -255,7 +255,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f08213c5b8cfcf71",
+  "active": "10951787aa31f1f7",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "School/1. Core Subjects/Filipino Notes/Kasaysayan ng Wikang Pambansa.md",
