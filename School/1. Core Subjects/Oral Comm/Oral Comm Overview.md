@@ -1,5 +1,5 @@
 - [[Concept of Communication]]
 - [[Models of Communication]]
 - [[Intercultural Communication]]
-- [[Uses of Communication]] 
+- [[Functions of Communication]] 
 - [[Contextual Communication]]

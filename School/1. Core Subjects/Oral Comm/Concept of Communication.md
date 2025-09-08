@@ -1,4 +1,4 @@
-**Communication** is the systematic process of exchanging information between two or more people using verbal or non-verbal cues. It comes from the *Latin* words:
+**Communication** is the systematic process of exchanging information using verbal or non-verbal cues to create and interpret meaning. It comes from the *Latin* words:
 - *communis*: common
 - *communicare*: sharing/to impart
 
@@ -33,12 +33,12 @@ It is the **study of body movement** in communication. It says that every gestur
 2. Eye Behavior
 3. Body Posture 
 4. Gestures
-
 ### Proxemics 
-It refers to the space/distance between the sender and receiver. The way you distance yourself from people can indicate different meanings:
-closer = you like the person/are comfortable with them; farther: you dislike the person/not in good terms)
+It refers to the space/distance between the participants. The way you distance yourself from people can indicate different meanings.
+- Standing Closer to someone = you are familiar with him/her
+- Standing farther = not familiar/you do not know him/her
 ### Chronemics 
-It refers to the role of time in the communication process. It reflects **how people perceive and value time,** which can vary across different people. 
+It refers to the role of time in the communication process. It reflects **how people perceive and value time,** which can vary across different cultures. 
 - Punctuality: 
 	- Earlier: can indicate respect, professionalism, higher level of importance for the other person
 	- Later: disorganization, lower level of importance, disrespect 
@@ -53,11 +53,11 @@ It refers to **vocalic qualities** (how something is said) and **vocal fillers**
 6. Register 
 
 ### Haptics 
-
+It refers to the use of touch to convey meaning in a conversation. It is **often dependent** to one's culture. 
+What may be considered as "friendly touching" to other cultures may seem invasive to another. 
 
 ### Physiological Changes (Appearance)
 It refers to the **chosen attributes of a person's body** — build, grooming, clothing, accessories, body modifications (i.e. tattoos, piercing), etc. Your appearance is **a way of communicating/conveying** who we are, what we value, and how we want others to perceive us. It has several functions: 
-
 1. First Impressions 
 2. Identity/Group Membership
 3. Status and Power
