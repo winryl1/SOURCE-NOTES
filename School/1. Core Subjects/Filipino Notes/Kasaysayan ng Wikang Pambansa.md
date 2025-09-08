@@ -108,8 +108,6 @@ Sa 2009, Ipinilabas ang "Gabay sa Ortograpiyang Filipino" na nagsilbing pansaman
 
 At sa 2014, ipinalabas naman ang Ortograpiyang Pambansa. Ito ang pinakamalawak at pinakakumprehensibong gabay.
 
-Of course! Narito ang detalyadong notes batay sa mga study guide na iyong ibinigay. Maari mo itong gamitin para sa iyong pagre-review.
-
 #### **III.
 **Bakit Maraming Tumutol sa 2001 Revisyon?**
 1.  **Biglaan at Hindi Konsultatibo:** Tila ipinataw lamang nang hindi kumukonsulta sa mas malawak na komunidad ng mga guro, manunulat, at lingguwista.
