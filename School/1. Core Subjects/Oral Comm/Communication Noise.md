@@ -14,7 +14,7 @@ This refers to the biological issues that participants may have.
 > - Woman struggling to communicate due to period 
 
 # Psychological Noise 
-This refers to the mental/emotional state of the participants (for more reference, see [[Functions of Communication#Basic Emotions]]) 
+This refers to the internal mental distractions that interfere effective communication. It can arise from the mental or emotional state of the participants (for more reference, see [[Functions of Communication#Basic Emotions]]), biases, assumptions, personal attitudes, etc. 
 > [!example] 
 > - An angry receiver is not able to understand the sender 
 > - A sad receiver not being able to pay attention
