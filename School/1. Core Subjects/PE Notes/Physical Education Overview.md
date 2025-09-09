@@ -1,5 +1,4 @@
 # PEH 1
-- [[Health & Skill Fitness]] 
-- [[Body Generators]] 
-- [[Exercise Program]]
-- [[FITT Concept]] 
+- [[Exercise and Fitness]] 
+- [[Energy Transfers and Producers]] 
+- [[Health Habits]] 

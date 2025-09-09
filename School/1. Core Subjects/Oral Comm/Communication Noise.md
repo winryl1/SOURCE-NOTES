@@ -1,0 +1,1 @@
+Noise refers to any barrier or hindrance that obstructs the understanding of the message. It can occur at any point in the [[Basic Communication Process.canvas|Basic Communication Process]]. 

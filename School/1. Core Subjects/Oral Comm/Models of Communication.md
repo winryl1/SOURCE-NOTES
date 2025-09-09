@@ -1,4 +1,3 @@
-There are different models of communication that explain different systems/processes of communication. 
 # One-way
 ## Linear
 A communication model that **does not require feedback** (passive receiver). This involves a sender giving out information that the receiver absorbs. This model was introduced by **Warren Weaver** and **Claude Shannon**.

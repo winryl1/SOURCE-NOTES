@@ -5,7 +5,7 @@
 # Elements 
 1. Participants: Sender and Receiver 
 2. Message: carries the **stimulus/idea** of the sender 
-3. Channel (mode of communication) 
+3. Channel: medium in which messages are sent 
 4. Feedback (optional; see [[Models of Communication]])
 5. Context: refers to the **interrelated conditions that affect a message** 
 	- **Physical:** refers to how the place, time, environment, or distance between the communicators affect their communication
@@ -13,10 +13,12 @@
 	- **Psychological:** refers to how moods/feelings can interpret how you communicate or interpret messages 
 	- **Cultural:** refers to how beliefs, norms, gender, age social status, religion, nationality, etc. affect how you communicate with others 
 
+# Communication Process 
+Communication processes can vary according to the [[Models of Communication]] used in a conversation. 
 > [!seealso] See also
 > [[Basic Communication Process.canvas|Communication Process]]
 
-# Types of Communication 
+# Modes of Communication
 ## Verbal 
 It refers to the use of words/speech in sending messages/ideas/feelings. There are **5 verbal elements:**
 1. Phonology — **sound system** of the language 
@@ -26,7 +28,7 @@ It refers to the use of words/speech in sending messages/ideas/feelings. There a
 5. Pragmatics — How language is used **in context** 
 
 ## Non-verbal
-A type of communication that encompasses various forms of conveying messages **without the use of words.** 
+A type of communication that encompasses various forms of conveying messages **without the use of words.** These can provide context, reveal emotions and attitudes, and often carries more weight than verbal cues. 
 ### Kinesics 
 It is the **study of body movement** in communication. It says that every gesture, look, and posture can be used to communicate messages silently. 
 1. Facial Expressions 
