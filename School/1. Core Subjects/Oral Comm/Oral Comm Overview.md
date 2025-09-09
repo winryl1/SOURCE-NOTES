@@ -4,3 +4,4 @@
 - [[Functions of Communication]] 
 - [[Contextual Communication]]
 - [[Communication Noise]] 
+- [[Effective Communication Skills]]
