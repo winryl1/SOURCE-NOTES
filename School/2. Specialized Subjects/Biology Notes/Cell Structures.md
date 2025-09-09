@@ -11,7 +11,10 @@
 4. Ribosomes: in charge of **protein synthesis** 
 5. Cell wall: rigid protective outer layer outside the cell membrane 
 	- Gives shape, strength, and protection
-	- 
+6. Cytoskeleton: the framework of the cell
+	- Microfilament: made of actin proteins 
+	- Microtubules: made of tubulin proteins (alpha and beta); hollow cylindrical 
+	- Intermediate filaments: made of variety of proteins; form a rope-like assembly polypeptides
 
 # Membrane-Bound Organelles 
 These are specialized structures specific to eukaryotic cells. Together, they interact and form the **endomembrane system**. The endomembrane system 
@@ -22,6 +25,7 @@ These are specialized structures specific to eukaryotic cells. Together, they in
 3. Endoplasmic Reticulum
 	- Smooth: in charge of making lipids, detoxification, and stores calcium ions 
 	- Rough: has ribosomes and is part of protein synthesis 
-4. Golgi Apparatus: packages, modifies, and ships proteins lipids
-5. Lysosomes: contain digestive enzymes to break down waste and old cell parts.
-6. Vacuoles: sacs that stores water, nutrients, and waste 
+4. Golgi Apparatus: packages, modifies, and ships proteins lipids in vesicles
+5. Lysosomes: contain digestive enzymes to break down waste, old cell parts, lipids, carbohydrates
+6. Peroxisome: oxidizes fatty acids, amino acids, and toxins, which generate Hydrogen Peroxide (toxic)
+7. Vacuoles: sacs that stores water, nutrients, and waste 

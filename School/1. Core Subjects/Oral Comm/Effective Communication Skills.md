@@ -1,6 +1,6 @@
 # Barriers 
 Recognizing the different barriers in communication is important to avoid **communication breakdown** and turn you into a more effective communicator. 
-1. **Language**: These happen when the participants do not have the same language, accent, or use unfamiliar words or expressions, jargon, and idioms (see [[Communication Noise#Semantic Noise]])
+1. **Language**: These happen when the participants do not have the same language, accent, or use unfamiliar words or expressions, jargon, and idioms (see [[Communication Noise#Semantic Noise]]) ^language-barrier
 2. **Cultural**: See [[Communication Noise#Cultural Noise]] 
 3. **Physical Barriers**: See [[Communication Noise#Physical Noise]]
 4. **Prejudging**

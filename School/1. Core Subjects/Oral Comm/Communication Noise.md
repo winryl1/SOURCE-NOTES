@@ -1,4 +1,7 @@
 Noise refers to any barrier or hindrance that obstructs the understanding of the message. It can occur at any point in the [[Basic Communication Process.canvas|Basic Communication Process]]. 
+> [!see] See Also
+> [[Effective Communication Skills]] 
+
 # Physical Noise 
 This refers to the external sounds or conditions that disrupt the communication.
 > [!example]
@@ -20,7 +23,7 @@ This refers to the internal mental distractions that interfere effective communi
 > - A sad receiver not being able to pay attention
 
 # Semantic Noise
-This refers to the misunderstanding between two people due to the lack of common knowledge.
+This refers to the misunderstanding between two people due to the lack of common knowledge—differences in understanding, interpretation, perception, language/symbols (see [[Effective Communication Skills#^language-barrier]])
 > [!example]
 > - Using jargons that the audience doesn't understand 
 
