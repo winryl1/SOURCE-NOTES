@@ -1,4 +1,4 @@
-Our body generates lots of energy whenever we exercise. It produces ATP in different ways to support the energy demands. Mainly, there are [[#3 Systems]]
+**Our body generates lots of energy** whenever we exercise. It **produces ATP** in different ways to support the energy demands. Mainly, there are [[#3 Systems]]
 
 # 3 Systems
 ## ⚡Anaerobic ATP-PCr
@@ -37,7 +37,3 @@ Our body generates lots of energy whenever we exercise. It produces ATP in diffe
 | Examples of activity    | Long-distance running, biking, walking, endurance sports |
 - [p] **Key advantage**: Can produce **a lot of ATP** over time
 - [c] **Key disadvantage**: Too slow for high-intensity bursts
-
-# Energy Transfers 
-1. Basal Metabolic Rate 
-2. 
