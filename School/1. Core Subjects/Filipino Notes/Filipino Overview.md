@@ -1,4 +1,5 @@
-- [[Konsepto ng Wika]]
-- [[Origin Theories ng Wika]]
+- [[Konsepto ng Wika]] 
+- [[Mga Teorya ng pinagmulan ng wika]]
 - [[Lingguwistikong Komunidad]] 
-- [[Kasaysayan ng Wikang Pambansa]] 
+- [[Kasaysayan ng Wikang]] 
+- [[Kasaysayan ng Wika.canvas|Kasaysayan ng Wika]] 

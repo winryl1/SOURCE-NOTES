@@ -1,4 +1,6 @@
-**Communication** is the systematic process of exchanging information using verbal or non-verbal cues to create and interpret meaning. It comes from the *Latin* words:
+**Communication** is the systematic process of exchanging information using verbal or non-verbal cues to create and interpret meaning. Without communication, culture **cannot be passed down.**
+
+It comes from the *Latin* words:
 - *communis*: common
 - *communicare*: sharing/to impart
 
@@ -7,7 +9,7 @@
 2. Message: carries the **stimulus/idea** of the sender 
 3. Channel: medium in which messages are sent 
 4. Feedback (optional; see [[Models of Communication]])
-5. Context: refers to the **interrelated conditions that affect a message** 
+5. Context: refers to the **interrelated conditions that affect a message** ^context
 	- **Physical:** refers to how the place, time, environment, or distance between the communicators affect their communication
 	- **Social:** refers to your relationship of the communicators that affect their communication
 	- **Psychological:** refers to how moods/feelings can interpret how you communicate or interpret messages 
@@ -21,11 +23,11 @@ Communication processes can vary according to the [[Models of Communication]] us
 # Modes of Communication
 ## Verbal 
 It refers to the use of words/speech in sending messages/ideas/feelings. There are **5 verbal elements:**
-1. Phonology — **sound system** of the language 
+1. Phonology — **sound system** of the language ^phonetics
 2. Morphology — the **structure of words** and how they are formed 
-3. Syntax — grammar
-4. Semantics — the **meaning of words and sentences** 
-5. Pragmatics — How language is used **in context** 
+3. Syntax — proper grammar/structure of a sentence ^syntax
+4. Semantics — the **meaning of words and sentences**
+5. Pragmatics — How language is used **in context** ^pragmatics
 
 ## Non-verbal
 A type of communication that encompasses various forms of conveying messages **without the use of words.** These can provide context, reveal emotions and attitudes, and often carries more weight than verbal cues. 

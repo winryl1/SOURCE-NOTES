@@ -1,8 +1,7 @@
 # Teoryang Biblikal 
 Ayon sa bibliya, may dalawang teorya kung paano nabuo ang iba't ibang wika: 
-> [!example] Bibilikal na Teorya
-> 1. Babel: dahil sa tore ng Babel, nagkaroon ng iba't-ibang wika na nagdulot ng hindi pagkakaintindihan
-> 2. Pentecost: Sa araw ng **Pentecostes**, bumaba ang **Espiritu Santo** sa mga alagad ni Jesus; nagsalita sa iba't ibang wika bagaman hindi nila ito natutunan.
+1. **Tore ng Babel**: Dahil sa tore ng Babel, nagalita ang Diyos at ginulo niya ang wika ng mga tao na nagdulot ng hindi pagkakaintindihan
+2. **Pentecostes**: Sa araw ng **Pentecostes**, bumaba ang **Espiritu Santo** sa mga alagad ni Jesus; nagsalita sa iba't ibang wika bagaman hindi nila ito natutunan.
 # Teoryang Siyentipiko 
 1. Bow-wow
 	- Connected to onomatopoeia
