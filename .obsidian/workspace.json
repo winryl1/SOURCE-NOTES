@@ -10,46 +10,63 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "284bdfd7f1466db3",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "School/1. Core Subjects/Filipino Notes/Kasaysayan ng Wika (Visual).canvas",
-                "viewState": {
-                  "x": -426.35005051937236,
-                  "y": -401.3071758581042,
-                  "zoom": -0.9967144484957207
-                }
+                "file": "HOME PAGE.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Kasaysayan ng Wika (Visual)"
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "HOME PAGE"
             }
           },
           {
-            "id": "8423c0e14a7c6597",
+            "id": "c7b43082e9cc706d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/1. Core Subjects/Filipino Notes/Kasaysayan ng Wika.md",
+                "file": "School/1. Core Subjects/Earth-Sci Notes/Solar System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kasaysayan ng Wika"
+              "title": "Solar System"
+            }
+          },
+          {
+            "id": "3233f5012f4ea048",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/1. Core Subjects/Earth-Sci Notes/The Universe — Origin Theories.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Universe — Origin Theories"
+            }
+          },
+          {
+            "id": "55d86086254e9561",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/1. Core Subjects/Earth-Sci Notes/Energy Resources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Energy Resources"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -211,15 +228,25 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8423c0e14a7c6597",
+  "active": "55d86086254e9561",
   "lastOpenFiles": [
-    "School/1. Core Subjects/Filipino Notes/Kasaysayan ng Wika (Visual).canvas",
-    "School/1. Core Subjects/Filipino Notes/Kasaysayan ng Wika.md",
-    "School/1. Core Subjects/Filipino Notes/Wika — Pambansa, Panturo, Opisyal, Lingua Franca.md",
+    "School/1. Core Subjects/Earth-Sci Notes/Earth-Sci Overview.md",
+    "HOME PAGE.md",
+    "School/1. Core Subjects/Earth-Sci Notes/Solar System.md",
+    "School/1. Core Subjects/Earth-Sci Notes/The Universe — Origin Theories.md",
+    "School/1. Core Subjects/Earth-Sci Notes/Solar System Phase.canvas",
+    "School/1. Core Subjects/Earth-Sci Notes/Star Life Cycle.canvas",
+    "School/1. Core Subjects/Earth-Sci Notes/Big Bang Phases.canvas",
     "School/1. Core Subjects/Filipino Notes/Konsepto ng Wika.md",
     "School/1. Core Subjects/Filipino Notes/Filipino Overview.md",
+    "School/1. Core Subjects/Earth-Sci Notes/Energy Resources.md",
+    "School/3. Applied Subjects/EASP Notes/EASP Overview.md",
+    "School/3. Applied Subjects/EASP Notes/Reading Critically.md",
+    "School/1. Core Subjects/PE Notes/Health Habits.md",
+    "School/1. Core Subjects/Filipino Notes/Kasaysayan ng Wika.md",
+    "School/1. Core Subjects/Filipino Notes/Kasaysayan ng Wika (Visual).canvas",
+    "School/1. Core Subjects/Filipino Notes/Wika — Pambansa, Panturo, Opisyal, Lingua Franca.md",
     "School/1. Core Subjects/English & Literature Notes/Literary Elements & Techniques.md",
-    "HOME PAGE.md",
     "School/1. Core Subjects/Filipino Notes/Mga Teorya ng pinagmulan ng wika.md",
     "School/1. Core Subjects/Oral Comm/Concept of Communication.md",
     "School/1. Core Subjects/Filipino Notes/Lingguwistikong Komunidad.md",
@@ -233,17 +260,7 @@
     "School/2. Specialized Subjects/Biology Notes/History of Cell Theory.canvas",
     "School/1. Core Subjects/Oral Comm/Effective Communication Skills.md",
     "School/1. Core Subjects/Oral Comm/Functions of Communication.md",
-    "School/1. Core Subjects/Oral Comm/Oral Comm Overview.md",
-    "School/1. Core Subjects/Oral Comm/Communication Noise.md",
-    "School/1. Core Subjects/English & Literature Notes/Genres.md",
-    "noise.md",
-    "School/1. Core Subjects/PE Notes/Exercise and Fitness.md",
-    "School/1. Core Subjects/PE Notes/Physical Education Overview.md",
-    "School/1. Core Subjects/Oral Comm/Intercultural Communication.md",
     "School/1. Core Subjects/Oral Comm/Basic Communication Process.canvas",
-    "School/1. Core Subjects/Earth-Sci Notes/Star Life Cycle.canvas",
-    "School/1. Core Subjects/Earth-Sci Notes/Solar System Phase.canvas",
-    "School/1. Core Subjects/Earth-Sci Notes/Big Bang Phases.canvas",
     "School/1. Core Subjects/Physical Education Notes",
     "Untitled.base",
     "yes/Untitled.base",

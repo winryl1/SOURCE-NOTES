@@ -2,6 +2,7 @@
 - [[Big Bang Phases.canvas|Big Bang Phases]]
 - [[Star Life Cycle.canvas|Star Life Cycle]]
 - [[Stars]]
+- [[Solar System]] 
 - [[Earth — Characteristics and Subsystems]]
 - [[Minerals, Rocks, Mining]]
 - [[Energy Resources]] 
