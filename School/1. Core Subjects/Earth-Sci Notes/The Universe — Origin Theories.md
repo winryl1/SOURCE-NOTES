@@ -4,7 +4,7 @@
 The Universe is composed of:
 - 4.6% Baryonic matter (matter made of baryons)
 - 24% dark matter (has gravity but does not emit light; **responsible for holding everything together**)
-- 71.6 dark energy (source of anti-gravity; **responsible for the expansion of the universe**) 
+- 71.4 dark energy (source of anti-gravity; **responsible for the expansion of the universe**) 
 
 - [i] For decades, scientists have come up of theories of how the universe came to be. Here are some of those theories: 
 # Theories of the origin 

@@ -1,20 +1,17 @@
 Energy is the capacity to do work. According to the **Law of Conservation of Energy**, energy cannot be created/destroyed, only transformed.
-    
 - **Electrical energy** = movement of electrons in a conductor.
-    
 - **Power** = rate of doing work, unit: Watt (Joule/second).
-    
 # Energy Sources
 ## Renewable 
 Energy sources that can be quickly replenished quickly.
-#### Geothermal Energy
+### Geothermal Energy
 - Internal heat of Earth.
 - Requires: **heat source (magma), reservoir (permeable rock with water), and geothermal fluid**.
 - Boreholes drilled → steam → turbines → electricity.
 - Philippines = 2nd largest geothermal energy producer (after USA).
 - Sites: Tiwi (Albay), Mt. Makiling-Banahaw, Leyte, Mt. Apo, Negros, Sorsogon.
 
-#### Hydroelectric Energy
+### Hydroelectric Energy
 - Energy from flowing water.
 - Components: reservoir, dam, penstock, turbines, powerhouse.
 - Types:
@@ -22,16 +19,16 @@ Energy sources that can be quickly replenished quickly.
     2. **Diversion/run-of-river** – no dam, uses elevation drop.
     3. **Pumped storage** – pumps water uphill for later use.
 - PH Examples: Magat (Isabela), Angat (Bulacan), Agus (Mindanao).
-#### Solar Energy
+### Solar Energy
 - Captures sunlight via:
     - **Photovoltaic cells (solar panels)** → convert sunlight directly into electricity.
     - **Concentrated Solar Power (CSP)** → mirrors focus sunlight → heats fluid → steam turbine.
 - Leading global users: China, Japan, Germany, USA, Italy.
 - PH Example: ISLASOL & SACASOL (Negros Occidental).
-#### Wind Energy
+### Wind Energy
 - Uses wind turbines, often in **wind farms**.
 - Onshore near coastlines, flat areas.
-#### Biomass
+### Biomass
 - Oldest energy source.
 - Uses biological material (plants, wood, dung, crop waste).
 - Renewable but needs sustainable management.
@@ -52,12 +49,10 @@ Some Coal/diesel plants in the PH are Masinloc, Cebu Energy, Cotabato Light, etc
 - Mostly methane.
 - Extracted like oil, transported in pipelines.
 - Cleanest fossil fuel (less emissions than coal/oil).    
-#### Nuclear Energy
-- Produced by **fission (splitting atoms)**, mainly uranium-235 and thorium-232.
+### Nuclear Energy
+- Produced by **fission (splitting atoms)**, mainly uranium-235 (fissile; unstable, needs enrichment) and thorium-232 (non-fissile; stable, no need for enrichment)
 - Fuel rods generate heat → water boils → steam turbines → electricity.
 - Problems: risk of meltdown, radioactive waste disposal.
-
-
 # Water Resources
 Water is essential for life (drinking, hygiene, food production, industry). Water cycle connects atmosphere, lithosphere, biosphere.
 
