@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"b029d55bc62b859a","type":"group","x":-884,"y":-1012,"width":469,"height":709,"color":"3","label":"2. Revolution Era"},
+		{"id":"216a9a6604034fe0","x":-961,"y":-124,"width":714,"height":463,"color":"4","type":"group","label":"4. Indepedent Era"},
+		{"id":"0489f77e1c6243f6","type":"group","x":-273,"y":-968,"width":424,"height":650,"color":"2","label":"3. WW2 Era"},
+		{"id":"9bb90ec66a8d0cdb","type":"group","x":-1400,"y":-959,"width":425,"height":436,"color":"1","label":"1. Spanish Colony"},
+		{"id":"7232a617787af8bc","type":"text","text":"# Pre-Kolonyal \n**Wika**: Tagalog, Cebuano, Bikolano, Ilokano, Tausug\n**Alpabeto**: Baybayin","x":-1377,"y":-939,"width":379,"height":169},
+		{"id":"86ee4f06ee428fb4","type":"text","text":"# Kolonyal \n**Wika**: Kastila (though not taught properly)\n**Alpabeto**: Abecedario (similar to Roman; 29 letters)","x":-1380,"y":-696,"width":385,"height":153},
+		{"id":"1f93d7eddb79d181","type":"text","text":"# Philippine-American War (1st Republic: Biak-na bato)\n**Wika**: Tagalog and Kastila\n","x":-864,"y":-692,"width":429,"height":164},
+		{"id":"5470bfa109ab81db","type":"text","text":"# American Colony \n**Wika**: Ingles\n","x":-859,"y":-463,"width":419,"height":136},
+		{"id":"44d7b862b0f845b3","type":"text","text":"# Commonwealth Government\n**Wika**: Ingles and Kastila (But in 1937, Tagalog became the BASIS for the wikang pambansa)","x":-253,"y":-948,"width":383,"height":155},
+		{"id":"6682422c6ab0bd76","type":"text","text":"# Japanese Colony\n**Wika**: Nihonggo and Tagalog (other dialects were allowed but these are the only ones officially used)","x":-253,"y":-704,"width":384,"height":160},
+		{"id":"9d13f0a1cca5cc4e","type":"text","text":"# After Commonwealth \n**Wika**: Wikang Pambansang Pilipino (nakabatay sa Tagalog)","x":-251,"y":-470,"width":379,"height":132},
+		{"id":"37e5e798a6e783ee","x":-941,"y":-104,"width":305,"height":196,"type":"text","text":"# 1959\nName of wikang pambansa was changed to \"Pilipino\""},
+		{"id":"3519d77fce780e91","type":"text","text":"# Rebolusyon\n**Wika**\n- Tagalog (for everyone else; daily operations and communications)\n- Kastila (for illustrados; for documents, governance, and literature)\n","x":-857,"y":-993,"width":416,"height":230},
+		{"id":"6d1c6c62895c083d","x":-583,"y":-104,"width":313,"height":200,"type":"text","text":"# 1971-1974\nPilipino --> Filipino\n**Wikang Pambansa**: Filipino\n**Wika Opisyal**: Ingles at Filipino\n**Alpabeto**: 31 titik (pinagyamang alpabeto)"},
+		{"id":"fb851fd7b4d6420d","x":-732,"y":158,"width":307,"height":150,"type":"text","text":"# 1987\n**Wikang Pambansa**: Filipino\n**Wikang Opisyal**: Filipino at Ingles\n**Alpabeto**: 28 titik"}
+	],
+	"edges":[
+		{"id":"f8df6a119e075437","fromNode":"7232a617787af8bc","fromSide":"bottom","toNode":"86ee4f06ee428fb4","toSide":"top"},
+		{"id":"199868ddf163ca46","fromNode":"3519d77fce780e91","fromSide":"bottom","toNode":"1f93d7eddb79d181","toSide":"top"},
+		{"id":"6d51ef870cc9a0a7","fromNode":"1f93d7eddb79d181","fromSide":"bottom","toNode":"5470bfa109ab81db","toSide":"top"},
+		{"id":"475749ae69e916f7","fromNode":"9bb90ec66a8d0cdb","fromSide":"right","toNode":"b029d55bc62b859a","toSide":"left"},
+		{"id":"92337f4c4abe4391","fromNode":"44d7b862b0f845b3","fromSide":"bottom","toNode":"6682422c6ab0bd76","toSide":"top"},
+		{"id":"d8c309a564584e06","fromNode":"6682422c6ab0bd76","fromSide":"bottom","toNode":"9d13f0a1cca5cc4e","toSide":"top"},
+		{"id":"871bf914ed58f4d2","fromNode":"b029d55bc62b859a","fromSide":"right","toNode":"0489f77e1c6243f6","toSide":"left"},
+		{"id":"cb656b68ec04437b","fromNode":"0489f77e1c6243f6","fromSide":"bottom","toNode":"216a9a6604034fe0","toSide":"top"},
+		{"id":"52d5f0477e34d037","fromNode":"37e5e798a6e783ee","fromSide":"right","toNode":"6d1c6c62895c083d","toSide":"left"},
+		{"id":"00e25769801b9dbf","fromNode":"6d1c6c62895c083d","fromSide":"bottom","toNode":"fb851fd7b4d6420d","toSide":"top"}
+	],
+	"metadata":{}
+}

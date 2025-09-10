@@ -5,13 +5,20 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "file: HOME PAGE",
       "color": {
         "a": 1,
         "rgb": 14701138
+      }
+    },
+    {
+      "query": "file: overview",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
       }
     }
   ],
@@ -25,6 +32,6 @@
   "repelStrength": 11.0416666666667,
   "linkStrength": 0.588541666666667,
   "linkDistance": 280,
-  "scale": 0.21498946684446424,
+  "scale": 0.2500668873345752,
   "close": false
 }

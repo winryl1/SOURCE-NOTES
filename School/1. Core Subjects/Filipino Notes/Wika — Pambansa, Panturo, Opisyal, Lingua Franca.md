@@ -1,20 +1,16 @@
 # Pambansa 
-Ito ang wikang itinalaga ng isang bansa na gagamitin ng mga mamamayan. Sa Pilipinas, ang wikang pambansa ay **Filipino.**
-> [!quote] Legal Basis
-> - *de facto*: batay sa umiiral/pracical na kondisyon 
-> - *de jure*: batay sa batas
-
+Ito ang wikang itinalaga ng isang bansa na gagamitin ng mga mamamayan. Sa Pilipinas, ang wikang pambansa ay **Filipino.** Masasabi rin na ang wikang pambansa ang "**lingua franca ng buong bansa**". 
+## Legal Basis 
+1. De jure: see [[Kasaysayan ng Wika (Visual).canvas|Kasaysayan ng Wika]]
+ 2. De facto: Filipino ang ginagamit ng mga mamamayan na may magkakaibang mother tongue. 
 # Panturo
-Ito ang wikang ginagamit sa mga paaralan sa isang bansa. 
-> [!quote] Legal Basis
-> **Section 7**: Ang wikang opisyal ng Pilipinas ay Filipino, at hanggang walang ibang itinatadhana ang batas, ingles.
+Ito ang wikang ginagamit sa mga paaralan sa isang bansa (see [[Kasaysayan ng Wika (Visual).canvas|Kasaysayan ng Wika]])
 # Opisyal
-Ito ay tumutukoy sa wikang ginagamit sa komunikasyon sa loob at labas ng mga ahensya sa pamahalaan. 
-- Wikang Kastila — kaunaunahang wikang opisyal (colonial period)
-- Tagalog — panahon ng Biak-na-Bato/unang konstitusyon (Aguinaldo)
-- Tagalog — naging opisyal sa komonwelt nung Jul 4, 1946
-- Marcos Era — pinalakas ang wikang pambansa bilang wikang opisyal
-- 
+Ito ang wikang ginagamit ng pamahalaan sa: 
+1. mga dokumento ng gobyerno
+2. komunikasyon
+3. seremonya at transaksiyon ng estado
+See [[Kasaysayan ng Wika (Visual).canvas|Kasaysayan ng Wika]] 
 # Lingua Franca 
 Ito ang wikang ginagamit kapag hindi magkaparehas ang *mother tongue* ng mga tao. Bawat rehiyon ng bansa ay may lingua franca
 

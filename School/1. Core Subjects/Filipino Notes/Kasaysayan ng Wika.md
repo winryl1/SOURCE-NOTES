@@ -34,9 +34,18 @@ Sa pagsakop ng mga Amerikano, ipinalaganap nila ang **pampublikong edukasyon**. 
 
 Noong **1935**, naitatag ang **Commonwealth government** na pinamunuan ni Manuel L. Quezon—ang ama ng wikang Filipino. Isa sa mga requirements upang maging malaya ang Pilipinas ay magkaroon ng wikang pambansa. Kaya't pinili ni Quezon ang Tagalog bilang wikang pambansa. 
 
+> [!info] Batas Komonwelt Blg. 184 (1936)
+> Itinatag ang **Surian ng Wikang Pambansa (SWP)**. Layunin nito pag-aralan ang mga katutubong wika at pumili ng batayan para sa wikang pambansa.
+
+> [!info] Executive Order No. 134 (Dec 30, 1937)
+> - Idineklara ni Pangulong Manuel L. Quezon ang **Tagalog** bilang batayan ng wikang pambansa (in development)
+
 Ngunit, hindi ito naging madali dahil nag-away-away ang mga tao kung ano dapat ang maging wikang pambansa. Napili ang Tagalog dahil:
 - Mas maraming nakakaalam dito
 - Tagalog ang gamit sa Metro Manila—ang sentro ng kalakalan at pamamahala 
+
+ > [!info] Kautusang Tagapagpaganap Blg. 203 (1940)
+ > Pinayagan ni Quezon ang pagpapalimbag ng Talatinigang Tagalog-Ingles at Baraila sa Wikang Pambansa. Sinumulan narin ang pagturo ng Tagalog sa ikaapat na taon sa lahat ng paaralan at institusyon
 # Pananakop ng Hapon
 Pagdating ng WW2, sinakop naman ng Japan ang Pilipinas. Ipinagbawal nila ang paggamit ng Ingles upang mawala ang impluwensya ng Amerika sa Pilipinas. Naniniwala ang mga Hapon sa ideya na: 
 
@@ -45,46 +54,59 @@ Pagdating ng WW2, sinakop naman ng Japan ang Pilipinas. Ipinagbawal nila ang pag
 
 Kaya't pagdating ng mga Hapon, inilathala nila ang: 
 
-> [!info] Executive Order Military Ordinance No. 3
+> [!info] Military Ordinance No. 3
 > Ang Tagalog at Nihonggo ang wikang pambansa.
 
 Tinatawag ang panahon na ito bilang "Gintong Panahon ng Pampanitikan" dahil mas dumarami ang gumagamit ng wikang Filipino sa mga akda. 
 # Independent Era 
 ## Post Commonwealth
-Noong 1946, ipinatibay ng Batas Komonwelt Blg. 570 na ang "Wikang Pambansang Pilipino" ay isa nang wikang opisyal. Sa susunod na taon, sinumulan na ang paggawa ng diksyunaryong tagalog at ispesyalisadong talasalitaan tulad ng legal terms, arithmetical/geometrical terms, etc. 
 
-Sa 1954, pinirmahan ni Ramon Magsaysay ang Proklamasyon Blg. 12—ang pagdiriwang ng Linggo ng Wikang Pambansa mula Mar 29 — Apr 4. 
+> [!info] Batas Komonwelt Blg. 570 (1946)
+> Ipinatibay na ang "Wikang Pambansang Pilipino" ay isa nang wikang opisyal. 
 
-Sa sunod na taon, ipinalabas naman ang Proklamasyon Blg. 186—inilipat ang Linggo ng Wikang Pambansa sa Agosto 13-19. Sa mga susunod na taon, isinulong din ang pagsasalin at pananaliksik na nagdulot ng paggamit ng Tagalog sa diploma, pasaporte at etc. Nailathala narin ang English-Tagalog dictionary. 
+Sa susunod na taon, sinumulan na ang paggawa ng diksyunaryong tagalog at ispesyalisadong talasalitaan tulad ng legal terms, arithmetical/geometrical terms, etc. 
+> [!info] Proklamasyon Blg. 12 (1954)
+> Pinirmahan ni Ramon Magsaysay: pagdiriwang ng Linggo ng Wikang Pambansa mula Mar 29 — Apr 4. 
 
-Noong 1959, sa Kautusang Pangkagawaran Blg. 7, pinalitan ang wikang pambansa "batay sa Tagalog" tungo sa "Pilipino". 
+> [!info] Proklamasyon Blg. 186 (1955)
+Inilipat ang Linggo ng Wikang Pambansa sa Agosto 13-19. 
+
+Sa mga susunod na taon, isinulong din ang pagsasalin at pananaliksik na nagdulot ng paggamit ng Tagalog sa diploma, pasaporte at etc. Nailathala narin ang English-Tagalog dictionary. 
+> [!info] Kautusang Tagagpagpaganap (1959)
+Pinalitan ang wikang pambansa "batay sa Tagalog" tungo sa "Pilipino". 
 ## Marcos Era 
-Sa 1972 Constitutional Convention, pinagtibay na Pilipino at Ingles ang magiging opisyal na wika ng bansa. Sa 1973 constitution, ang Pilipino ay tinawag ng "Filipino" na may layuning pagyamanin ang batay sa lahat ng umiiral na wika sa Pilipinas (mas inklusibo). 
+Sa 1971, gumawa ng bagong alpabeto ang SWF na may 31 na titik. Sa 1972 pinagtibay na Pilipino at Ingles ang magiging opisyal na wika ng bansa.
 
-Mula 1974-1986, ipinalabas ang Kautusang Pangkagawaran Blg. 25 kung saan ipinatupad ang Patakarang Edukasyong Bilingguwal sa mga paaralan. 
+Sa 1973 constitution, ang Pilipino ay tinawag ng "Filipino" na may layuning pagyamanin ang batay sa lahat ng umiiral na wika sa Pilipinas (mas inklusibo). 
+
+> [!info] Kautusang Pangkagawaran Blg. 25 (1974)
+Ipinatupad ang Patakarang Edukasyong Bilingguwal (Ingles at Filipino) sa mga paaralan. 
 ## Post People Power Revolution
-Pagkatapos ng People Power Revolution, ipinahayag naman ng 1987 constitution (Article XIV, Sec, 6-9) na ang: 
-- Filipino ang Wikang Pambansa
-- Filipino at Ingles ang Wikang Opisyal
-- Mas pagyamanin pa ang Filipno gamit ang lahat ng umiiral na wika sa bansa
+> [!info] Article XIV, Sec, 6-9; 1987 Constitution
+> - Filipino ang Wikang Pambansa
+> - Filipino at Ingles ang Wikang Opisyal
+> - Mas pagyamanin pa ang Filipno gamit ang lahat ng umiiral na wika sa bansa
 
 Nagbago rin ang alpabeto at naging 28 na titik na lamang ito. Pinalitan na rin ang SWP ng "Linangan ng mga Wika sa Pilipinas." 
 
-Sa 1988, ipinalabas naman ang Batas Tagapagpaganap Blg. 335 kung saan magsagawa ng hakbang ang gobyerno na gamitin ang Filipino sa opisyal na transaksyon, komunikasyon, korespondensiya, at mga katulad nito. 
 
-In 1991, RA7104 ay naipalabas kung saan pinalitan naman ulit ang Linangan ng mga Wika Sa Pilipinas sa "Komisyon sa Wikang Filipino". Dito, **nilalalayong gawing modernong wika ang Filipino** na magagamit sa kabuuan ng pambansang pagpapaunlad at pakikipag-ugnayan. 
+> [!info] Batas Tagapagpaganap Blg. 335 (1988)
+> Kung saan magsagawa ng hakbang ang gobyerno na gamitin ang Filipino sa opisyal na transaksyon, komunikasyon, korespondensiya, at mga katulad nito. 
+
+> [!info] RA7104
+> Pinalitan naman ulit ang Linangan ng mga Wika Sa Pilipinas sa "Komisyon sa Wikang Filipino". Dito, **nilalalayong gawing modernong wika ang Filipino** na magagamit sa kabuuan ng pambansang pagpapaunlad at pakikipag-ugnayan. 
 
 Sa 1994, itinatag ng KWF ang Panrehiyong Sentro sa WIkang Filipino sa bawat rehiyon na may layuning pagtaguyod at pagyamanin ang wikang Filipino sa loob ng tiyak na rehiyon nito.
 
-Noong 1997, nilagdaan ni President Fidel V. Ramos ang Proklamasyon Blg. 104 kung saan ang Agosto ay tatawaging "Buwan ng Wika". 
+> [!info] Proklamasyon Blg. 104 (1997)
+Nilagdaan ni President Fidel V. Ramos: Agosto ay tatawaging "Buwan ng Wika". 
 
 ## Kasalukuyang Panahon 
-## Mga Hamon
+### Mga Hamon
 
 **A. Kawalan ng Malinaw na Pamantayan (Istandardisasyon)**
 *   Patuloy na problema ang tamang ispeling, pagbabaybay, at paggamit ng mga hiram na salita.
 *   Hindi "intelektwalisado" ang wika para magamit sa lahat ng larangan (syensya, teknolohiya, etc.).
-
 **B. Pangingibabaw ng Wikang Ingles**
 *  Dalawa sa pinakamalaking hamon ay ang Internasyonalisasyon at Modernisasyon
 	- Ang mga mass media (dyaryo, telebisyon, radyo, internet, at mga aklat-pampaaralan) ay gumagamit ng Ingles kaya't nagiging malaki ang impluwensiya nito sa ating wika 
@@ -101,20 +123,19 @@ Noong 1997, nilagdaan ni President Fidel V. Ramos ang Proklamasyon Blg. 104 kung
     *   Hindi kailangan ng dayuhang wika para umunlad (hal. Japan at Thailand).
     *   Binabali ang paniniwalang *tanging Ingles lamang* ang susi sa kaunlaran.
     *   Hindi ibig sabihin na iwawaksi ang Filipino kapag ginamit ang Ingles. Parehong maaaring magamit.
-## Ortograpiya 
+### Ortograpiya 
 Noong 2001, nagpalabas ang KWF ng ortograpiya may pamagat "2001 Revisyon ng Alfabeto at Patnubay na Ispeling sa Wikang Filipino." Maraming tumutulol dito dahil sa mga arbitaryong patakaran, at hindi sumasalamin sa tunay na gamit ng wika. 
 
 Sa 2009, Ipinilabas ang "Gabay sa Ortograpiyang Filipino" na nagsilbing pansamantalang hakbang para ayusin ang mga kontrobersya ng 2001 revisyon. 
 
 At sa 2014, ipinalabas naman ang Ortograpiyang Pambansa. Ito ang pinakamalawak at pinakakumprehensibong gabay.
 
-#### **III.
 **Bakit Maraming Tumutol sa 2001 Revisyon?**
 1.  **Biglaan at Hindi Konsultatibo:** Tila ipinataw lamang nang hindi kumukonsulta sa mas malawak na komunidad ng mga guro, manunulat, at lingguwista.
 2.  **Mga Arbitraryong Panuntunan:** Ang ilang tuntunin sa pagbabaybay (lalo na sa mga hiram na salita) ay tila sapilitan at hindi natural para sa mga gumagamit ng wika.
 3.  ​​**Pagsupil sa Kalikasan ng Wika:** Iniisip ng marami na hindi dapat istrikto ang patakaran; ang wika ay dapat na umunlad nang organiko batay sa paggamit ng masa.
-
-#### **IV. KONGKLUSYON AT MGA HAKBANG SA HINAHARAP**
+---
+**KONGKLUSYON AT MGA HAKBANG SA HINAHARAP**
 *   **Hamón:** Paano makasasabay ang Filipino sa modernisasyon nang hindi madaig ng mga dayuhang wika?
 *   **Mga Kinakailangan:**
     1.  **Malinaw na Pamantayan (Istandardisasyon):** Dapat ipagpatuloy ang pagpapalaganap at pag-update ng Ortograpiyang Pambansa 2014.
@@ -122,5 +143,3 @@ At sa 2014, ipinalabas naman ang Ortograpiyang Pambansa. Ito ang pinakamalawak a
     3.  **Pagpapayaman:** Paghiram at pag-angkop ng mga teknikal na termino nang naaayon sa mga patakaran.
     4.  **Nasyonalismo:** Ang pagmamahal at pagtangkilik sa sariling wika ang pinakamakapangyarihang kasangkapan upang ito ay umunlad at manatiling buhay.
 
----
-**Good luck sa iyong pag-aaral! I-revisit mo lang ang notes na ito at siguradong magiging handa ka.**

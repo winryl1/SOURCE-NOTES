@@ -1,5 +1,6 @@
 - [[Konsepto ng Wika]] 
 - [[Mga Teorya ng pinagmulan ng wika]]
 - [[Lingguwistikong Komunidad]] 
-- [[Kasaysayan ng Wikang]] 
-- [[Kasaysayan ng Wika.canvas|Kasaysayan ng Wika]] 
+- [[Kasaysayan ng Wika]] 
+- [[Kasaysayan ng Wika (Visual).canvas|Kasaysayan ng Wika]] 
+- [[Wika — Pambansa, Panturo, Opisyal, Lingua Franca]] 
