@@ -1,1 +1,0 @@
-The classical Greek Philosophy 

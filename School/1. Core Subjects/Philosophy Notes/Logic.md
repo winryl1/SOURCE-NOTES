@@ -1,5 +1,9 @@
 Logic is one of the [[Philosophy Concept#Branches of Philosophy]] and is the **philosopher's toolbox.** It deals with arguments and uses careful rational thought to arrive at the truth. In logic, our goal is to **use arguments/premises correctly** and avoid [[Fallacies]]. 
 
+When arguing, we use structured arguments called **syllogisms**:
+- **Simple Apprehension**: grasping an idea
+- **Judgment**: connecting one idea to another, which results to premises
+- **Reasoning**: logical process—connects the propositions in order to prove something to be true (can either be [[#Deductive]] or [[#Inductive]]) 
 ## Deductive 
 A **deductive argument** is a type of argument that goes from **broad to specific**. It is based on the **assumption** that **all the premises are true** and therefore, the conclusion must also be true. In other words, conclusions in deductive arguments **must be universal** with no room for exception (probabilities: most, or majority). 
 
