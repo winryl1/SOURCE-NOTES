@@ -1,22 +1,22 @@
-**Philosophy** is the study of anything — general and fundamental problems, such as those connected with existence, knowledge, values, reason, mind, and language. It is the rational attempt to formulate, understand, and answer these things. 
+Philosophy is the **rational attempt** to study, understand, and answer the **general and fundamental problems**, such as those connected with existence, knowledge, values, reason, mind, and language. Philosophy in Greek— philo **(love)** and sophia **(wisdom)**—which literally means **love for wisdom**.
 
-# Nature of Philosophy 
-1. The desire for wisdom and knowledge leads one to seek the **ultimate causes of** everything. 
-2. One's search for knowledge is induced by theoretical considerations, as well as practical reasons. 
-	- In other words, a person is driven to learn **not just out of intellectual curiosity**, but also see the **practical value and applications** for that knowledge. 
-3. He needs to find an answer to questions about existing realities around him. 
+The nature of philosophy lies in our desire to know and wonder about the ultimate causes of everything—truth. We do this by asking the right questions that lead to attainment truth. In philosophy, we should not only seek **KNOWLEDGE**, but **WISDOM**. Thus, philosophy has been called **"The Mother of Sciences"**. 
 
-In Philosophy, it is emphasized that you should not **ONLY** seek **KNOWLEDGE**, but also **WISDOM**. In short, a philosopher does not limit himself/herself to a particular object of inquiry, but questions almost anything, if not, everything.  
+---
+**Knowledge** is composed of facts, information, and skills that is **acquired**. **Wisdom**, on the other hand, is composed of knowledge, experience and good judgment, which requires you to **apply** your **acquired knowledge**. 
 
-# Principles 
-1. **FIRST CAUSE/HIGHEST PRINCIPLE:** main and first cause of why an event took place. This is a principle because everything in the world has a starting point.
-2. **PRINCIPLE OF IDENTITY**
-	- "X is X; X is not Y"
-	- What is is; and whatever is not is not. Everything is its **own being.**
-3. **PRINCIPLE OF CONTRADICTION**: 
-	- "X is not X"
-	- It is impossible for a thing to be and not to be at the same time
-4. **PRINCIPLE OF EXCLUDED MIDDLE**: 
-	- Related to with contradiction and identity
-	- "Either X or non-X"
-	- A thing is either is or is not; everything must be either be or not be. There is no middle ground
+# Branches of Philosophy 
+## Metaphysics 
+It is the **study of reality**. It explores questions about the nature of being, the structure of the universe, the relationship between mind and matter, and so forth. An example of this is when philosophers wondered "what is the world made of?"
+
+According to **Thales** (**first Greek Philosopher**), proposed that everything was made of water. But according to **Heraclitus**, the world began and with **fire**. 
+## Epistemology
+It is the **study of knowledge**. It examines questions related to the nature of knowledge, belief, justification, skepticism, and the limits of human understanding. 
+## Value Theory 
+It is a **broad area of philosophy** that studies **values**—things we consider good, important, or worthwhile. 
+### Ethics
+It is the study of **right and wrong**, good and bad actions. It studies **how to live and act** as members of society, as **relational beings**. 
+### Aesthetics
+It is the study of **beauty and art**. It explores questions about the nature of art, the criteria for what is considered "beautiful", and the role of art in human life. 
+## Logic 
+It is the study of reasoning and argumentation. It deals with questions about valid and sound arguments. (see [[Logic]])

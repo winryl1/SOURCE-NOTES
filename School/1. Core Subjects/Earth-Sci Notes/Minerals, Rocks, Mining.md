@@ -58,13 +58,13 @@ A type of rock that comes from existing rocks (igneous, sedimentary, or even oth
 ## Igneous 
 A type of rock that is a result of cooling and solidification of magma/lava. 
 ### Classification by Origin 
-1. **Extrusive**: Rocks that are a result of *solidifying lava* on the surface (outside volcano)
+1. **Extrusive**: Rocks that are a result of *solidifying lava* on the surface (volcanic)
 	- Results in smaller or no crystals (faster cooling)
 2. **Intrusive**: Rocks that are a result of *solidifying magma* under the surface 
 	- Results in larger crystals (slower cooling)
 ### Classification by Texture 
-1. Aphanitic
-2. Phaneritic
+1. Aphanitic: fine grain
+2. Phaneritic: coarse grain
 3. Vesicular: has voids/spaces from gas bubbles
 4. Amygdaloidal: vesicular rock with minerals inside voids
 5. Porphyritic: a large crystal embedded in a matrix of smaller crystals 
@@ -75,7 +75,7 @@ A type of rock that is a result of cooling and solidification of magma/lava.
 3. Mafic: dark gray colored; 45-55% silica
 4. Ultramafic: very dark colored; <45% silica
 ## Sedimentary 
-A type of rock that resulted from the **diagenesis**—a change in physical, chemical, and biological changes that occur in sediments **after deposition**. It has **three** types: 
+A type of rock that resulted from the **diagenesis**—a change in physical (lithification), chemical, and biological changes that occur in sediments **after deposition**. It has **three** types: 
 1. Clastic: from fragments of pre-existing rocks and minerals 
 2. Bioclastic: from fragments of organic organisms 
 3. Biochemical: **chemically precipitated** rock (with some help from organic organisms)
