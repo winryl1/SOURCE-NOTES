@@ -54,7 +54,7 @@ Pagdating ng WW2, sinakop naman ng Japan ang Pilipinas. Ipinagbawal nila ang pag
 
 Kaya't pagdating ng mga Hapon, inilathala nila ang: 
 
-> [!info] Military Ordinance No. 3
+> [!info] Military Ordinance No. 13
 > Ang Tagalog at Nihonggo ang wikang pambansa.
 
 Tinatawag ang panahon na ito bilang "Gintong Panahon ng Pampanitikan" dahil mas dumarami ang gumagamit ng wikang Filipino sa mga akda. 

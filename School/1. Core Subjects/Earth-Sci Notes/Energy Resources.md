@@ -84,8 +84,6 @@ Water is essential for life (drinking, hygiene, food production, industry). Wate
     - **Confined** → trapped between impermeable layers.
 - Extraction: wells, pumps, artesian wells.
 
-
-
 ## Human Impacts on Water Resources
 - **Population growth** → higher demand.
 - **Urbanization** → more water use & pollution.

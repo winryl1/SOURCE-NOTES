@@ -1,4 +1,4 @@
-Philosophy is the attempt of man—according to Aristotle, a "rational animal"— to **philosophize** (study, understand, and answer) the **general and fundamental problems**, such as those connected with existence, knowledge, values, reason, mind, and language. Philosophy in Greek— philo **(love)** and sophia **(wisdom)**—which literally means **love for wisdom**.
+Philosophy is the attempt of man to **philosophize** (study, understand, and answer) the **general and fundamental problems**, such as those connected with existence, knowledge, values, reason, mind, and language. Philosophy in Greek— philo **(love)** and sophia **(wisdom)**—which literally means **love for wisdom**.
 
 The nature of philosophy lies in our desire to know and wonder about the ultimate causes of everything—truth. We do this by asking the right questions that lead to attainment truth. In philosophy, we should not only seek **KNOWLEDGE**, but **WISDOM**. Thus, philosophy has been called **"The Mother of Sciences"**. 
 
@@ -14,7 +14,7 @@ It is the **study of knowledge**. It examines questions related to the nature of
 2. Practical: refers to the skills we attain ^practical
 3. Propositional: claimed truths about the world (theoretical knowledge) ^propositional
 
-In these three, propositional knowledge is the main focus. Epistemology seeks to find whether a propositional knowledge is true or not. 
+In these three, propositional knowledge is the main focus. Epistemology seeks to find whether a propositional knowledge is true or not. (See [[Philosophical Thoughts#Epistemology Knowledge vs Opinion]])
 ## Value Theory 
 It is a **broad area of philosophy** that studies **values**—things we consider good, important, or worthwhile. 
 ### Ethics

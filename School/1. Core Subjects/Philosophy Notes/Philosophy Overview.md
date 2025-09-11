@@ -1,3 +1,6 @@
 - [[Philosophy Concept]]  
 - [[Branches of Philosophy]]
+- [[Logic]]
+- [[Dialectics]] 
+- [[Philosophical Thoughts]] 
 - [[Fallacies]] 
