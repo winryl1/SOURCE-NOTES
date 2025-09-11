@@ -44,7 +44,7 @@ This was championed by **Rene Descartes**, "**Father of Modern Philosophy**". It
 ## Empiricism
 This was championed by **John Locke**, who believed that the mind is a **tabula rasa**—a blank page. And in order to fill that blank page, humans must attain knowledge through experiences and observing the world through their senses. 
 ## Existentialism 
-This was championed by **Søren Kierkegaard**, "**Father of existentialism**". Though he did not use this term, a lot of his work laid the foundation for the movement. In the 20th century, **Jean-Paul Sartre** popularized. This philosophical thought emphasizes individual freedom, choice, and responsibility in a world without inherent meaning. It suggests that individuals create their own purpose and values (essence) through their choices and actions. The idea of existentialism can be wrapped up in one quote from Jean-Paul: 
+This was championed by **Søren Kierkegaard**, "**Father of existentialism**". Though he did not use this term, a lot of his work laid the foundation for the movement. In the 20th century, **Jean-Paul Sartre** popularized it. This philosophical thought emphasizes individual freedom, choice, and responsibility in a world without inherent meaning. It suggests that individuals create their own purpose and values (essence) through their choices and actions. The idea of existentialism can be wrapped up in one quote from Jean-Paul: 
 
 > Existence Precedes Essence
 
