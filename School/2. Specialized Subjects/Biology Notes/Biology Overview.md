@@ -4,4 +4,6 @@
 - [[Cell Reproduction]]
 - [[Prokaryotes and Eukaryotes]]
 - [[Animal & Plant Cells]]
+- [[Organic & Inorganic Molecules]]
+- [[DNA, RNA, Genes]] 
 # Bio 2
