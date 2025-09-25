@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "1be67f468fd337f5",
+            "id": "80a670e84fb83f49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/1. Core Subjects/Philosophy Notes/Philosophy Concept.md",
-                "mode": "source",
+                "file": "School/1. Core Subjects/Oral Comm/Speech Context.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Philosophy Concept"
+              "title": "Speech Context"
             }
           }
         ],
@@ -171,13 +171,21 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1be67f468fd337f5",
+  "active": "80a670e84fb83f49",
   "lastOpenFiles": [
-    "School/1. Core Subjects/Philosophy Notes/Philosophical Thoughts.md",
+    "School/1. Core Subjects/Oral Comm/Concept of Communication.md",
+    "School/1. Core Subjects/Oral Comm/Speech Context.md",
+    "School/1. Core Subjects/Filipino Notes/Lingguwistikong Komunidad.md",
+    "School/1. Core Subjects/Oral Comm/Oral Comm Overview.md",
+    "HOME PAGE.md",
+    "//School/1. Core Subjects/Oral Comm/Speech Context.md",
+    "//School/1. Core Subjects/Oral Comm",
+    "//School/1. Core Subjects",
+    "//School",
     "School/1. Core Subjects/Philosophy Notes/Philosophy Concept.md",
+    "School/1. Core Subjects/Philosophy Notes/Philosophical Thoughts.md",
     "School/1. Core Subjects/Philosophy Notes/Philosophy Overview.md",
     "School/1. Core Subjects/Philosophy Notes/Logic.md",
-    "HOME PAGE.md",
     "School/1. Core Subjects/Philosophy Notes/Philosophy.md",
     "School/1. Core Subjects/Filipino Notes/Gamit ng Wika.md",
     "//School/1. Core Subjects/Philosophy Notes/Philosophy.md",
@@ -192,23 +200,15 @@
     "//School/1. Core Subjects/Filipino Notes",
     "//School/1. Core Subjects/Earth-Sci Notes/Minerals, Rocks, Mining.md",
     "//School/1. Core Subjects/Earth-Sci Notes",
-    "//School/1. Core Subjects",
-    "//School",
     "School/1. Core Subjects/Filipino Notes/Wika — Pambansa, Panturo, Opisyal, Lingua Franca.md",
-    "School/1. Core Subjects/Filipino Notes/Lingguwistikong Komunidad.md",
     "School/1. Core Subjects/Filipino Notes/Konsepto ng Wika.md",
     "School/1. Core Subjects/Earth-Sci Notes/Energy Resources.md",
     "School/1. Core Subjects/Filipino Notes/Konseptong Pangwika.md",
     "School/1. Core Subjects/Earth-Sci Notes/The Universe — Origin Theories.md",
-    "School/1. Core Subjects/Earth-Sci Notes/Solar System.md",
-    "School/1. Core Subjects/Filipino Notes/Kasaysayan ng Wika.md",
-    "School/1. Core Subjects/Earth-Sci Notes/Minerals, Rocks, Mining.md",
-    "School/1. Core Subjects/Filipino Notes/Filipino Overview.md",
     "School/1. Core Subjects/Filipino Notes/Kasaysayan ng Wika (Visual).canvas",
     "//School/2. Specialized Subjects/Biology Notes/History of Cell Theory.canvas",
     "//School/2. Specialized Subjects/Biology Notes",
     "//School/2. Specialized Subjects",
-    "//School/1. Core Subjects/Oral Comm",
     "//School/1. Core Subjects/Filipino Notes/Kasaysayan ng Wika (Visual).canvas",
     "//School/1. Core Subjects/Oral Comm/Basic Communication Process.canvas",
     "//School/1. Core Subjects/PE Notes",
