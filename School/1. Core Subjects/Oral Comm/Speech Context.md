@@ -15,13 +15,14 @@ This refers to communicating with oneself through **introspection**. This only i
 1. **Internal Discourse**: involves "inner talk"/inside the mind
 2. **Solo Written**: involves writing only intended for oneself
 3. **Solo Vocal**: involves speaking to oneself out loud
-### Aspect s
+	- Soliloquy: talking to yourself in first person
+	- Self-talk: talking to yourself in second person
+### Aspects
 1. Self-concept
 	- Attitude: one's way of thinking, feeling, or behaving toward something 
 	- Beliefs: 
 	- Values
-	- All three reflect their behavior
-	- All three must be consistent with one another 
+	- All three must be **consistent with one another**, which reflects one's behavior
 2. Perception
 	- Past experiences
 	- Culture
@@ -35,7 +36,7 @@ This refers to communicating with oneself through **introspection**. This only i
 1. **Engage in self-dialogue**: allows you to know yourself better
 2. **Practice self-affirmation**: boosts confidence and self-esteem
 ## Interpersonal 
-This refers to communicating between persons (see [[Concept of Communication]]) . 
+This refers to the communication between persons (see [[Concept of Communication]]).
 ### Types 
 1. **Dyad**: composed of 2 participant
 2. **Small group**: composed of 3-15 participants 
