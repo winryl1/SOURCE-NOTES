@@ -6,3 +6,5 @@
 - [[Earth — Characteristics and Subsystems]]
 - [[Minerals, Rocks, Mining]]
 - [[Energy Resources]] 
+- [[Soil Biomes in the Philippines]]
+- [[Soil Quality & Waste Management]]
