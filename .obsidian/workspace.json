@@ -50,8 +50,35 @@
               "icon": "lucide-file",
               "title": "Gen Math Overview"
             }
+          },
+          {
+            "id": "15afa0c7aa732f5b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/protein-structure-comparison-diagram.png"
+              },
+              "icon": "lucide-image",
+              "title": "protein-structure-comparison-diagram"
+            }
+          },
+          {
+            "id": "f8f71792940f0812",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/2. Specialized Subjects/Biology Notes/Notes/Condensation & Hydrolysis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Condensation & Hydrolysis"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -214,11 +241,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "469c57c3db459d11",
+  "active": "f8f71792940f0812",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled.base",
+    "School/2. Specialized Subjects/Biology Notes/Notes/Condensation & Hydrolysis.md",
+    "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/competitive-inhibitor-enzyme-substrate-diagram.png",
+    "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/enzyme-activation-energy-comparison.png",
+    "enzyme-substrate-binding-process.png",
+    "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/enzymes reaction process.jpg",
+    "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/lock-and-key-model-enzyme-action.png",
+    "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/protein-structure-comparison-diagram.png",
+    "School/1. Core Subjects/English & Literature Notes/Postwar Philippine Literature.md",
+    "HOME PAGE.md",
     "School/1. Core Subjects/Gen Math/Gen Math Overview.md",
     "School/1. Core Subjects/Gen Math/Functions/Logarithmic Functions.md",
-    "HOME PAGE.md",
     "School/2. Specialized Subjects/Biology Notes/Notes/Proteins & Amino Acids.md",
     "School/2. Specialized Subjects/Biology Notes/Notes/DNA, RNA, Genes.md",
     "School/2. Specialized Subjects/Biology Notes/Notes/Cellular Respiration.md",
@@ -228,20 +265,13 @@
     "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/Cellular Respiration Equation.md",
     "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/Photosynthesis Equation.md",
     "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/Cyclic LR.md",
-    "Enzymes.md",
-    "competitive-inhibitor-enzyme-substrate-diagram.png",
-    "induced-fit-model-enzyme-action.png",
-    "lock-and-key-model-enzyme-action.png",
-    "enzymes reaction process.jpg",
-    "enzyme-substrate-binding-process.png",
+    "School/2. Specialized Subjects/Biology Notes/Notes/Enzymes.md",
+    "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/induced-fit-model-enzyme-action.png",
     "School/2. Specialized Subjects/Pre-Cal Notes/Lipids.md",
     "School/2. Specialized Subjects/Biology Notes/Notes/Carbohydrates.md",
-    "protein structure levels.png",
-    "protein-structure-comparison-diagram.png",
+    "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/protein structure levels.png",
     "School/2. Specialized Subjects/Biology Notes/Notes/Endocrine System.md",
     "School/2. Specialized Subjects/Biology Notes/Notes/Chemical Bonding.md",
-    "enzyme-activation-energy-comparison.png",
-    "Condensation & Hydrolysis.md",
     "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/amino-acid-structure-diagram 1.png",
     "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/amino-acid-structure-diagram.png",
     "School/2. Specialized Subjects/Biology Notes/Notes/Animal & Plant Cells.md",
@@ -251,11 +281,8 @@
     "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram",
     "School/2. Specialized Subjects/Biology Notes/Notes",
     "School/2. Specialized Subjects/Biology Notes/Notes/Cell Structures.md",
-    "Untitled.canvas",
     "School/2. Specialized Subjects/Biology Notes/Notes/Organic & Inorganic Molecules.md",
     "Scripture Study/D&C/D&C 98-101.md",
-    "Scripture Study/D&C/D&C Overview.md",
-    "Postwar Philippine Literature.md",
     "School/1. Core Subjects/Oral Comm/Basic Communication Process.canvas",
     "Untitled",
     "School/1. Core Subjects/Earth-Sci Notes/Solar System Phase.canvas",
@@ -263,7 +290,6 @@
     "School/1. Core Subjects/Earth-Sci Notes/Big Bang Phases.canvas",
     "School/1. Core Subjects/Filipino Notes/Kasaysayan ng Wika (Visual).canvas",
     "School/1. Core Subjects/Physical Education Notes",
-    "Untitled.base",
     "yes/Untitled.base",
     "yes/Scripture Study/BoM",
     "yes/Scripture Study/D&C",
