@@ -3,7 +3,7 @@
 > [[Prokaryotes and Eukaryotes]] 
 
 # General Structure 
-1. Cell/Plasma Membrane
+1. Cell/Plasma Membrane ^Cell-membrane
 	- Outer boundary that controls what enters and exits the cell (semi-permeable)
 	- It is made of **phospholipid bilayer** with proteins
 2. Cytoplasm: Jelly-like fluid that holds organelles in place and a site for many chemical reactions 

@@ -1,1 +1,0 @@
-**Organic molecules** are molecules with the presence of **carbon**. **Inorganic molecules** are molecules that **lack** the presence of **carbon**. 

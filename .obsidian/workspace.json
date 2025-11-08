@@ -24,21 +24,34 @@
             }
           },
           {
-            "id": "3eea646ed1802a23",
+            "id": "05afb421d8f35548",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Postwar Philippine Literature.md",
+                "file": "School/2. Specialized Subjects/Biology Notes/Notes/Proteins & Amino Acids.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Postwar Philippine Literature"
+              "title": "Proteins & Amino Acids"
+            }
+          },
+          {
+            "id": "b4888f0c256e9b0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/1. Core Subjects/Gen Math/Gen Math Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gen Math Overview"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,46 +210,59 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3eea646ed1802a23",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "School/1. Core Subjects/English & Literature Notes/21st Century Literature Overview.md",
-    "Postwar Philippine Literature.md",
+    "School/1. Core Subjects/Gen Math/Gen Math Overview.md",
+    "School/1. Core Subjects/Gen Math/Functions/Logarithmic Functions.md",
     "HOME PAGE.md",
-    "Scripture Study/D&C/D&C 111-114.md",
-    "Scripture Study/D&C/D&C 115-120.md",
-    "Scripture Study/D&C/D&C 109-110.md",
-    "Scripture Study/D&C/D&C 106-108.md",
-    "Scripture Study/D&C/D&C Overview.md",
-    "School/2. Specialized Subjects/Biology Notes/DNA, RNA, Genes.md",
-    "School/2. Specialized Subjects/Biology Notes/Biology Overview.md",
+    "School/2. Specialized Subjects/Biology Notes/Notes/Proteins & Amino Acids.md",
+    "School/2. Specialized Subjects/Biology Notes/Notes/DNA, RNA, Genes.md",
+    "School/2. Specialized Subjects/Biology Notes/Notes/Cellular Respiration.md",
+    "School/2. Specialized Subjects/Biology Notes/Notes/Biology Overview.md",
+    "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/Non-Cyclic.md",
+    "School/2. Specialized Subjects/Biology Notes/Notes/Photosynthesis.md",
+    "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/Cellular Respiration Equation.md",
+    "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/Photosynthesis Equation.md",
+    "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/Cyclic LR.md",
+    "Enzymes.md",
+    "competitive-inhibitor-enzyme-substrate-diagram.png",
+    "induced-fit-model-enzyme-action.png",
+    "lock-and-key-model-enzyme-action.png",
+    "enzymes reaction process.jpg",
+    "enzyme-substrate-binding-process.png",
+    "School/2. Specialized Subjects/Pre-Cal Notes/Lipids.md",
+    "School/2. Specialized Subjects/Biology Notes/Notes/Carbohydrates.md",
+    "protein structure levels.png",
+    "protein-structure-comparison-diagram.png",
+    "School/2. Specialized Subjects/Biology Notes/Notes/Endocrine System.md",
+    "School/2. Specialized Subjects/Biology Notes/Notes/Chemical Bonding.md",
+    "enzyme-activation-energy-comparison.png",
+    "Condensation & Hydrolysis.md",
+    "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/amino-acid-structure-diagram 1.png",
+    "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/amino-acid-structure-diagram.png",
+    "School/2. Specialized Subjects/Biology Notes/Notes/Animal & Plant Cells.md",
+    "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/History of Cell Theory.canvas",
+    "Scripture Study/D&C/D&C 124.md",
+    "Scripture Study/D&C/D&C 121-123.md",
+    "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram",
+    "School/2. Specialized Subjects/Biology Notes/Notes",
+    "School/2. Specialized Subjects/Biology Notes/Notes/Cell Structures.md",
+    "Untitled.canvas",
+    "School/2. Specialized Subjects/Biology Notes/Notes/Organic & Inorganic Molecules.md",
     "Scripture Study/D&C/D&C 98-101.md",
-    "Scripture Study/D&C/D&C 94-97.md",
-    "School/1. Core Subjects/Earth-Sci Notes/Soil Quality & Waste Management.md",
-    "School/1. Core Subjects/Earth-Sci Notes/Soil Biomes in the Philippines.md",
-    "School/1. Core Subjects/Filipino Notes/Filipino Overview.md",
+    "Scripture Study/D&C/D&C Overview.md",
+    "Postwar Philippine Literature.md",
     "School/1. Core Subjects/Oral Comm/Basic Communication Process.canvas",
-    "School/1. Core Subjects/Earth-Sci Notes/Earth-Sci Overview.md",
-    "School/1. Core Subjects/Oral Comm/Speech Context.md",
-    "School/1. Core Subjects/Filipino Notes/Lingguwistikong Komunidad.md",
-    "School/1. Core Subjects/Filipino Notes/Konsepto ng Wika.md",
-    "School/1. Core Subjects/Oral Comm/Concept of Communication.md",
-    "School/1. Core Subjects/Oral Comm/Communication Noise.md",
-    "School/1. Core Subjects/Oral Comm/Oral Comm Overview.md",
-    "School/1. Core Subjects/Oral Comm/Models of Communication.md",
-    "School/1. Core Subjects/Oral Comm/Functions of Communication.md",
-    "School/1. Core Subjects/Oral Comm/Intercultural Communication.md",
-    "School/1. Core Subjects/Oral Comm/Effective Communication Skills.md",
-    "School/2. Specialized Subjects/Biology Notes/Nitrogenous Bases.png",
-    "Pasted image 20250922161431.png",
     "Untitled",
     "School/1. Core Subjects/Earth-Sci Notes/Solar System Phase.canvas",
     "School/1. Core Subjects/Earth-Sci Notes/Star Life Cycle.canvas",
     "School/1. Core Subjects/Earth-Sci Notes/Big Bang Phases.canvas",
     "School/1. Core Subjects/Filipino Notes/Kasaysayan ng Wika (Visual).canvas",
-    "School/2. Specialized Subjects/Biology Notes/History of Cell Theory.canvas",
     "School/1. Core Subjects/Physical Education Notes",
     "Untitled.base",
     "yes/Untitled.base",
@@ -244,11 +270,8 @@
     "yes/Scripture Study/D&C",
     "yes/Scripture Study/Bible",
     "yes/Scripture Study",
-    "yes/School/3. Applied Subjects/EASP Notes",
-    "yes/School/3. Applied Subjects",
     "yes/School/2. Specialized Subjects/Biology Notes/History of Cell Theory.canvas",
     "yes/School/1. Core Subjects/Oral Comm/Basic Communication Process.canvas",
-    "yes/School/1. Core Subjects/Filipino Notes/Kasaysayan ng Wika.canvas",
-    "yes/School/1. Core Subjects/Earth-Sci Notes/Star Life Cycle.canvas"
+    "yes/School/1. Core Subjects/Filipino Notes/Kasaysayan ng Wika.canvas"
   ]
 }
