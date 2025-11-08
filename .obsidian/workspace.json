@@ -108,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "right": {
     "id": "92796dc1489da261",
@@ -188,8 +187,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -215,7 +214,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "469c57c3db459d11",
   "lastOpenFiles": [
     "School/1. Core Subjects/Gen Math/Gen Math Overview.md",
     "School/1. Core Subjects/Gen Math/Functions/Logarithmic Functions.md",
