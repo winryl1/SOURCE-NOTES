@@ -22,19 +22,8 @@
               "icon": "lucide-file",
               "title": "HOME PAGE"
             }
-          },
-          {
-            "id": "577243117d9b9fc9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +185,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "577243117d9b9fc9",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "HOME PAGE.md",
     "Untitled.md",

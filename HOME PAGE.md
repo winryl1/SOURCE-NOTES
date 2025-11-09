@@ -13,10 +13,6 @@
 - [[Biology Overview]] 
 ## Applied Subjects
 - [[EASP Overview]] 
-# Scripture Study
-- [[Bible Overview]]
-- [[BoM Overview]]
-- [[D&C Overview]]
- 
+
 # Progress Panel
 < -- Not Available -- >
