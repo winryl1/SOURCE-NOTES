@@ -14,7 +14,7 @@
 ## Applied Subjects
 - [[EASP Overview]] 
 # Scripture Study
-- [[Bible Overview]]f
+- [[Bible Overview]]
 - [[BoM Overview]]
 - [[D&C Overview]]
  

@@ -5,3 +5,4 @@
 - [[Logarithmic Functions]]
 - [[Exponential Functions]]
 - [[Rational and Radical Functions]]
+- [[Business & Consumer Loans]] 

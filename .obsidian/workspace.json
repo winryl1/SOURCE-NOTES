@@ -24,61 +24,17 @@
             }
           },
           {
-            "id": "05afb421d8f35548",
+            "id": "577243117d9b9fc9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/2. Specialized Subjects/Biology Notes/Notes/Proteins & Amino Acids.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Proteins & Amino Acids"
-            }
-          },
-          {
-            "id": "b4888f0c256e9b0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/1. Core Subjects/Gen Math/Gen Math Overview.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gen Math Overview"
-            }
-          },
-          {
-            "id": "15afa0c7aa732f5b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/protein-structure-comparison-diagram.png"
-              },
-              "icon": "lucide-image",
-              "title": "protein-structure-comparison-diagram"
-            }
-          },
-          {
-            "id": "f8f71792940f0812",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/2. Specialized Subjects/Biology Notes/Notes/Condensation & Hydrolysis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Condensation & Hydrolysis"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,64 +193,64 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f8f71792940f0812",
+  "active": "577243117d9b9fc9",
   "lastOpenFiles": [
+    "HOME PAGE.md",
+    "Untitled.md",
+    "Trial/standard-works-vault-master/Book of Mormon/2 Nephi 12.12.md",
+    "Trial/standard-works-vault-master/Book of Mormon/2 Nephi 12.11.md",
+    "Trial/standard-works-vault-master/Book of Mormon/2 Nephi 12.10.md",
+    "Trial/standard-works-vault-master/Book of Mormon/2 Nephi 12.1.md",
+    "Trial/standard-works-vault-master/Book of Mormon/2 Nephi 11.8.md",
+    "Trial/standard-works-vault-master/Book of Mormon/2 Nephi 11.7.md",
+    "Trial/standard-works-vault-master/Book of Mormon/2 Nephi 11.6.md",
+    "Trial/standard-works-vault-master/Book of Mormon/2 Nephi 11.5.md",
+    "Trial/standard-works-vault-master/Book of Mormon/2 Nephi 11.4.md",
+    "Trial/standard-works-vault-master/Book of Mormon/2 Nephi 11.3.md",
+    "Trial/standard-works-vault-master/Book of Mormon/2 Nephi 11.2.md",
+    "Trial/standard-works-vault-master/Book of Mormon/2 Nephi 11.1.md",
+    "Trial/standard-works-vault-master/Book of Mormon/2 Nephi 10.9.md",
+    "Trial/standard-works-vault-master/Book of Mormon/2 Nephi 10.8.md",
+    "Trial/standard-works-vault-master/Book of Mormon/2 Nephi 10.7.md",
+    "Trial/standard-works-vault-master/Book of Mormon/2 Nephi 10.6.md",
+    "Trial/standard-works-vault-master/Book of Mormon/2 Nephi 10.5.md",
+    "Trial/standard-works-vault-master/Book of Mormon/2 Nephi 10.4.md",
+    "Trial/standard-works-vault-master/Book of Mormon/2 Nephi 10.3.md",
+    "Trial/standard-works-vault-master/Book of Mormon/2 Nephi 10.25.md",
+    "Trial/standard-works-vault-master/Book of Mormon/2 Nephi 10.24.md",
+    "Trial/standard-works-vault-master/Book of Mormon/2 Nephi 10.23.md",
+    "Trial/standard-works-vault-master/Book of Mormon/2 Nephi 10.22.md",
+    "Trial/standard-works-vault-master/Book of Mormon/2 Nephi 10.21.md",
+    "Trial/standard-works-vault-master/Book of Mormon",
+    "Trial/standard-works-vault-master/LICENSE",
+    "Trial/standard-works-vault-master",
+    "Trial",
+    "2. Specialized Subjects/Biology Notes/Pictures & Diagram/protein-structure-comparison-diagram.png",
+    "2. Specialized Subjects/Biology Notes/Pictures & Diagram/competitive-inhibitor-enzyme-substrate-diagram.png",
     "Untitled.canvas",
     "Untitled.base",
-    "School/2. Specialized Subjects/Biology Notes/Notes/Condensation & Hydrolysis.md",
-    "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/competitive-inhibitor-enzyme-substrate-diagram.png",
-    "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/enzyme-activation-energy-comparison.png",
+    "2. Specialized Subjects/Biology Notes/Pictures & Diagram/enzyme-activation-energy-comparison.png",
     "enzyme-substrate-binding-process.png",
-    "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/enzymes reaction process.jpg",
-    "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/lock-and-key-model-enzyme-action.png",
-    "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/protein-structure-comparison-diagram.png",
-    "School/1. Core Subjects/English & Literature Notes/Postwar Philippine Literature.md",
-    "HOME PAGE.md",
-    "School/1. Core Subjects/Gen Math/Gen Math Overview.md",
-    "School/1. Core Subjects/Gen Math/Functions/Logarithmic Functions.md",
-    "School/2. Specialized Subjects/Biology Notes/Notes/Proteins & Amino Acids.md",
-    "School/2. Specialized Subjects/Biology Notes/Notes/DNA, RNA, Genes.md",
-    "School/2. Specialized Subjects/Biology Notes/Notes/Cellular Respiration.md",
-    "School/2. Specialized Subjects/Biology Notes/Notes/Biology Overview.md",
-    "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/Non-Cyclic.md",
-    "School/2. Specialized Subjects/Biology Notes/Notes/Photosynthesis.md",
-    "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/Cellular Respiration Equation.md",
-    "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/Photosynthesis Equation.md",
-    "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/Cyclic LR.md",
-    "School/2. Specialized Subjects/Biology Notes/Notes/Enzymes.md",
-    "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/induced-fit-model-enzyme-action.png",
-    "School/2. Specialized Subjects/Pre-Cal Notes/Lipids.md",
-    "School/2. Specialized Subjects/Biology Notes/Notes/Carbohydrates.md",
-    "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/protein structure levels.png",
-    "School/2. Specialized Subjects/Biology Notes/Notes/Endocrine System.md",
-    "School/2. Specialized Subjects/Biology Notes/Notes/Chemical Bonding.md",
-    "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/amino-acid-structure-diagram 1.png",
-    "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/amino-acid-structure-diagram.png",
-    "School/2. Specialized Subjects/Biology Notes/Notes/Animal & Plant Cells.md",
-    "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram/History of Cell Theory.canvas",
-    "Scripture Study/D&C/D&C 124.md",
-    "Scripture Study/D&C/D&C 121-123.md",
-    "School/2. Specialized Subjects/Biology Notes/Pictures & Diagram",
-    "School/2. Specialized Subjects/Biology Notes/Notes",
-    "School/2. Specialized Subjects/Biology Notes/Notes/Cell Structures.md",
-    "School/2. Specialized Subjects/Biology Notes/Notes/Organic & Inorganic Molecules.md",
-    "Scripture Study/D&C/D&C 98-101.md",
-    "School/1. Core Subjects/Oral Comm/Basic Communication Process.canvas",
-    "Untitled",
-    "School/1. Core Subjects/Earth-Sci Notes/Solar System Phase.canvas",
-    "School/1. Core Subjects/Earth-Sci Notes/Star Life Cycle.canvas",
-    "School/1. Core Subjects/Earth-Sci Notes/Big Bang Phases.canvas",
-    "School/1. Core Subjects/Filipino Notes/Kasaysayan ng Wika (Visual).canvas",
+    "2. Specialized Subjects/Biology Notes/Pictures & Diagram/enzymes reaction process.jpg",
+    "2. Specialized Subjects/Biology Notes/Pictures & Diagram/lock-and-key-model-enzyme-action.png",
+    "2. Specialized Subjects/Biology Notes/Pictures & Diagram/induced-fit-model-enzyme-action.png",
+    "2. Specialized Subjects/Biology Notes/Pictures & Diagram/protein structure levels.png",
+    "2. Specialized Subjects/Biology Notes/Pictures & Diagram/amino-acid-structure-diagram 1.png",
+    "2. Specialized Subjects/Biology Notes/Pictures & Diagram/amino-acid-structure-diagram.png",
+    "2. Specialized Subjects/Biology Notes/Pictures & Diagram/History of Cell Theory.canvas",
+    "2. Specialized Subjects/Biology Notes/Pictures & Diagram",
+    "2. Specialized Subjects/Biology Notes/Notes",
+    "1. Core Subjects/Oral Comm/Basic Communication Process.canvas",
+    "1. Core Subjects/Earth-Sci Notes/Solar System Phase.canvas",
+    "1. Core Subjects/Earth-Sci Notes/Star Life Cycle.canvas",
+    "1. Core Subjects/Earth-Sci Notes/Big Bang Phases.canvas",
+    "1. Core Subjects/Filipino Notes/Kasaysayan ng Wika (Visual).canvas",
     "School/1. Core Subjects/Physical Education Notes",
     "yes/Untitled.base",
     "yes/Scripture Study/BoM",
-    "yes/Scripture Study/D&C",
-    "yes/Scripture Study/Bible",
-    "yes/Scripture Study",
     "yes/School/2. Specialized Subjects/Biology Notes/History of Cell Theory.canvas",
     "yes/School/1. Core Subjects/Oral Comm/Basic Communication Process.canvas",
     "yes/School/1. Core Subjects/Filipino Notes/Kasaysayan ng Wika.canvas"
