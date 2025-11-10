@@ -1,4 +1,9 @@
-
+---
+Date: 2025-11-10
+tags:
+  - "#biological-molecule"
+class: "[[General Biology]]"
+---
 > [!success] Lipids Overview
 > Biological molecules that contain **Carbon**, **Hydrogen**, **Oxygen**; similar to [[Carbohydrates]] but in **lower proportions**. It is made up of **fatty acids** combined with **alcohol** (usually glycerol) and **insoluble**
 

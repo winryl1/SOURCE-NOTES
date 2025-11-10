@@ -1,3 +1,10 @@
+---
+Date: 2025-11-10
+tags:
+  - cell
+class: "[[General Biology]]"
+---
+
 **Cell theory** is one of the **basic principles of biology**. With the invention of the microscope, scientist were able to discover cells, which later resulted in the formation of cell theory. Cell Theory has 3 [[#Fundamental Tenets/Postulates]] 
 # Fundamental Tenets/Postulates
 1. Living organisms are made up of cells

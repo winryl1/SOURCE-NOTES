@@ -1,3 +1,9 @@
+---
+Date: 2025-11-10
+tags:
+  - "#biological-molecule"
+class: "[[General Biology]]"
+---
 > [!success] Protein Overview
 > **Proteins** are made up of **amino acids**, which are essential macromolecules involved in various functions within living organisms. These amino acids **link via peptide bonds** to form:
 > 1. Dipeptide: 2 amino acids

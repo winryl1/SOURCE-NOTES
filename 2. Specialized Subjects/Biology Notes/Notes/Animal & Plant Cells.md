@@ -1,3 +1,9 @@
+---
+Date: 2025-11-10
+tags:
+  - cell
+class: "[[General Biology]]"
+---
 # Animal Tissues 
 
 ## Types 

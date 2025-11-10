@@ -1,3 +1,9 @@
+---
+Date: 2025-11-10
+tags:
+  - cell
+class: "[[General Biology]]"
+---
 # Prokaryotic Cell 
 ## Binary Fission
 It is an **asexual reproduction** that is performed by separating the body into two new bodies. It is very similar to [[#Mitosis]] but has a different purpose. While Mitosis focuses on growth and replacing old cells, binary fission is how bacteria increases its population. 
@@ -33,9 +39,3 @@ It is a sexual reproduction that involves the union of two male and female gamet
 3. Metaphase II:
 4. Anaphase II:
 5. Telophase & Cytokinesis II: 
-
-350/20
-17.5
-
-350/15
-23

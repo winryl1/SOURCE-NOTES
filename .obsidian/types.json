@@ -3,6 +3,8 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "folder": "datetime"
+    "folder": "datetime",
+    "Date": "date",
+    "classes": "multitext"
   }
 }

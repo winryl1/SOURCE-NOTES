@@ -1,3 +1,9 @@
+---
+Date: 2025-11-10
+tags:
+  - "#biological-molecule"
+class: "[[General Biology]]"
+---
 # DNA & RNA 
 **DNA** (Deoxyribonucleic acid) is a biological molecule that has a **double-stranded helix structure**. **RNA** (Ribonucleic acid) is a biological molecule that has a **single-stranded helix structure**. Both carry the genetic information/instructions for the continuation of life.
 ## Nucleotides

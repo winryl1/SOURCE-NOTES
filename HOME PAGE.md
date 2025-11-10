@@ -10,7 +10,7 @@
 ## Specialized Subjects
 - [[Pre-Cal Overview]] X
 - [[Gen Chem Overview]] X
-- [[Biology Overview]] 
+- [[General Biology]] 
 ## Applied Subjects
 - [[EASP Overview]] 
 

@@ -1,4 +1,4 @@
-
+ 
 > [!Success] Cellular Respiration Overview
 > This refers to the process where the products of Photosynthesis, is broken down into CO<sub>2</sub>, H<sub>2</sub>O, and ATP (Products). This occurs in Mitochondria and Cytoplasm and has an ATP gain:
 > - Theoretical: 36 (Eukaryotes); 38 (Prokaryotes) 

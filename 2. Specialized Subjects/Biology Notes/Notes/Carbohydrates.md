@@ -1,3 +1,9 @@
+---
+Date: 2025-11-10
+tags:
+  - "#biological-molecule"
+class: "[[General Biology]]"
+---
 > [!success]- Definition
 > Organic compounds primarily consisting of **Carbon, Hydrogen, and Oxygen** in a **1:2:1 ratio**.
 > - Name origin: "carbo-" (carbon) + "-hydrate" (water)

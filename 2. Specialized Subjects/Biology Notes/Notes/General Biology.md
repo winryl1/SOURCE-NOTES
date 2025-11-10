@@ -1,4 +1,4 @@
-# Bio 1
+ # Bio 1
 - [[Cell Theory]]
 - [[Cell Structures]]
 - [[Cell Reproduction]]
@@ -9,6 +9,7 @@
 - [[Carbohydrates]]
 - [[Lipids]]
 - [[Proteins & Amino Acids]] 
+- [[Enzymes]]
 - [[Condensation & Hydrolysis]]
 - [[Photosynthesis]]
 - [[Cellular Respiration]] 
