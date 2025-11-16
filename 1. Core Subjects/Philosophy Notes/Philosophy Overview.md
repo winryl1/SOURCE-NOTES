@@ -3,3 +3,5 @@
 - [[Dialectics]] 
 - [[Philosophical Thoughts]] 
 - [[Fallacies]] 
+- [[Ship of Theseus]]
+- [[Subjectivisim]]
