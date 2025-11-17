@@ -1,8 +1,3 @@
-Certainly! Below is a comprehensive, structured, and detailed set of **Markdown-formatted notes** for **Unit 9: The Meaning of Being Human**, based on the content of the uploaded file `[IP-09-1.pdf]`.
-
----
-
-# **UNIT 9: The Meaning of Being Human**  
 ## **II. Key Themes Explored**
 1. **Existentialism**: Theistic vs. Atheistic
 2. **The Search for Meaning** in daily life
@@ -81,13 +76,13 @@ Even small moments—laughing with friends, finishing homework—can hold deep s
 
 #### **Starting Out**  
 > *What do I want in life?*
-
+-
 #### **Learn about It!**
 
 Everyone searches for meaning—some briefly, others their whole lives.
 
 Common approaches:
-- **Carpe Diem** (“Seize the day”) – Live fully in the present
+x- **Carpe Diem** (“Seize the day”) – Live fully in the present
 - **C’est la vie** (“That’s life”) – Accept life’s absurdities with grace
 
 #### **Søren Kierkegaard – Three Stages of Life**

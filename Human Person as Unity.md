@@ -148,9 +148,9 @@ A ship is repaired over time—every plank, sail, and crew member replaced.
   - Could not touch his forehead when asked → **Abstract Knowledge** failed.
   - But instinctively swatted a fly off his forehead → **Embodied Knowledge** worked.
 
-| Type | Definition | Example |
-|------|------------|---------|
-| **Abstract Knowledge** | Conscious response to commands | “Touch your nose.” |
+| Type                   | Definition                                       | Example                                                                  |
+| ---------------------- | ------------------------------------------------ | ------------------------------------------------------------------------ |
+| **Abstract Knowledge** | Conscious response to commands                   | “Touch your nose.”                                                       |
 | **Embodied Knowledge** | Automatic, intuitive, learned through experience | Riding a bike, typing without looking, knowing where the light switch is |
 
 - **The World is Meaningful**:  
