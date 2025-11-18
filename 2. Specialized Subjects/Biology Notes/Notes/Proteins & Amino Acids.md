@@ -10,7 +10,7 @@ class: "[[General Biology]]"
 > 2. Polypeptide: 3+ amino acids
 
 > [!example] Functions 
-> 1. Act as enzymes
+> 1. Act as [[Enzymes]]
 > 2. Form Antibodies
 > 3. Help in Transport
 > 4. Structural Component

@@ -8,8 +8,6 @@ class: "[[General Biology]]"
 > Organic compounds primarily consisting of **Carbon, Hydrogen, and Oxygen** in a **1:2:1 ratio**.
 > - Name origin: "carbo-" (carbon) + "-hydrate" (water)
 > - When heated, sugars yield **carbon and water**
-> - Classification: **Polyhydroxy aldehydes** OR **polyhydroxy ketones**
-
 # Functions Overview
 
 | Function                | Description                                        | Examples                                  |
@@ -19,7 +17,7 @@ class: "[[General Biology]]"
 | **Molecular Transport** | Transport of sugars in organisms                   | Sucrose in plant sap, Glucose in blood    |
 | **Storage**             | Energy storage for later use                       | Starch in plants, Glycogen in animals     |
 | **Cell Recognition**    | Helps cells identify & communicate with each other | Glycolipids on cell surfaces              |
-
+They also serve as raw materials for the synthesis of other biomolecules like [[Proteins & Amino Acids]], [[Lipids]], [[DNA, RNA, Genes]]
 # Classification of Carbohydrates
 ## Simple Carbohydrates (sugars)
 ### Monosaccharides
@@ -42,7 +40,7 @@ class: "[[General Biology]]"
 > - All consumed sugars --> glucose via liver
 > - Found in: sports drinks, blood
 
-> [!info]- Fructose
+> [!info]- Fructose (fruit sugar)
 > - **Sweetest** of all sugars
 > - Found in: fruits, honey, corn syrup
 > - Used as sweetener (needs less amount due to high sweetness)
@@ -50,6 +48,9 @@ class: "[[General Biology]]"
 > [!info]- Galactose
 > - Combined with glucose to form **lactose** (milk sugar)
 > - One of the three major hexoses
+#### Classification (Location of Carbonyl Group)
+ 1. **Polyhydroxy aldehydes**: aldose (C=0 is at the terminal/end)
+ 2. **Polyhydroxy ketones**: ketose (C=0 is at the internal part of the structure)
 #### Isomerism
 
 > [!question] What are Isomers?
@@ -163,29 +164,29 @@ graph LR
 
 # Carbohydrate Metabolism
 ## Key Metabolic Processes
-> [!DEFINITION] **GLYCOLYSIS**
+> [!DEFINITION] GLYCOLYSIS
 > - **Catabolic** breakdown of glucose
 > - Generates **ATP** and **electron carriers** (NADH, FADH₂)
 > - Occurs in **cytoplasm**
 > - **Central pathway** for energy generation
 
 
-> [!DEFINITION] **GLYCOGENESIS**
+> [!DEFINITION] GLYCOGENESIS
 > - **Anabolic** synthesis of **glycogen** from excess glucose
 > - Occurs in **liver and skeletal muscles**
 > - Triggered by **insulin** (after eating)
 
-> [!DEFINITION] **GLYCOGENOLYSIS**
+> [!DEFINITION] GLYCOGENOLYSIS
 > - **Catabolic** breakdown of glycogen → glucose subunits
 > - Triggered by **glucagon** (during starvation/fasting)
 > - Maintains **blood glucose levels**
 
-> [!DEFINITION] **GLUconeogenesis**
+> [!DEFINITION] GLUconeogenesis
 > - **Anabolic** synthesis of **glucose from non-carbohydrate precursors**
 > - Precursors: **lactate, amino acids, glycerol**
 > - Occurs primarily in **liver**
 
-> [!DEFINITION] **PENTose Phosphate Pathway**
+> [!DEFINITION] PENTose Phosphate Pathway
 > - Converts **hexoses → pentoses** (5-carbon sugars)
 > - **Critical for nucleotide synthesis**
 > - Produces **ribose** (RNA) and **deoxyribose** (DNA)

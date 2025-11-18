@@ -5,4 +5,6 @@
 - [[Contextual Communication]]
 - [[Communication Noise]] 
 - [[Effective Communication Skills]]
-- [[Speech Context]] 
+- [[Speech Context]]  
+- [[Speech Styles]]
+- [[Speech Acts]]

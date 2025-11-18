@@ -1,0 +1,91 @@
+# Non-Essential 
+- Alanine (smallest and second most abundant)
+	- Metabolize and clear toxins from body (from breakdown of muscle protein) 
+	- Regulate Blood Sugar and Cholesterol
+	- Energy for muscles and CNS
+	- Important for immune function
+- Asparagine
+	- Brain health
+	- Supports CNS 
+- Aspartic Acid 
+	- Produces other amino acids (methionine, lysine, isoleucine, threonine) and essential enzymes 
+	- Brain development
+	- Accelerate wound healing 
+- Arginine
+	- Boosts nitric oxide production (better Blood pressure and flow)
+	- Accelerate wound healing 
+	- Detoxification of kidneys
+	- Hormonal balance
+	- strong immune system
+- Glycine
+	- wound healing
+	- supplies glucose for energy
+	- aids movements
+	- vision
+	- hearing
+- Glutamine
+	- Most abundant
+	- digestion
+	- cognitive function
+	- immune health
+	- Precursor for glutathione
+- Glutamic Acid
+	- Brain energy
+	- Regulate ammonia levels (in brain)
+- Cysteine (sulfur-containing)
+	- Abundant in beta-keratin 
+		- for nails and hair
+		-  Collagen production 
+	- Component of glutathione
+- Proline
+	- Tissue repair 
+	- Skin regeneration
+	- Prevent arteriosclerosis
+	- Regulate BP
+- Serine
+	- Precursor for Tryptophan
+	- Muscle and Fat metabolism
+	- Immune health
+- Tyrosine
+	- Alleviate hypertension, depression, chronic pain
+
+# Essential 
+- Isoleucine
+	- Highly concentrated in muscles
+	- Immune function
+	- Hemoglobin production
+	- Metabolism 
+- Histidine
+	- Precursor for Histamine (essential for immune response)
+	- Affects digestion
+	- Sexual Function
+	- Sleep-wake cycles
+	- maintains myelin sheath
+- Leucine
+	- Needed for protein synthesis
+	- repairing muscle damage
+	- Regulates Blood sugar
+	- Wound healing 
+	- Produces growth hormones
+- Lysine
+	- Building proteins
+	- Production of hormones and enzymes
+	- Metabolism
+	- Immune function
+	- Skin health
+- Phenylalanine
+	- Precursor for Tyrosine, Adrenaline, Noradrenaline, Dopamine
+- Threonine
+	- Skin health
+	- Fat metabolism
+	- Immune function
+	- Part of structural proteins (collagen and elastin)
+- Methionine
+	- Metabolism
+	- Detoxification
+	- Allows the body to absorb Zinc and Selenium
+- Tryptophan
+	- Precursor for serotonin (regulates appetite, sleep, and mood)
+- Valine
+	- Muscle Growth and Repair 
+	- Metabolism

@@ -1,4 +1,4 @@
- # Bio 1
+# Bio 1
 - [[Cell Theory]]
 - [[Cell Structures]]
 - [[Cell Reproduction]]
