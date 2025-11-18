@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "92796dc1489da261",
@@ -160,8 +159,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -188,13 +187,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "HOME PAGE.md",
     "Communication Strategies.md",
     "1. Core Subjects/Oral Comm/Oral Comm Overview.md",
     "Speech Acts.md",
     "1. Core Subjects/Oral Comm/Effective Communication Skills.md",
     "Speech Styles.md",
     "1. Core Subjects/English & Literature Notes/21st Century Literature Overview.md",
-    "HOME PAGE.md",
     "1. Core Subjects/Oral Comm/Speech Context.md",
     "2. Specialized Subjects/Biology Notes/Notes/General Biology.md",
     "2. Specialized Subjects/Biology Notes/Notes/DNA, RNA, Genes.md",
