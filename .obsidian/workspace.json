@@ -71,12 +71,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Speech Styles.md",
+                "file": "Communication Strategies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Speech Styles"
+              "title": "Communication Strategies"
             }
           }
         ],
@@ -173,12 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Speech Styles.md",
+                "file": "Communication Strategies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Speech Styles"
+              "title": "Outgoing links from Communication Strategies"
             }
           },
           {
@@ -202,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Speech Styles.md",
+                "file": "Communication Strategies.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Speech Styles"
+              "title": "Outline of Communication Strategies"
             }
           },
           {
@@ -245,12 +245,14 @@
   },
   "active": "31053f3ca45c67f1",
   "lastOpenFiles": [
+    "1. Core Subjects/Oral Comm/Oral Comm Overview.md",
+    "Speech Acts.md",
+    "Communication Strategies.md",
+    "1. Core Subjects/Oral Comm/Effective Communication Skills.md",
+    "Speech Styles.md",
     "1. Core Subjects/English & Literature Notes/21st Century Literature Overview.md",
     "HOME PAGE.md",
-    "Speech Styles.md",
-    "1. Core Subjects/Oral Comm/Oral Comm Overview.md",
     "1. Core Subjects/Oral Comm/Speech Context.md",
-    "1. Core Subjects/Oral Comm/Effective Communication Skills.md",
     "2. Specialized Subjects/Biology Notes/Notes/General Biology.md",
     "2. Specialized Subjects/Biology Notes/Notes/DNA, RNA, Genes.md",
     "2. Specialized Subjects/Biology Notes/Notes/Proteins & Amino Acids.md",
@@ -269,8 +271,6 @@
     "1. Core Subjects/Earth-Sci Notes/Earth-Sci Overview.md",
     "1. Core Subjects/Earth-Sci Notes/Soil Biomes in the Philippines.md",
     "1. Core Subjects/Earth-Sci Notes/Soil Quality & Waste Management.md",
-    "2. Specialized Subjects/Biology Notes/Notes/Photosynthesis.md",
-    "1. Core Subjects/Philosophy Notes/Philosophical Thoughts.md",
     "Trial/standard-works-vault-master/Book of Mormon",
     "Trial/standard-works-vault-master/LICENSE",
     "Trial/standard-works-vault-master",
