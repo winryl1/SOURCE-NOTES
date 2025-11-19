@@ -8,3 +8,4 @@
 - [[Speech Context]]  
 - [[Speech Styles]]
 - [[Speech Acts]]
+- [[Communication Strategies]] 
