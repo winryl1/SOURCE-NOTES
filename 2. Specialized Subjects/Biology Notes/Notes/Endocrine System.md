@@ -7,7 +7,7 @@
 ## CNS
 1. Hypothalamus: Controls the function of the Pituitary gland 
 	- Thyrotropin-Releasing Hormone (TRH): controls TSH
-	- Gonadotropin-Releasing Hormone (GnRH): stimulates production of FSH and LH (see [[Reproductive System#Processes (Female)]])
+	- Gonadotropin-Releasing Hormone (GnRH): stimulates production of FSH and LH
 	- Corticotropin-Releasing Hormone (CRH): initiates release of ACTH
 2. Pituitary Gland (Anterior & Posterior): Holds and secretes hormones
 	- Posterior
@@ -22,7 +22,7 @@
 		- Adrenocortiocotropic Hormone (ACTH)
 3. Pineal Gland
 	- Melatonin: affects skin color and sleep cycle
-	- Seratonin: influencing learning, memory, happiness as well as regulating body temperature, sleep, sexual behavior and hunger
+	- Serotonin: influencing learning, memory, happiness as well as regulating body temperature, sleep, sexual behavior and hunger
 ## Torso to Throat 
 1. Thyroid (Master of Hormonal Glands)
 	- Thyroxine (T4) & Triiodothyronine (T3): plays a role in metabolic processes
